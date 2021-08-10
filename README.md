@@ -109,7 +109,7 @@ See also: Product Manager, Technical Writer
 * [Design Systems](https://matthewstrom.com/writing/design-apis/) - In UX, design systems have been taken over, in developer advocacy "DX" is coming, this article goes in depth how to apply this to API documentation
 * [Everything You Know About Web Design Just Changed](https://talks.jensimmons.com/20LmLE/everything-you-know-about-web-design-just-changed) - Jen Simmons seminal talk on the history of design into the digital era (and why CSS is a programming language)
 * [Guide to UX research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/) - Canonical article trying to explain all aspects of UX research
-* [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - 
+* [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech
 * [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google's People + AI Guidebook contains patterns for incorporating AI into product design
 * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/) - Marty Cagan on empowered Feature Teams and the role of "Product Designer"
 * [usability.gov](https://www.usability.gov/what-and-why/user-research.html) - List of user research techniques as part of the US usability standards
@@ -119,7 +119,6 @@ See also: Product Manager, Technical Writer
 * [Web Accessibility Blueprint](https://alistapart.com/article/diy-web-accessibility-blueprint/) - Beth Raduenzel's classic article why accessibility means empathy for everyone and how to build a team around that
 * [What Designers do](https://faculty.washington.edu/ajko/books/design-methods/#/designers) - Amy Ko's Design Methods compendium starts with the role of the designer and has a list of roles they interact with
 * [You got this.](http://www.zeldman.com/2019/05/22/you-got-this/) - Jeff Zeldman motivating all designers to keep learnings new technologies
-Nick Tune on a common design culture in Tech
 
 #### Developer Advocate
 
@@ -227,11 +226,10 @@ See also: Site Reliability Engineer (SRE)
 * [I test in Prod](https://increment.com/testing/i-test-in-production/) - Charity Majors in Increment #10 sporting her famous observability manifesto
 * [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/) - (for comparison) Opinion piece but good insight for more hardware-focused tech roles
 * [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) - For historic reference, famous rant by DHH on TDD
-* [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) - 
+* [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) - Cindy Sridharan's instant classic overarching framework of testing approaches explaining how QA testers fit in with automation
 * [Testing of Microservices](https://engineering.atspotify.com/2018/01/11/testing-of-microservices/) - Spotify reshaped the classic Testing Pyramid into the Microservices Testing Honeycomb
 * [Two kinds of testing](https://blog.nelhage.com/post/two-kinds-of-testing/) - Nelson Elhage's blog has many pearly on testing, this one talks about fuzzing, regression and integration testing
 * [V-Models for Testing](https://insights.sei.cmu.edu/blog/using-v-models-for-testing/) - (for comparison) The V-Model is used in traditional industry quality assurance, fittingly presented by the Software Engineering Institute (SEI)
-Cindy Sridharan's instant classic overarching framework of testing approaches explaining how QA testers fit in with automation
 
 ### Operations
 
@@ -262,13 +260,12 @@ See also: Data Analyst, Software Engineer (SWE)
 * [Data Science vs Data Engineering](https://www.snowflake.com/trending/data-science-vs-data-engineering) - Snowflake's view on data scientists vs data engineers
 * [DBT: A new way to transform data and build pipelines at The Telegraph](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4) - Data Science was first turned into Data Engineering with Notebooks, then ELT Pipelines defined with tools like, this blog shows why such a path might be chosen
 * [Emerging Data Roles: The Analytics Engineer](https://www.datacouncil.ai/blog/emerging-data-roles-the-analytics-engineer) - Was it Michael Kaminsky or Fishtown Analytics who came up with the Analytics Engineer role?
-* [Functional Data Engineering](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a) - 
+* [Functional Data Engineering](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a) - Maxime Beauchemin, creator of Airflow, in his classic piece that defined functional data engineering
 * [How Reporting and Experimentation Fuel Product Innovation at LinkedIn](https://www.youtube.com/watch?v=62JxeIZTc_4) - LinkedIn got famous for data engineering as the birthplace of Kafka and Samza, this old talk gives an overview how the data platform feeds into the product teams
 * [Machine Learning Interviews BookMachine Learning Interview](https://huyenchip.com/ml-interviews-book/) - Chip Huyen's book does never clearly explain roles but has good insights on types of teams and companies for ML roles
 * [Netflix Data Engineer](https://netflixtechblog.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea) - Career path of a Data Engineer at Netflix (see also [this blog of Netflix roles](https://netflixtechblog.com/notebook-innovation-591ee3221233))
 * [PyTorch builds the future of AI and machine learning at Facebook](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/) - Machine Learning Research fused into MLOps over the last years, this is a good history from Facebook how PyTorch emerged (not unsimiliar to [TFX](https://blog.tensorflow.org/2020/09/brief-history-of-tensorflow-extended-tfx.html#Intro) at Google)
 * [We Don't Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles
-Maxime Beauchemin, creator of Airflow, in his classic piece that defined functional data engineering
 
 #### Security Engineer
 
