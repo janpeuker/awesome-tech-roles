@@ -1,27 +1,27 @@
 ## Awesome Tech Roles
 
-Job titles, roles and career paths in Software and Information Technology ("IT", "ICT", "Tech") firms.
+Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms.
 
-This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager. This list ist not a definition but an observation.
+This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager). This list ist not a definition but an observation.
 
 ## Contents
 
 - [Role Overviews](#role-overviews)
-	- [Tech Ladders and other hierarchical progress](#ladders)
-    - [Tech Roles in a team and lateral progress](#roles)
+	- [Tech Ladders and other hierarchical progress](#tech-ladders-and-other-hierarchical-progress)
+    - [Tech Roles in a team and lateral progress](#tech-roles-in-a-team-and-lateral-progress)
     - [Career Management](#career-management)
     - [Interviews](#interviews)
 - [Role Definitions](#role-definitions)
     - [Product](#product)
     - [Operations](#operations)
-    - [Customer-facing, pre-commit](#pre-commit)
-    - [Customer-facing, post-commit](#post-commit)    
+    - [Customer-facing, pre-commit](#customer-facing-pre-commit)
+    - [Customer-facing, post-commit](#customer-facing-post-commit)
 
 ## Role Overviews
 
 Not focused on management overall although some links might lead to it. Instead, see for instance [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme).
 
-### Tech Ladders and other hierarchical progress {#ladders}
+### Tech Ladders and other hierarchical progress
 
 * [Designing Engineering organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) - Classic post highlighting different "matrix" ways of organizing tech teams (conclusion: stable, multi-disciplinary, and product-aligned is a good bet)
 * [Dropbox Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world) - Dropbox Engineering Career Framework also including SRE, TPM etc
@@ -40,7 +40,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [The SWE Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3) - Classic article by Chuck Groom on career ladders for SWE's and how it maps to attributes and company principles (aka "follow the money")
 
 
-### Tech Roles in a team and lateral progress {#roles}
+### Tech Roles in a team and lateral progress
 
 * [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - summary of the instant "classic" book by Nicole Forsgren et al. also talking about empowering teams
 * [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles
@@ -334,7 +334,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 * [Uber's IT Engineering Team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/) - Uber Career Blog interview on their IT Operations team
 * [Why a new kind of work means a new role for IT](https://experience.dropbox.com/resources/the-rise-of-a-new-kind-of-work--and-a-new-kind-of-role-in-it) - Dropbox' Work Culture Blog on how IT becomes an enabler and how this changes hierarchies
 
-### Customer-facing, pre-commit {#pre-commit}
+### Customer-facing, pre-commit
 
 #### Account Manager
 
@@ -389,7 +389,7 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 * [How Google’s Office of the CTO is Redefining Collaboration](https://mission.org/podcast/built-for-innovation-how-googles-office-of-the-cto-is-redefining-collaboration/?) - Podcast with Google Cloud's OCTO with the history and future of the team
 * [VMware OCTO Blog](https://octo.vmware.com/new-way-thinking-origins-vmware-octo-cloud-architecture-team/) - History of VMware's OCTO team and research / whitepaper unit
 
-### Customer-facing, post-commit {#post-commit}
+### Customer-facing, post-commit
 
 #### Integration Engineer / Consultant
 
