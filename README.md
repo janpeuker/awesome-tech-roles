@@ -54,26 +54,26 @@ Not focused on management overall although some links might lead to it. Instead,
 * [The GROW template](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/structure-career-conversations-with-grow/) - The GROW template for structured Career Conversations from Google re:Work
 * [Google's Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans on how to talk to your manager
-* http://www.paulgraham.com/makersschedule.html Paul Graham's classic post on manager schedules
-* https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/ Notes and excerpts from Gerald Weinberg's "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser"
-* https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb Hiring vs Nurturing Managers
-* https://themanagershandbook.com/creating-and-achieving-goals/performance Performance Management and goals from "The Manager's Handbook"
-* https://blog.nukemberg.com/post/talent-is-largely-a-myth/ Long article with good references why talent is largely a myth and how to hire for development
+* [Becoming a Technical Leader](https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/) - Notes and excerpts from Gerald Weinberg's "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser"
+* [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers
+* [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from "The Manager's Handbook"
+* [Talent is largely a myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/) - Long article with good references why talent is largely a myth and how to hire for development
 * [Developer Progression as a function of navigating complexity](https://www.siddharthsarda.com/p/developer-progression-as-a-function) - Siddharth Sarda translating Jessica Kerr's research into developer career progression (complexity is a common career framework attribute)
 * [Performance Achievements](https://www.accenture.com/sg-en/case-studies/about/performance-achievement) - Technical white paper on the HR system also explaining some ideas of an agile performance appraisal process at Accenture
 * [Competency Management](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/human-capital/ZA_Competency_management_at_its_most_competent.pdf) - Deloitte / Development Dimensions International white paper on Competency Management using a Success Profile model
 * [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in the "The Manager's Handbook", see also Self-determination Motivation theory (SDT) and Herzberg’s Motivation and Hygiene Factors
+* [Maker's Schedule](http://www.paulgraham.com/makersschedule.html) - (for historic context) Paul Graham's classic post on manager schedules
 
 ### Interviews
-* https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/ Julia Evans on what to ask as a candidate in interviews
-* https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md Notes and excerpts from Tom DeMarco's "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler"
-* https://cmu-313.github.io/ CMU's course 313 "Foundations of Software Engineering" has a section on "Peopleware", hiring and collaborating as team
-* https://hbr.org/2018/01/how-to-hire Research into How to Hire based on mainly Netflix experience
-* https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/ Hiring for weakness and a manifesto for hiring inexperienced engineers
-* https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics Intervew process from "The Manager's Handbook"
-* https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/ Joel Spolsky's "classic" guide on SWE interviews
-* https://techinterviewhandbook.org/landscape The Tech Interview Handbook preface also covers variations of engineering roles
-* https://www.fastcompany.com/40533276/stop-confusing-your-job-skills-with-your-credentials-and-do-this-instead Separating skills (also known as capacity, competence or capability) from credentials
+* [Questions I'm asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews
+* [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco's "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler"
+* [CMU 313](https://cmu-313.github.io/) - CMU's course 313 "Foundations of Software Engineering" has a section on "Peopleware", hiring and collaborating as team
+* [HBR How to Hire](https://hbr.org/2018/01/how-to-hire) - Research into How to Hire based on mainly Netflix experience
+* [Hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - Hiring for weakness and a manifesto for hiring inexperienced engineers
+* [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Intervew process from "The Manager's Handbook"
+* [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's "classic" guide on SWE interviews
+* [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles
+* [Competence over Credentials](https://www.fastcompany.com/40533276/stop-confusing-your-job-skills-with-your-credentials-and-do-this-instead) - Separating skills (also known as capacity, competence or capability) from credentials
 * [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews
 * [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms
 
