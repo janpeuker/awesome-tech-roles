@@ -1,14 +1,27 @@
-# awesome-tech-roles
-Job roles and career paths in Software and Information Technology ("Tech") firms.
-# Awesome Tech Roles
+## Awesome Tech Roles
 
-Job titles, roles and career paths in Software and Information Technology ("IT", "ICT", "Tech") firms. This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager).
+Job titles, roles and career paths in Software and Information Technology ("IT", "ICT", "Tech") firms.
+
+This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager. This list ist not a definition but an observation.
+
+## Contents
+
+- [Role Overviews](#role-overviews)
+	- [Tech Ladders and other hierarchical progress](#ladders)
+    - [Tech Roles in a team and lateral progress](#roles)
+    - [Career Management](#career-management)
+    - [Interviews](#interviews)
+- [Role Definitions](#role-definitions)
+    - [Product](#product)
+    - [Operations](#operations)
+    - [Customer-facing, pre-commit](#pre-commit)
+    - [Customer-facing, post-commit](#post-commit)    
 
 ## Role Overviews
 
 Not focused on management overall although some links might lead to it. Instead, see for instance [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme).
 
-### Tech Ladders and other hierarchical progress
+### Tech Ladders and other hierarchical progress {#ladders}
 
 * [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder 
 * [Dropbox Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world) - Dropbox Engineering Career Framework also including SRE, TPM etc
@@ -27,7 +40,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Engineering manager archetypes and career paths](https://leaddev.com/leadership-skills/engineering-manager-archetypes-and-career-paths) - Charity Majors has a lot of great advice on IC to manager (and back) switch - this is a great summary but sadly behind a weird spam-wall
 
 
-### Tech Roles in a team and lateral progress
+### Tech Roles in a team and lateral progress {#roles}
 
 * [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles
 * [Staff Engineer](https://staffeng.com/guides/staff-archetypes) -  Will Larson's Staff Engineer book and "StaffEng" blog talks about the career towards 4 archetypes of staff engineer roles: Tech Lead, Architect, Solver and Right Hand
@@ -322,7 +335,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 * [Salesforce Admin](https://www.salesforce.com/ap/blog/2021/06/what-is-a-salesforce-admin.html) - Even SaaS platforms like Salesforce need admins, this is a good overview on the Sys Admin role
 
 
-### Customer-facing, pre-commit
+### Customer-facing, pre-commit {#pre-commit}
 
 #### Account Manager
 
@@ -377,7 +390,7 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 * [Chief Transformation Officer](https://www.mckinsey.com/business-functions/rts/our-insights/the-role-of-the-chief-transformation-officer) - During a Digital Transformation, a Chief Transformation Offer drives the strategy - says McKinsey
 * [Accenture Tech Vision](https://www.accenture.com/sg-en/insights/technology/technology-trends-2019) - (for comparison) Tech consultancies and system integrators move up the value chain by pushing into strategy, [ThoughtWorks Radar](https://www.thoughtworks.com/radar) and Accenture Digital were one of the first to form these research units
 
-### Customer-facing, post-commit
+### Customer-facing, post-commit {#post-commit}
 
 #### Integration Engineer / Consultant
 
