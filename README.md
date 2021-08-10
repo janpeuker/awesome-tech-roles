@@ -11,7 +11,7 @@ This list does not cover industry enterprises, consulting firms, managed service
     - [Tech Roles in a team and lateral progress](#tech-roles-in-a-team-and-lateral-progress)
     - [Career Management](#career-management)
     - [Interviews](#interviews)
-- [Role Definitions](#role-definitions)
+- [Role Descriptions](#role-descriptions)
     - [Product](#product)
     - [Operations](#operations)
     - [Customer-facing, pre-commit](#customer-facing-pre-commit)
@@ -91,7 +91,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews
 
 
-## Role Definitions
+## Role Descriptions
 
 Similar to: Jobs, Designations, Ladders
 
