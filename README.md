@@ -308,6 +308,7 @@ See also: Support Operations, IT Operations
 * [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team’s maturity in the Google Blog 
 * [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams"
 * [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps
+* [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry
 * [Jez Humble's DevOps insights](https://newrelic.com/blog/best-practices/devops-jez-humble) - For historic context one of the earlier talks by Jez Humble in the New Relic blog
 * [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early
 * [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones' legendary blog post and YouTube video series explaining SRE
