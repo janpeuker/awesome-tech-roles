@@ -42,7 +42,7 @@ Not focused on management overall although some links might lead to it. Instead,
 
 ### Tech Roles in a team and lateral progress
 
-* [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - summary of the instant "classic" book by Nicole Forsgren et al. also talking about empowering teams
+* [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams
 * [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles
 * [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch’s extension of Conway's Law or “strategy drives structure”
 * [Conway's Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway's Law and ThoughtWorks' Inverse Conway Maneuver to avoid having the organization become the product
@@ -57,7 +57,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Staff Engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - Amy Unger describing the sphere of influence of a staff engineer helps understand relationships to other roles
 * [Staff Engineer](https://staffeng.com/guides/staff-archetypes) -  Will Larson's Staff Engineer book and "StaffEng" blog talks about the career towards 4 archetypes of staff engineer roles: Tech Lead, Architect, Solver and Right Hand
 * [Startup Engineering Teams](https://increment.com/teams/how-to-build-a-startup-engineering-team/) - Increment #11 on how to structure teams in startups
-* [Team Topologies](https://teamtopologies.com/key-concepts) - instant "classic" book that introduced the notions of stream-aligned-, enabling-, subsysteam- and platform-team
+* [Team Topologies](https://teamtopologies.com/key-concepts) - instant classic book that introduced the notions of stream-aligned-, enabling-, subsysteam- and platform-team
 * [The Passionate Programmer](https://medium.com/pragmatic-programmers/avoid-waterfall-career-planning-6280dc50a99d) - Excerpt from Chad Fowlers "The Passionate Programmer" on long-term career progression and change
 
 ### Career Management
@@ -80,7 +80,7 @@ Not focused on management overall although some links might lead to it. Instead,
 ### Interviews
 * [CMU 313](https://cmu-313.github.io/) - CMU's course 313 "Foundations of Software Engineering" has a section on "Peopleware", hiring and collaborating as team
 * [Competence over Credentials](https://www.fastcompany.com/40533276/stop-confusing-your-job-skills-with-your-credentials-and-do-this-instead) - Separating skills (also known as capacity, competence or capability) from credentials
-* [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's "classic" guide on SWE interviews
+* [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's classic guide on SWE interviews
 * [HBR How to Hire](https://hbr.org/2018/01/how-to-hire) - Research into How to Hire based on mainly Netflix experience
 * [Hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - Hiring for weakness and a manifesto for hiring inexperienced engineers
 * [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Intervew process from "The Manager's Handbook"
@@ -116,7 +116,7 @@ See also: Product Manager, Technical Writer
 * [USDS Digital Services Playbook](https://playbook.cio.gov/#play3) - Digital Services Playbook highlighting the focus on Make it simple and intuitive with a reference to the U.S. Web Design System
 * [User Experience at Spotify](https://productschool.com/blog/product-management-2/spotify-user-experience/) - Interview on product management at Spotify
 * [UX Research in Google Design](https://design.google/jobs/ux-researcher/) - Google Design has a lot of resources including role descriptions e.g. for UX Research
-* [Web Accessibility Blueprint](https://alistapart.com/article/diy-web-accessibility-blueprint/) - Beth Raduenzel's "classic" article why accessibility means empathy for everyone and how to build a team around that
+* [Web Accessibility Blueprint](https://alistapart.com/article/diy-web-accessibility-blueprint/) - Beth Raduenzel's classic article why accessibility means empathy for everyone and how to build a team around that
 * [What Designers do](https://faculty.washington.edu/ajko/books/design-methods/#/designers) - Amy Ko's Design Methods compendium starts with the role of the designer and has a list of roles they interact with
 * [You got this.](http://www.zeldman.com/2019/05/22/you-got-this/) - Jeff Zeldman motivating all designers to keep learnings new technologies
 Nick Tune on a common design culture in Tech
@@ -147,13 +147,13 @@ See also: Program Manager, Developer Advocate, Designer
 * [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky
 * [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering
 * [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (for comparison) Explains the Business Analyst role in a public service / government org
-* [Evolution of the Product Manager](https://queue.acm.org/detail.cfm?id=2683579) - classic ACM research developing a curriculum and competency matrix for different types of PM's
+* [Evolution of the Product Manager](https://queue.acm.org/detail.cfm?id=2683579) - Classic ACM research developing a curriculum and competency matrix for different types of PM's
 * [GSA TBM Playbook](https://tech.gsa.gov/playbooks/tbm/) - (for comparison) Explains how to start Technology Business Management in a traditional org
 * [Hashicorp's culture](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation) - Chief of Staff Kevin Fishner shows how systems, products and documentation fit together
 * [Product Hunt PRD](https://uxpin.medium.com/how-to-write-a-painless-product-requirements-document-508ff6807b4a) - Product Hunt's simple and concise Product Requirements Document (PRD) is still a high bar
 * [Product Management as Discovery](https://lethain.com/intro-product-management/) - Will Larson's introduction into product management and the problem discovery, problem selection and solution validation loop
 * [Product Manager x Product Owner](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's Agile knowledge base
-* [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's "classic" essay defining the product manager
+* [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's classic essay defining the product manager
 * [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation
 * [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's - this is a resource list
 * [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton's podcast with Michael Siliski comparing Stripe and Google's product approach
