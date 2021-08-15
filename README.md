@@ -49,7 +49,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - Bruce Webster coined the Dead Sea Effect for the Tech version of the Peter Principle aka Dilbert Principle
 * [Expert Beginner Problem](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Erik Dietrich introduced the term "Expert Beginner" for a dead-end in learning progress
 * [Freedom at work](https://medium.com/@chadfowler/clone-yourself-the-step-by-step-guide-to-finding-freedom-at-work-11fdccf2f50b) - Chad Fowler on working towards a career goal like building a startup
-* [Jeff Bezos' API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today
+* [Jeff Bezos' API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today e.g. [this recent HBR article on API's between teams](https://hbr.org/2021/04/apis-arent-just-for-tech-companies)
 * [Learn Software Development Toolkit](https://www.techwell.com/hub-takover/lean-software-development-agile-toolkit) - Interview with Mary Poppendieck author of "Leading Lean Software Development" on how Lean may fight against the organization
 * [Managing with Context, not control](https://awspyker.medium.com/managing-with-context-not-control-2a5643386ecd) - Netflix famous people over process culture defining managers as "glue" (see below)
 * [Next Generation Organization](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300) - Simon Wardley's research on next generation organizations including team structures formed by swarming (also see [Adhocracy](https://www.mckinsey.com/business-functions/organization/our-insights/adhocracy-for-an-agile-age))
@@ -144,6 +144,7 @@ Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analy
 See also: Program Manager, Developer Advocate, Designer
 
 * [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky
+* [A product managers' guide to API's](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API's as product (see above Jeff Bezos' API Mandate and below Developer Experience)
 * [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering
 * [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (for comparison) Explains the Business Analyst role in a public service / government org
 * [Evolution of the Product Manager](https://queue.acm.org/detail.cfm?id=2683579) - Classic ACM research developing a curriculum and competency matrix for different types of PM's
@@ -253,7 +254,7 @@ Similar to: Machine Learning Engineer, Analytics Engineer
 See also: Data Analyst, Software Engineer (SWE)
 
 * [Coding habits for data scientists](https://www.thoughtworks.com/en-us/insights/blog/coding-habits-data-scientists) - ThoughtWorks on the edge between data science and engineering
-* [Data as a Product in Data Meshes](https://martinfowler.com/articles/data-mesh-principles.html#DataAsAProduct) - Zhamak Dehghani coined the term data mesh and with that also new roles, Data Product Managers and Data Platform Teams (see Team Topologies)
+* [Data as a Product in Data Meshes](https://martinfowler.com/articles/data-mesh-principles.html#DataAsAProduct) - Zhamak Dehghani coined the term data mesh and with that also new roles, Data Product Managers and Data Platform Teams and the [DataOps Manifesto](https://dataopsmanifesto.org/en/) (see Team Topologies)
 * [Data First at Grab](https://engineering.grab.com/data-first-sla-always) - Blog from Grab (Steve Yegge [their ML ops automation is a competitive advantage](https://steve-yegge.medium.com/saying-goodbye-to-the-best-gig-i-ever-had-a33736833c1e)) on their Data Engineering SLA's
 * [Data Observability](https://towardsdatascience.com/data-observability-the-next-frontier-of-data-engineering-f780feb874b) - Barr Moses seminal blog post of the cross-section of SRE and Data Engineering - see also [Uber's Operational Excellence and Data Quality Effort](https://eng.uber.com/operational-excellence-data-quality/)
 * [Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes](https://blog.kubeflow.org/mlops/) - MLOps is a new subgenre of data engineering, this blog from Kubeflow shows how GitOps and ML interact
@@ -306,6 +307,7 @@ See also: Support Operations, IT Operations
 * [7 Lessons From 10 Outages](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - How life really is [on-call](https://increment.com/on-call) explained in The Downtime Project's podcast
 * [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer)
 * [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team’s maturity in the Google Blog 
+* [DevOps, SRE and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/) - Tweet unroll of the difference between Software Development, DevOps, SRE and towards Platform Engineering
 * [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams"
 * [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps
 * [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry
@@ -322,6 +324,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 
 * [Dropbox Datacenter automation](https://dropbox.tech/infrastructure/covid-19-one-year-later) - Dropbox famously moved large workloads back from AWS into their own datacenter - here are some post-pandemic examples what tasks this meant they had to manage
 * [DWP Digital](https://dwpdigital.blog.gov.uk/2020/10/29/the-best-move-i-ever-made-my-career-change-to-infrastructure-services/) - (for comparison) Explains Infrastructure Services in a public service / government org which is often hardware based e.g. networking
+* [Evoling ThoughtWorks internal IT](https://www.thoughtworks.com/en-sg/insights/blog/evolving-thoughtworks-internal-it-solve-broader-cross-cutting-problems) - Nice insight, more from consulting background but applicable to Tech as well
 * [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA) - Stephanie Wong's YouTube video won numerous accolades and become the canonical reference for data center DevSecOps
 * [How Google and Amazon scale up their huge IT operations](https://www.computerworld.com/article/2486298/here-s-how-google-and-amazon-scale-up-their-huge-it-operations.html) - Insight into hyperscalers' economies of scale in data center operations
 * [Lean at Amazon](https://www.mckinsey.com/business-functions/operations/our-insights/when-toyota-met-e-commerce-lean-at-amazon) - For better or worse, Amazon is known for ruthless operational excellence including writing custom IT operations software (another good example is [McDonald's](https://aws.amazon.com/blogs/enterprise-strategy/revisiting-buy-vs-build-drawing-the-line/))
