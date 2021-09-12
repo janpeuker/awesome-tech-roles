@@ -124,7 +124,7 @@ See also: Product Manager, Technical Writer
 
 Similar to: Evangelist, Developer Relations (DevRel), Developer Experience, Solution Architect, Open Source Relations, Product Strategist, Customer Insight, Customer Empathy
 
-See also: Trainer, Technical Writer
+See also: Solution Architect, Trainer, Technical Writer
 
 * [A Primer on Developer Marketing](https://tomwentworth.com/2016/10/13/a-primer-on-developer-marketing-47d792d67586/) - Tom Wentworth on how to create shared sense of purpose in a community
 * [Developer Advocacy at Hashicorp](https://www.hashicorp.com/blog/how-hashicorp-does-developer-advocacy) - Hashicorp is famous for great developer focus,here are their principles
@@ -165,7 +165,7 @@ See also: Program Manager, Developer Advocate, Designer
 
 #### Project Manager
 
-Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TgPM), Consultant
+Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TPgM), Consultant
 
 See also: Product Manager (PM)
 
