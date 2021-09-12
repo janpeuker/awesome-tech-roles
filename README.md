@@ -153,7 +153,7 @@ See also: Program Manager, Developer Advocate, Designer
 * [Product Hunt PRD](https://uxpin.medium.com/how-to-write-a-painless-product-requirements-document-508ff6807b4a) - Product Hunt's simple and concise Product Requirements Document (PRD) is still a high bar
 * [Product Management as Discovery](https://lethain.com/intro-product-management/) - Will Larson's introduction into product management and the problem discovery, problem selection and solution validation loop
 * [Product Manager vs Product Owner](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d) - Melissa Perri's classic article tracing the history from business analyst to product manager
-* [Product Manager x Product Owner](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's Agile knowledge base
+* [Agile Product Manager](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's knowledge base which is naturally biased towards enterprise agile
 * [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's classic essay defining the product manager
 * [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation
 * [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's - this is a resource list
@@ -171,6 +171,7 @@ Similar to: Program Manager, Project Portfolio Manager, Technical Program Manage
 See also: Product Manager (PM)
 
 * [4 Types of Work in the Phoenix Project](https://uptakedigital.zendesk.com/hc/en-us/articles/115000524374-4-Types-of-Work-in-IT-The-Phoenix-Project-) - Highly influential, "The Phoenix project" book introduced the 4 types of work model
+* [An epic treatise on scheduling](https://apenwarr.ca/log/20171213) - _Extremely_ long classic read on agile project management, bug triage, feature prioritization and dependencies
 * [A world-class TPM team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/) - overview over a modern, well-functioning Technical Program Manager (TPM) function at Doordash
 * [Entropy Crushers](https://medium.com/@rands/entropy-crushers-fd552252dfff#.7gun031xi) - Slightly rant-y homage to project managers and the distinction to product managers
 * [Larry Page the untold story](https://www.businessinsider.com/larry-page-the-untold-story-2014-4) - History how Google fired all project managers after which chaos ensued
