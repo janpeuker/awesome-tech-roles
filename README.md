@@ -152,6 +152,7 @@ See also: Program Manager, Developer Advocate, Designer
 * [Hashicorp's culture](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation) - Chief of Staff Kevin Fishner shows how systems, products and documentation fit together
 * [Product Hunt PRD](https://uxpin.medium.com/how-to-write-a-painless-product-requirements-document-508ff6807b4a) - Product Hunt's simple and concise Product Requirements Document (PRD) is still a high bar
 * [Product Management as Discovery](https://lethain.com/intro-product-management/) - Will Larson's introduction into product management and the problem discovery, problem selection and solution validation loop
+* [Product Manager vs Product Owner](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d) - Melissa Perri's classic article tracing the history from business analyst to product manager
 * [Product Manager x Product Owner](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's Agile knowledge base
 * [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's classic essay defining the product manager
 * [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation
@@ -350,6 +351,7 @@ See also: Sales Engineer, Technical Account Manager
 * [Sales Pitch Guide](https://close.com/sales-pitch/) - A guide on the art of the pitch
 * [Salesforce State of Sales Report](https://www.salesforce.com/news/stories/the-fourth-state-of-sales-report-shows-how-teams-adapt-to-a-new-selling-landscape/) - Modelled after the State of DevOps report, this research survey shows how account management changed post-pandemic
 * [Stakeholder Mapping](https://miro.com/blog/stakeholder-mapping/) - Stakeholder Mapping and Go-To-Market is one of the most important functions of an Account Manager
+* [Types of Bonuses](https://www.glassdoor.com/blog/types-of-bonuses/) - Good summary from Glassdoor showing different incentive structures between sales (pre-commit) and other teams
 * [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function
 
 #### Sales Engineer
@@ -373,6 +375,7 @@ See also: Sales Engineer, Technical Account Manager
 
 * [Accenture Career Blog](https://www.accenture.com/us-en/blogs/blogs-technical-architect-careers) - (for comparison) Explaining the Technology Architect role for Consulting / Service Provider / Service Delivery firms which usually focuses on projects, not products
 * [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Awesome list of general software architecture resources which (sadly) is mostly _not_ connected to the term "architect"
+* [Databricks Economic Benefits](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) - Advertorial but a good example how many product / platform companies move up the value chain to management consulting e.g. Databricks with their Resident Solution Architect which is more similar to a TAM or CSM
 * [Problems with Solution Selling](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/whats-wrong-with-solutions-selling-and-how-to-put-it-right) - Account managers are usually value or challenger selling because solution and product selling is more complex which makes commercials harder
 * [SAP Solution Blog](https://blogs.sap.com/2014/05/25/from-developer-to-solution-architect-essential-skills-for-climbing-the-it-professional-ladder/) - (for comparision) Explaining Solution Architects for ISV / SaaS solution providers, focused on long-term system design while customers and consultants customize their product
 * [Solution Architect — Who Am I?](https://osapishchuk.medium.com/solution-architect-who-am-i-bb54a9451a10) - Solution Archicture is a term used very differently in industry (Enterprise Architecture), Services Delivery / Professional Services / System Integration (Project Scoping / Planning) and SaaS / Consumption business / pay-as-you-go - this explains the latter and explains the career path
