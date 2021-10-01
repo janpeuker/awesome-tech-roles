@@ -76,6 +76,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [The GROW template](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/structure-career-conversations-with-grow/) - The GROW template for structured Career Conversations from Google re:Work
 * [The Manager's Path](https://www.welcometothejungle.com/en/articles/btc-manager-path-camille-fournier) - Behind the Code summary of Camille Fournier's "The Manager's Path"
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans on how to talk to your manager
+* [Writing the roadmap from engineer to manager](https://stackoverflow.blog/2021/09/17/podcast-376-writing-the-roadmap-from-engineer-to-manager/) - Stack Overflow podcast featuring amongst others Sarah Drasner, author of "Engineering Management for the Rest of Us"
 * [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in the "The Manager's Handbook", see also Self-determination Motivation theory (SDT) and Herzberg’s Motivation and Hygiene Factors
 
 ### Interviews
@@ -113,7 +114,7 @@ See also: Product Manager, Technical Writer
 * [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech
 * [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google's People + AI Guidebook contains patterns for incorporating AI into product design
 * [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/) - Marty Cagan on empowered Feature Teams and the role of "Product Designer"
-* [usability.gov](https://www.usability.gov/what-and-why/user-research.html) - List of user research techniques as part of the US usability standards
+* [usability.gov](https://www.usability.gov/what-and-why/user-research.html) - List of user research techniques as part of the US usability standards e.g. [Peter Morville's User Experience Honeycomb](https://www.usability.gov/what-and-why/user-experience.html)
 * [USDS Digital Services Playbook](https://playbook.cio.gov/#play3) - Digital Services Playbook highlighting the focus on Make it simple and intuitive with a reference to the U.S. Web Design System
 * [User Experience at Spotify](https://productschool.com/blog/product-management-2/spotify-user-experience/) - Interview on product management at Spotify
 * [UX Research in Google Design](https://design.google/jobs/ux-researcher/) - Google Design has a lot of resources including role descriptions e.g. for UX Research
@@ -157,7 +158,8 @@ See also: Program Manager, Developer Advocate, Designer
 * [Agile Product Manager](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's knowledge base which is naturally biased towards enterprise agile
 * [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's classic essay defining the product manager
 * [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation
-* [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's - this is a resource list
+* [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's and [Product Design](https://productschool.com/blog/product-management-2/product-design-definition/
+) - this is a resource list
 * [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton's podcast with Michael Siliski comparing Stripe and Google's product approach
 * [Project to Product](https://projecttoproduct.org/solutions/) - (for comparison) Book and approach ("The Flow Framework" blueprint) often used in traditional industry to move from project to product
 * [RFC's as decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb) - Juan Pablo Buriticá on how RFC's can bridge between Engineering and Product and help include everyone
@@ -180,6 +182,7 @@ See also: Product Manager (PM)
 * [PMO: From Technology Spectator to Enterprise Enabler](https://aws.amazon.com/blogs/enterprise-strategy/the-project-management-office-from-technology-spectator-to-enterprise-enabler/) - Opinion piece on the Project Management Office (PMO)'s changed role 
 * [Products over Projects](https://martinfowler.com/articles/products-over-projects.html#ChallengesOfOperatingInProduct-mode) - (for comparison) Product vs Project organizations and the strengths of both models
 * [Project Management in 2021](https://monday.com/blog/project-management/guide-to-project-management/) - Long blog post on modern project management (advertorial but good references)
+* [Project Management in Tech](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - Gergely Orosz summarizing the heterogenous project and product management approaches in big tech firms
 * [Self-organizing teams](https://leaddev.com/culture-engagement-motivation/art-self-organizing-engineering-teams) - (for comparison) aspects of self-organizing teams and how the (project) manager role changes
 * [Uber Freight Technology Team](https://www.uber.com/en-SG/blog/meet-the-team-uber-freight-technology/) - Interview with a whole technology team giving a good overview how program manager, engineer and data science work together - see also ["Navigating the TPM team"](https://eng.uber.com/tpm-and-learning-team/)
 * [Using Domain-Driven Design for autonomous teams](https://www.agilealliance.org/resources/experience-reports/towards-autonomous-aligned-teams-with-domain-driven-design/) - (for comparison) how bounded contexts can be used to reduce communication overhead between teams
