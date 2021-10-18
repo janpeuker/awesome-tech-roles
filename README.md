@@ -247,6 +247,7 @@ Similar to: Data Scientist, Business Intelligence Analyst, Quantitative Research
 See also: Data Engineer, Support Operations, Trust and Safety Analysts
 
 * [Data Analyst Career Path](https://www.northeastern.edu/graduate/blog/data-analyst-career-path/) - Advertorial but a good overall overview on data analyst roles
+* [Data Analyst Driven Organization](https://cloud.google.com/blog/products/data-analytics/building-the-data-analyst-driven-organization) - Part of a Google Cloud blog series explaining different roles in different organizations, also has [Data Engineering](https://cloud.google.com/blog/products/data-analytics/building-the-data-engineering-driven-organization)
 * [Data Analyst vs Data Science vs ML](https://towardsdatascience.com/data-analyst-vs-data-scientist-2534fc1057c3) - Difference between "business" data analyst and data science ("statistician") roles also explaining why ML as technique typically called "engineer"
 * [Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6) - Breaking down data science work alongside insights, pipelines, experimentation and modeling
 * [Go-Jek's Data Science Team](https://www.gojek.io/blog/working-in-the-central-analytics-and-science-team) - Difference between Business and Data Analyst and Data Scientists
