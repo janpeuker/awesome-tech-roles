@@ -29,7 +29,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548) - ACM research article by Kate Matsudaira on steps from team lead to CxO
 * [GitLab Job Families](https://about.gitlab.com/job-families/) - GitLab's overview of all job families, their whole management framework is openly accessible
 * [Importance of Career Laddering](https://css-tricks.com/the-importance-of-career-laddering/) - Netlify's career ladder by Sarah Drasner which became career-ladders.dev
-* [Irrational Exuberance](https://lethain.com/career-levels-and-more/) - Will Larson on career levels on top of designations
+* [Irrational Exuberance](https://lethain.com/career-levels-and-more/) - Will Larson on career levels on top of designations - good to compare with [Finding the right company](https://lethain.com/finding-the-right-company/)
 * [Jorge Fioranelli's Ladder Framework](https://github.com/jorgef/engineeringladders) - A Github repo with a complete career management framework along 5 axes
 * [levels.fyi](https://www.levels.fyi/blog/swe-level-framework.html) - Common attributes of the Engineering career ladder in a standard framework
 * [Microsoft Disciplines and Professions](https://careers.microsoft.com/professionals/us/en/professions) - Microsoft's breakdown of their job families into disciplines and professions
@@ -74,7 +74,8 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from "The Manager's Handbook"
 * [Talent is largely a myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/) - Long article with good references why talent is largely a myth and how to hire for development
 * [The GROW template](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/structure-career-conversations-with-grow/) - The GROW template for structured Career Conversations from Google re:Work
-* [The Manager's Path](https://www.welcometothejungle.com/en/articles/btc-manager-path-camille-fournier) - Behind the Code summary of Camille Fournier's "The Manager's Path"
+* [The Making of a Manager](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/) - Julie Zhuo's "The Making of a Manager" is classic of career and team development - especially self-awareness is good for everyone
+* [The Manager's Path](https://www.welcometothejungle.com/en/articles/btc-manager-path-camille-fournier) - Behind the Code summary of Camille Fournier's instant classic "The Manager's Path"
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans on how to talk to your manager
 * [Writing the roadmap from engineer to manager](https://stackoverflow.blog/2021/09/17/podcast-376-writing-the-roadmap-from-engineer-to-manager/) - Stack Overflow podcast featuring amongst others Sarah Drasner, author of "Engineering Management for the Rest of Us"
 * [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in the "The Manager's Handbook", see also Self-determination Motivation theory (SDT) and Herzberg’s Motivation and Hygiene Factors
@@ -88,6 +89,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Intervew process from "The Manager's Handbook"
 * [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco's "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler"
 * [Questions I'm asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews
+* [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format
 * [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles
 * [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms
 * [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews
@@ -196,6 +198,7 @@ See also: Trainer, Developer Advocate
 * [Document Culture at Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - Understand how long-form documents enable a shared understanding between DevRel, PM and Technical Writers
 * [Documentation as Application](https://www.writethedocs.org/videos/portland/2020/documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul/) - Stripe's Ryan Paul on documentation as interactive content
 * [Google Developers Technical Writing Course](https://developers.google.com/tech-writing) - Free Course as part of Google's Developer Training on technical writing, check the one on [inclusion](https://developers.google.com/style/inclusive-documentation)
+* [Leading through Writing](https://leaddev.com/communication-relationships/leading-through-writing-software-engineering) - Amy Nguyen's writing tips not only for documentation but beyond that for team updates, casual communication and more
 * [Notes on technical writing](https://mkaz.blog/misc/notes-on-technical-writing/) - List of best practices, not exactly a role description but goes into tasks
 * [STC](https://www.stc.org/about-stc/defining-technical-communication/) - The Society for technical communication defining Technical Communication
 * [Technical Writer at Netlify](https://career-ladders.dev/docs/#technical-writer-i) - Technical Writer in Netlify's Career Ladder
