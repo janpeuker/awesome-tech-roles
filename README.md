@@ -75,6 +75,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from "The Manager's Handbook"
 * [Talent is largely a myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/) - Long article with good references why talent is largely a myth and how to hire for development
 * [The GROW template](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/structure-career-conversations-with-grow/) - The GROW template for structured Career Conversations from Google re:Work
+* [Take jobs that make you grow](https://letterstoanewdeveloper.com/2021/08/02/take-jobs-that-help-you-grow/) - The "Letters to a new developer" blog has a lot of great posts, this is a good one to balance the benefit of being "glue" (see below)
 * [The Making of a Manager](https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/) - Julie Zhuo's "The Making of a Manager" is classic of career and team development - especially self-awareness is good for everyone
 * [The Manager's Path](https://www.welcometothejungle.com/en/articles/btc-manager-path-camille-fournier) - Behind the Code summary of Camille Fournier's instant classic "The Manager's Path"
 * [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans on how to talk to your manager
@@ -150,7 +151,7 @@ See also: Program Manager, Developer Advocate, Designer
 
 * [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky
 * [A product managers' guide to API's](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API's as product (see above Jeff Bezos' API Mandate and below Developer Experience)
-* [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering
+* [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering (see above "Take jobs that make you grow")
 * [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (for comparison) Explains the Business Analyst role in a public service / government org
 * [Evolution of the Product Manager](https://queue.acm.org/detail.cfm?id=2683579) - Classic ACM research developing a curriculum and competency matrix for different types of PM's
 * [GSA TBM Playbook](https://tech.gsa.gov/playbooks/tbm/) - (for comparison) Explains how to start Technology Business Management in a traditional org
