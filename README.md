@@ -91,12 +91,13 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's classic guide on SWE interviews
 * [HBR How to Hire](https://hbr.org/2018/01/how-to-hire) - Research into How to Hire based on mainly Netflix experience
 * [Hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - Hiring for weakness and a manifesto for hiring inexperienced engineers
+* [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms
+* [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) - Thomas Ptacek's classic, deep essay about Tech hiring processes
 * [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Intervew process from "The Manager's Handbook"
 * [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco's "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler"
 * [Questions I'm asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews
 * [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format
 * [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles
-* [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms
 * [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews
 
 
