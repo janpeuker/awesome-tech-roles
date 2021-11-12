@@ -412,11 +412,12 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 
 #### Integration Engineer / Consultant
 
-Similar to: Deployment Engineer, Migration Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer
+Similar to: Deployment Engineer, Migration Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
 
 See also: Solution Architect, Partner Engineer
 
 * [Cloud migration for the real world](https://cloud.google.com/blog/products/cloud-migration/real-world-cloud-migration-strategies) - Cloud / GCP specific ([AWS here](https://aws.amazon.com/professional-services/CAF/)) blog but shows how professional services teams build up [standard methodologies](https://cloud.google.com/blog/topics/perspectives/the-google-cloud-adoption-framework-helping-you-move-to-the-cloud-with-confidence) between pre-commit and post-commit teams, customers and partners
+* [Facebook's Solution Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Solutions Engineering Team (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/))
 * [GitLab Migration Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/) - GitLab's Professional Services is under its Customer Success org and focuses on certifying service partners (see "Partner Engineer") with their standard methodology (see below)
 * [Hashicorp introducing Professional Services](https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog) - Interesting insight how small but famous tech companies take a step towards Implementation Services
 * [HBR Digital Transformation](https://hbr.org/2019/03/digital-transformation-is-not-about-technology) - (for comparison) Digital Transformation (["Every company wants to be a tech company"](https://www.inc.com/magazine/201605/marli-guzzetta/tech-company-definition.html) aka ["Software is easting the world"](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.c9xi6vier)) is the main trend tech companies plug into, this older Harvard Business Review article gives a good overview
