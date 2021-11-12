@@ -59,6 +59,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Staff Engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - Amy Unger describing the sphere of influence of a staff engineer helps understand relationships to other roles
 * [Staff Engineer](https://staffeng.com/guides/staff-archetypes) -  Will Larson's Staff Engineer book and "StaffEng" blog talks about the career towards 4 archetypes of staff engineer roles: Tech Lead, Architect, Solver and Right Hand
 * [Startup Engineering Teams](https://increment.com/teams/how-to-build-a-startup-engineering-team/) - Increment #11 on how to structure teams in startups
+* [WTF is a Tech Lead](https://gauravgargate.medium.com/wtf-is-a-tech-lead-and-what-does-she-do-b858a01902a6) - This list doesn't focus on lead roles but here is a good example of responsibilities within a team of engineers (without the bias of [Tech Lead vs Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html))
 * [Team Topologies](https://teamtopologies.com/key-concepts) - instant classic book that introduced the notions of stream-aligned-, enabling-, subsysteam- and platform-team
 * [The Passionate Programmer](https://medium.com/pragmatic-programmers/avoid-waterfall-career-planning-6280dc50a99d) - Excerpt from Chad Fowlers "The Passionate Programmer" on long-term career progression and change
 
