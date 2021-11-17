@@ -165,6 +165,7 @@ See also: Program Manager, Developer Advocate, Designer
 * [Product Manager vs Product Owner](https://medium.com/@melissaperri/product-manager-vs-product-owner-57ff829aa74d) - Melissa Perri's classic article tracing the history from business analyst to product manager
 * [Agile Product Manager](https://www.atlassian.com/agile/product-management/product-manager) - Comparing Product roles in Atlassian's knowledge base which is naturally biased towards enterprise agile
 * [Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton's classic essay defining the product manager
+* [Product Management for Engineers](https://increment.com/planning/product-management-for-engineers/) - Increment's latest article on product management from a SWE's perspective
 * [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation
 * [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's and [Product Design](https://productschool.com/blog/product-management-2/product-design-definition/
 ) - this is a resource list
