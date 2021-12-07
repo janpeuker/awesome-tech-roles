@@ -138,6 +138,7 @@ See also: Solution Architect, Trainer, Technical Writer
 
 * [A Primer on Developer Marketing](https://tomwentworth.com/2016/10/13/a-primer-on-developer-marketing-47d792d67586/) - Tom Wentworth on how to create shared sense of purpose in a community
 * [Developer Advocacy at Hashicorp](https://www.hashicorp.com/blog/how-hashicorp-does-developer-advocacy) - Hashicorp is famous for great developer focus,here are their principles
+* [Deploy Empathy](https://deployempathy.com/) - Michelle Hansen's book goes beyond usability research and places customer interviews in the center of product management, support and integration
 * [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience) - The pillars of good developer experience, including how to build a team
 * [How Kelsey Hightower became one of the most respected people in cloud computing](https://www.protocol.com/enterprise/kelsey-hightower-google-cloud) - showing Kelsey Hightowers career path through Sys Admin and Engineer to Developer Advocate
 * [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community
@@ -415,7 +416,7 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 
 #### Integration Engineer / Consultant
 
-Similar to: Deployment Engineer, Migration Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
+Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
 
 See also: Solution Architect, Partner Engineer
 
