@@ -140,10 +140,11 @@ See also: Solution Architect, Trainer, Technical Writer
 * [Developer Advocacy at Hashicorp](https://www.hashicorp.com/blog/how-hashicorp-does-developer-advocacy) - Hashicorp is famous for great developer focus,here are their principles
 * [Deploy Empathy](https://deployempathy.com/) - Michelle Hansen's book goes beyond usability research and places customer interviews in the center of product management, support and integration
 * [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience) - The pillars of good developer experience, including how to build a team
-* [How Kelsey Hightower became one of the most respected people in cloud computing](https://www.protocol.com/enterprise/kelsey-hightower-google-cloud) - showing Kelsey Hightowers career path through Sys Admin and Engineer to Developer Advocate
+* [How Kelsey Hightower became one of the most respected people in cloud computing](https://www.protocol.com/enterprise/kelsey-hightower-google-cloud) - showing Kelsey Hightowers career path through Sys Admin and Engineer to Developer and recently [User Empathy](https://thenewstack.io/?p=18044044) Advocate
 * [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community
 * [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann's Developer Advocacy Handbook has been updated for 11 years and counting
 * [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - Nader Dabit on the edge between developer advocacy and consulting
+* [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe) - Insights from Stripe into DevRel since the pandemic with a lot of links to further resources and people
 * [What is DX?](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) - Good summary of Developer Experience (DX)
 * [Why am I a Developer Advocate?](https://twitter.com/kelseyhightower/status/808436229851090945) - Kelsey Hightower explaining DevRel as the CTO of a product
 * [Working in Public](https://nadiaeghbal.com/oss/) - Nadia Eghbal’s book "Working in Public" became an instant classic, this is a resource collection of her research, in particular the roles of maintainers in Open-Source projects
@@ -180,13 +181,14 @@ See also: Program Manager, Developer Advocate, Designer
 
 #### Project Manager
 
-Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TPgM), Consultant
+Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TPgM), Consultant, Delivery Manager
 
 See also: Product Manager (PM)
 
 * [4 Types of Work in the Phoenix Project](https://uptakedigital.zendesk.com/hc/en-us/articles/115000524374-4-Types-of-Work-in-IT-The-Phoenix-Project-) - Highly influential, "The Phoenix project" book introduced the 4 types of work model
 * [An epic treatise on scheduling](https://apenwarr.ca/log/20171213) - _Extremely_ long classic read on agile project management, bug triage, feature prioritization and dependencies
 * [A world-class TPM team](https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/) - overview over a modern, well-functioning Technical Program Manager (TPM) function at Doordash
+* [The Delivery Manager Role](https://medium.com/practical-agilist/the-delivery-manager-role-its-totally-a-thing-9a9872f7e9c1) - (for comparision with traditional enterprise) A comparison of the project manager and _Delivery Manager_ role which is often part of complex enterprise agile frameworks such as SAFe where delivery of another piece of business drives tech features
 * [Entropy Crushers](https://medium.com/@rands/entropy-crushers-fd552252dfff#.7gun031xi) - Slightly rant-y homage to project managers and the distinction to product managers
 * [Larry Page the untold story](https://www.businessinsider.com/larry-page-the-untold-story-2014-4) - History how Google fired all project managers after which chaos ensued
 * [PMI Agile Project Management Interview](https://www.pmi.org/learning/library/agile-leaders-discuss-possibilities-post-pandemic-13077) - The Project Management Institute (PMI) Project Management Professional (PMP) is the most recognized industry certification, in this interview 4 PMP's talk about how the pandemic disrupted project management and turned them to more agile
@@ -210,7 +212,7 @@ See also: Trainer, Developer Advocate
 * [Leading through Writing](https://leaddev.com/communication-relationships/leading-through-writing-software-engineering) - Amy Nguyen's writing tips not only for documentation but beyond that for team updates, casual communication and more
 * [Notes on technical writing](https://mkaz.blog/misc/notes-on-technical-writing/) - List of best practices, not exactly a role description but goes into tasks
 * [STC](https://www.stc.org/about-stc/defining-technical-communication/) - The Society for technical communication defining Technical Communication
-* [Technical Writer at Netlify](https://career-ladders.dev/docs/#technical-writer-i) - Technical Writer in Netlify's Career Ladder
+* [Technical Writer at Netlify](https://career-ladders.dev/docs/#technical-writer-i) - Technical Writer in Netlify's Career Ladder by Sarah Drasner, author of "Engineering Management for the Rest of Us"
 * [Technical Writing](https://developerexperience.io/practices/tech-writing) - Developer Experience Knowledge Base entry on Technical Writing
 * [Who Will Write your Company's Technical Content](https://philipkiely.com/essays/who_will_write.html) - Philip Kiely's book and blog are a reference, here an example post on how to split responsibility for writing
 * [Write the Docs Interview Guide](https://www.writethedocs.org/hiring-guide/) - Write the Docs is a great resource on technical writing and has a role interview guide
