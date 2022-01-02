@@ -71,9 +71,11 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Competency Management](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/human-capital/ZA_Competency_management_at_its_most_competent.pdf) - Deloitte / Development Dimensions International white paper on Competency Management using a Success Profile model
 * [Developer Progression as a function of navigating complexity](https://www.siddharthsarda.com/p/developer-progression-as-a-function) - Siddharth Sarda translating Jessica Kerr's research into developer career progression (complexity is a common career framework attribute)
 * [Don Jones 'Own your Tech Career'](https://techleadjournal.dev/episodes/55/) - TechLead Podcast episode on [Don Jones' book](https://www.manning.com/books/own-your-tech-career)
+* [Engineering Leadership Skill Set Overlaps](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps) - Paid newsletter, for reference on the terms Staff Engineer, Engineering Manager (EM), Product Manager (PM), Tech Lead Manager (TLM) and Technical Program Manager (TPM)
 * [Engineering management 101: evaluating your team’s performance](https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance) - 
 * [Google's Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work
 * [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers
+* [The 4 key managerial activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/) - Classic blog post by James Stanier predating many engineering management books focusing on _High Output Management_ with a good example of a day schedule
 * [Maker's Schedule](http://www.paulgraham.com/makersschedule.html) - (for historic context) Paul Graham's classic post on manager schedules
 * [Performance Achievements](https://www.accenture.com/sg-en/case-studies/about/performance-achievement) - Technical white paper on the HR system also explaining some ideas of an agile performance appraisal process at Accenture
 * [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from "The Manager's Handbook"
@@ -87,7 +89,10 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in the "The Manager's Handbook", see also Self-determination Motivation theory (SDT) and Herzberg’s Motivation and Hygiene Factors
 
 ### Interviews
+* [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/) - 18F is a technology and design consultancy for the U.S. Government and publishes a lot of their processes including a detailed hiring guide
 * [CMU 313](https://cmu-313.github.io/) - CMU's course 313 "Foundations of Software Engineering" has a section on "Peopleware", hiring and collaborating as team
+* [Coding Homework](https://jacobian.org/2021/nov/23/wst-homework/) - Overview on coding "homework" exercises, how to describe them and how to evaluate
+* [Common Hiring Manager mistakes](https://lethain.com/common-hiring-manager-mistakes/) - Will Larson on common mistakes and red flags in hiring
 * [Competence over Credentials](https://www.fastcompany.com/40533276/stop-confusing-your-job-skills-with-your-credentials-and-do-this-instead) - Separating skills (also known as capacity, competence or capability) from credentials
 * [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's classic guide on SWE interviews
 * [HBR How to Hire](https://hbr.org/2018/01/how-to-hire) - Research into How to Hire based on mainly Netflix experience
