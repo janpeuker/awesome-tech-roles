@@ -95,6 +95,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Coding Homework](https://jacobian.org/2021/nov/23/wst-homework/) - Overview on coding "homework" exercises, how to describe them and how to evaluate
 * [Common Hiring Manager mistakes](https://lethain.com/common-hiring-manager-mistakes/) - Will Larson on common mistakes and red flags in hiring
 * [Competence over Credentials](https://www.fastcompany.com/40533276/stop-confusing-your-job-skills-with-your-credentials-and-do-this-instead) - Separating skills (also known as capacity, competence or capability) from credentials
+* [Culture Add](https://business.linkedin.com/talent-solutions/resources/interviewing-talent/how-to-assess-skills/culture-add) - List of potential culture add questions, an important concept in equitable recruiting
 * [Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - Joel Spolsky's classic guide on SWE interviews
 * [HBR How to Hire](https://hbr.org/2018/01/how-to-hire) - Research into How to Hire based on mainly Netflix experience
 * [Hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - Hiring for weakness and a manifesto for hiring inexperienced engineers
@@ -181,6 +182,7 @@ See also: Program Manager, Developer Advocate, Designer
 ) - this is a resource list
 * [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton's podcast with Michael Siliski comparing Stripe and Google's product approach
 * [Project to Product](https://projecttoproduct.org/solutions/) - (for comparison) Book and approach ("The Flow Framework" blueprint) often used in traditional industry to move from project to product
+* [Rise of Product Ops](https://www.productplan.com/blog/the-rise-of-product-ops/) - Product Operations is mentioned below under support, but another option is to see managing user feedback and launches from a product roadmap perspective
 * [RFC's as decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb) - Juan Pablo Buriticá on how RFC's can bridge between Engineering and Product and help include everyone
 * [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf) - Lara Hogan's seminal Venn Chart of the Who / What and How of Product Manager, Engineering Manager and Engineering Lead
 * [Value Proposition Canvas](https://isaacjeffries.com/blog/2018/2/27/how-to-fill-in-a-value-proposition-canvas) - Part of the Business Model Canvas, how to research and visualize a value proposition
