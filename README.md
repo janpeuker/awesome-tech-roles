@@ -49,6 +49,7 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - Bruce Webster coined the Dead Sea Effect for the Tech version of the Peter Principle aka Dilbert Principle
 * [Expert Beginner Problem](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Erik Dietrich introduced the term "Expert Beginner" for a dead-end in learning progress
 * [Freedom at work](https://medium.com/@chadfowler/clone-yourself-the-step-by-step-guide-to-finding-freedom-at-work-11fdccf2f50b) - Chad Fowler on working towards a career goal like building a startup
+* [How engineering-driven leads to engineering-supremacy](https://charity.wtf/2022/01/20/how-engineering-driven-leads-to-engineering-supremacy/) - Great post by Charity Majors on tech-adjacent roles, balancing engineering and business value focus and respecting sales
 * [Is Tech the right career for you?](https://hbr.org/2021/08/is-tech-the-right-career-for-you) - Quick and easy summary in the HBR blog on non-engineering roles in Tech
 * [Jeff Bezos' API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today e.g. [this recent HBR article on API's between teams](https://hbr.org/2021/04/apis-arent-just-for-tech-companies)
 * [Learn Software Development Toolkit](https://www.techwell.com/hub-takover/lean-software-development-agile-toolkit) - Interview with Mary Poppendieck author of "Leading Lean Software Development" on how Lean may fight against the organization
@@ -101,11 +102,14 @@ Not focused on management overall although some links might lead to it. Instead,
 * [Hire for weaknesses](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) - Hiring for weakness and a manifesto for hiring inexperienced engineers
 * [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms
 * [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) - Thomas Ptacek's classic, deep essay about Tech hiring processes
-* [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Intervew process from "The Manager's Handbook"
+* [Interview Performance is kind of arbitrary](https://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/) - Research by Aline Lerner et al on tech interview performance, biases and noise
+* [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Interview process from "The Manager's Handbook"
+* [Interview your manager back](https://twitter.com/lilykonings/status/1484598087494496258) - Great tweet storm on questions to ask back to managers to understand the company and role focus
 * [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco's "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler"
 * [Questions I'm asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews
 * [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format
-* [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles
+* [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary
+* [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook)
 * [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews
 
 
@@ -276,6 +280,7 @@ See also: Data Engineer, Support Operations, Trust and Safety Analysts
 * [Go-Jek's Data Science Team](https://www.gojek.io/blog/working-in-the-central-analytics-and-science-team) - Difference between Business and Data Analyst and Data Scientists
 * [Google AI Residency](https://research.google/careers/ai-residency/) - Google's mentoring program for the "next generation of deep learning researchers"
 * [Interview with Cindi Howson](https://www.montecarlodata.com/building-a-better-data-culture-an-interview-with-thoughtspots-cindi-howson/) - Interview going through Cindi Howson's career and ideas explaining changes in many role descriptions and a book reference to "Building Analytics Teams"
+* [The roaring twenties](https://twitter.com/josephmoon_ai/status/1486133352608382977?s=21) - Tweet storm on modern data analysis tools and how they helped data scientists and analysts step out in the limelight
 
 #### Data Engineer
 
@@ -411,6 +416,7 @@ See also: Sales Engineer, Technical Account Manager
 * [SAP Solution Blog](https://blogs.sap.com/2014/05/25/from-developer-to-solution-architect-essential-skills-for-climbing-the-it-professional-ladder/) - (for comparision) Explaining Solution Architects for ISV / SaaS solution providers, focused on long-term system design while customers and consultants customize their product
 * [Solution Architect — Who Am I?](https://osapishchuk.medium.com/solution-architect-who-am-i-bb54a9451a10) - Solution Archicture is a term used very differently in industry (Enterprise Architecture), Services Delivery / Professional Services / System Integration (Project Scoping / Planning) and SaaS / Consumption business / pay-as-you-go - this explains the latter and explains the career path
 * [Solution Architect in SAFe](https://www.scaledagileframework.com/solution-architect-engineering/) - Written from an enterprise point of view (SAFe) but creating, defining and communicating a shared technical and architectural vision also applies to the pre-commit stage of a customer "solution" aka "project"
+* [Why is it great to be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/) - (for comparison) often solution architecture is performed as review by external consultants - here are some advantages of this approach
 
 #### Office of the CTO (OCTO)
 
