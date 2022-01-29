@@ -1,6 +1,6 @@
 ## Awesome Tech Roles
 
-Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms.
+Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms, focused on tech-adjacent roles.
 
 This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager). This list ist not a definition but an observation.
 
@@ -113,7 +113,7 @@ Not focused on management overall although some links might lead to it. Instead,
 
 Similar to: Jobs, Designations, Ladders
 
-Trying to cluster similar roles in terms of roles and responsibilities, without forcing or defining a right or wrong model. Similarity is based on common _tech_ industry use, not purity, think "also known as". As far as possible leaving out levels (e.g. "Senior", "Associate", "Apprentice"), scope (e.g. "Specialist", "Professional", "Strategy"), competency (e.g. "Staff", "Research"), technology (e.g. "Full-stack", "Cloud", "Analytics"), influence (e.g. "Principal", "Architect", "Fellow"), interaction (e.g. "Customer", "Player-Coach"), vanity (e.g. "Executive", "Lead", "Head of") or management responsibility (e.g. "Tech Lead Manager (TLM)", "Director"). Leaving out general corporate functions such as HR, Operations / BizOps, Finance, Marketing / Go-To-Market, Legal and Research / Science.
+Trying to cluster similar tech-adjacent roles in terms of roles and responsibilities, without forcing or defining a right or wrong model. Similarity is based on common _tech_ industry use, not purity, think "also known as". As far as possible leaving out levels (e.g. "Senior", "Associate", "Apprentice"), scope (e.g. "Specialist", "Professional", "Strategy"), competency (e.g. "Staff", "Research"), technology (e.g. "Full-stack", "Cloud", "Analytics"), influence (e.g. "Principal", "Architect", "Fellow"), interaction (e.g. "Customer", "Player-Coach"), vanity (e.g. "Executive", "Lead", "Head of") or management responsibility (e.g. "Tech Lead Manager (TLM)", "Director"). Leaving out general corporate functions such as HR, Operations / BizOps, Finance, Marketing / Go-To-Market, Legal and Research / Science.
 
 ### Product
 
@@ -228,7 +228,7 @@ See also: Trainer, Developer Advocate
 
 #### Software Engineer (SWE)
 
-Similar to: Engineer, Software Developer, Programmer, Coder, Tech Lead
+Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead
 
 See also: Site Reliability Engineer (SRE)
 
