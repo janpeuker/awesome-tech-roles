@@ -1,4 +1,4 @@
-## Awesome Tech Roles
+## Awesome Tech Roles [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms, focused on tech-adjacent roles.
 
