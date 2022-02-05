@@ -35,6 +35,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Jorge Fioranelli's Ladder Framework](https://github.com/jorgef/engineeringladders) - A GitHub repo with a complete career management framework along 5 axes.
 - [levels.fyi](https://www.levels.fyi/blog/swe-level-framework.html) - Common attributes of the Engineering career ladder in a standard framework.
 - [Microsoft Disciplines and Professions](https://careers.microsoft.com/professionals/us/en/professions) - Microsoft's breakdown of their job families into disciplines and professions.
+- [Organizational Design](https://infraeng.dev/organizational-design/) - Common team sizes (aka management span of control) for lead roles from Lethain's org growth template and org design template
 - [progression.fyi](https://www.progression.fyi/) - A collection of progression frameworks (a much better name for career ladder but less common).
 - [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder .
 - [Spotify Steps Framework](https://engineering.atspotify.com/2016/02/15/spotify-technology-career-steps/) - Spotify's Step Framework for career evolution around disciplines and roles.
@@ -69,6 +70,7 @@ Not focused on management overall although some links might lead to it. Instead,
 
 ### Career Management
 
+- [2022 Sequoia Compensation Findings Report](https://dataforest.sequoia.com/reports/compensation/) - The 2022 Compensation Findings Report gives interesting insights into the "Great Resignation", remote work, but also how priorities across departments and roles have changed
 - [An Elegant Puzzle](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/) - Summary of Will Larson's book "An Elegant Puzzle" especially look at chapter #5.
 - [Becoming a Technical Leader](https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/) - Notes and excerpts from Gerald Weinberg's "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser".
 - [Competency Management](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/human-capital/ZA_Competency_management_at_its_most_competent.pdf) - Deloitte / Development Dimensions International white paper on Competency Management using a Success Profile model.
@@ -78,6 +80,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Engineering management 101: evaluating your team’s performance](https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance) - Classic post by Camille Fournier on coaching as core management competency.
 - [Google's Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work.
 - [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers.
+- [Know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d) - Another great post by Cindy Sridharan on navigating org incentives in order to influence decisions
 - [The 4 key managerial activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/) - Classic blog post by James Stanier predating many engineering management books focusing on _High Output Management_ with a good example of a day schedule.
 - [Maker's Schedule](http://www.paulgraham.com/makersschedule.html) - (For historic context) Paul Graham's classic post on manager schedules.
 - [Performance Achievements](https://www.accenture.com/sg-en/case-studies/about/performance-achievement) - Technical white paper on the HR system also explaining some ideas of an agile performance appraisal process at Accenture.
@@ -383,6 +386,8 @@ Also knowns as: Field Sales Representative (FSR), Account Representative ("Rep")
 See also: Sales Engineer, Technical Account Manager
 
 - [Challenger and Sense Making](https://www.gartner.com/en/sales-service/insights/challenger-sale) - Example of the countless sales communication methodologies.
+- [Designing compensation systems for sales professionals](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/designingcompensationsystemsforsalesprofessionals.aspx) - (This deep link does not always work) Broad and deep overview of sales incentive systems, which is important when defining shared goals and objectives.
+- [How to really motivate salespeople](https://hbr.org/2015/04/how-to-really-motivate-salespeople) - Sales incentive (bonus) systems are complex, often commission based. This research gives some insight into the structures behind and helps understand motivations of sales teams.
 - [Modern Account Management](https://www.fool.com/the-blueprint/account-management/) - Explaining the common tasks of account managers in value-driven tech firms.
 - [Navigating Microsoft](https://www.channelfutures.com/cloud-2/navigating-microsoft-preparation-leads-to-opportunity) - Outsider analysis of Microsoft's rhythm of business (ROB) showing important of acccount managers to understand how others tick.
 - [Origin of the Business Model Canvas](https://www.strategyzer.com/blog/posts/the-origin-of-the-business-model-canvas-interview-with-bill-fischer-alex-osterwalder) - History of the Business Model Canvas in Strategyzer's blog, one of the modern ways to pitch business models and value propositions and [experiment with business ideas](https://www.strategyzer.com/books/testing-business-ideas-david-j-bland).
