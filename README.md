@@ -1,4 +1,6 @@
-## Awesome Tech Roles [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Tech Roles
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms, focused on tech-adjacent roles.
 
@@ -30,7 +32,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [GitLab Job Families](https://about.gitlab.com/job-families/) - GitLab's overview of all job families, their whole management framework is openly accessible.
 - [Importance of Career Laddering](https://css-tricks.com/the-importance-of-career-laddering/) - Netlify's career ladder by Sarah Drasner which became career-ladders.dev.
 - [Irrational Exuberance](https://lethain.com/career-levels-and-more/) - Will Larson on career levels on top of designations - good to compare with [Finding the right company](https://lethain.com/finding-the-right-company/).
-- [Jorge Fioranelli's Ladder Framework](https://github.com/jorgef/engineeringladders) - A Github repo with a complete career management framework along 5 axes.
+- [Jorge Fioranelli's Ladder Framework](https://github.com/jorgef/engineeringladders) - A GitHub repo with a complete career management framework along 5 axes.
 - [levels.fyi](https://www.levels.fyi/blog/swe-level-framework.html) - Common attributes of the Engineering career ladder in a standard framework.
 - [Microsoft Disciplines and Professions](https://careers.microsoft.com/professionals/us/en/professions) - Microsoft's breakdown of their job families into disciplines and professions.
 - [progression.fyi](https://www.progression.fyi/) - A collection of progression frameworks (a much better name for career ladder but less common).
@@ -42,7 +44,7 @@ Not focused on management overall although some links might lead to it. Instead,
 
 ### Tech Roles in a team and lateral progress
 
-- [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
+- [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - Summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles.
 - [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch’s extension of Conway's Law or “strategy drives structure”.
 - [Conway's Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway's Law and ThoughtWorks' Inverse Conway Maneuver to avoid having the organization become the product.
@@ -183,7 +185,6 @@ See also: Program Manager, Developer Advocate, Designer
 - [Product Management for Engineers](https://increment.com/planning/product-management-for-engineers/) - Increment's latest article on product management from a SWE's perspective.
 - [Product Managers for the digital world](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/product-managers-for-the-digital-world) - Context on product manager roles in traditional enterprises aiming for digital transformation.
 - [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD's and [Product Design](https://productschool.com/blog/product-management-2/product-design-definition/.
-) - this is a resource list
 - [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton's podcast with Michael Siliski comparing Stripe and Google's product approach.
 - [Project to Product](https://projecttoproduct.org/solutions/) - (for comparison) Book and approach ("The Flow Framework" blueprint) often used in traditional industry to move from project to product.
 - [Rise of Product Ops](https://www.productplan.com/blog/the-rise-of-product-ops/) - Product Operations is mentioned below under support, but another option is to see managing user feedback and launches from a product roadmap perspective.
@@ -456,7 +457,7 @@ See also: Trainer, Developer Advocate, Integration Engineer
 
 - [Cisco's Customer Experience Framework](https://blogs.cisco.com/partner/how-partners-make-money-with-cisco-customer-experience-cx) - Cisco's services portfolio around Expert Resources, Trusted Support, Insights and Analytics and Contextual Learning for their partners.
 - [Confluent verified integrations program](https://www.confluent.io/blog/guide-to-confluent-verified-integrations-program/) - Often tech companies certify their software to run on other platforms or be operated by partners, another good example of a partner engineer's role.
-- [Elastic Partner Program](https://www.elastic.co/partners/program) - (for comparison) Elastic relies a lot on partners ([less with AWS](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/) but more with [GCP and Azure](https://www.elastic.co/blog/elastic-recognized-for-innovation-by-google-cloud-and-microsoft)) so their PDF guides do a good explaining the difference between Managed Service Provider (MSP), Original Equipment Manufacturer (OEM), System Integrator (SI) and Resell partners..
+- [Elastic Partner Program](https://www.elastic.co/partners/program) - (for comparison) Elastic relies a lot on partners ([less with AWS](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/) but more with [GCP and Azure](https://www.elastic.co/blog/elastic-recognized-for-innovation-by-google-cloud-and-microsoft)) so their PDF guides do a good explaining the difference between Managed Service Provider (MSP), Original Equipment Manufacturer (OEM), System Integrator (SI) and Resell partners.
 - [Facebook's Partner Engineering Team](https://www.facebook.com/careers/life/partner-engineering-at-facebook) - Facebooks careers topic page on partner engineering.
 - [Finding The Right Fit at LinkedIn](https://medium.com/@LynMuldrow/becoming-a-linkedin-partner-engineer-how-i-found-the-right-fit-b40c5c472aa) - Lyn Muldrow on the LinkedIn blog on the career from SWE to Partner Engineer.
 - [Senior Partner Engineer at Slack](https://meghan-duffy.com/2019/01/10/role-models-brook-shelley-senior-partner-engineer-at-slack/) - Interview with Slack's Brook Shelley on Meghan Duffy's Tech Role Models blog.
@@ -509,7 +510,6 @@ Similar to: Product Operations, Product Support, Customer Experience, Technical 
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
 
-- [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) - Amazon Web Services (AWS) example of a Premium Support paid offering explaining support and also TAM.
 - [Customer Experience at Apple](https://medium.com/thrive-global/always-start-with-the-customer-experience-not-with-the-technology-former-apple-ceo-john-sculley-68b5f36e810e) - Very long interview with Jon Sculley how apple sees the end-to-end customer experience, made famous with the Genius bar.
 - [Customer Service at Shopify](https://www.shopify.com.sg/blog/customer-service) - Whole framework of how to build successful customer service and retain happy customers ([interesting context in the same blog](https://www.shopify.com.sg/retail/119535811-the-apple-store-guide-to-insanely-great-customer-service) on Apple above).
 - [Dropbox Support Team](https://blog.dropbox.com/topics/company/the-dropbox-support-you-know-and) - Specific to Dropbox but good insight into metrics, tasks and technology of support teams.
@@ -517,7 +517,7 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [Google CRE](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) - Google's Customer Reliability Engineering team are SRE's working towards shared operational fate between Google and Google Cloud Platform customers.
 - [Great Incident Management](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management) - Humerous but good overview on more detailed incident management and outage communcation roles.
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
-- [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) Increment #1 focused on on-call - this article compares the (DevOps) models at different org sizes.
+- [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk's Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
