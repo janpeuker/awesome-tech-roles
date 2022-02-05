@@ -116,6 +116,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary.
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews.
+- [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews
 
 
 ## Role Descriptions
@@ -524,5 +525,6 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
+- (Service Capability & Performance (SCP) Standards)[https://servicestrategies.com/scp-standards/] - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk's Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
