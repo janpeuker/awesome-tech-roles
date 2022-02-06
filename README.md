@@ -1,5 +1,4 @@
 # Awesome Tech Roles
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms, focused on tech-adjacent roles.
@@ -7,7 +6,6 @@ Job titles, roles, career paths by role and responsibility in Software and Infor
 This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager). This list ist not a definition but an observation.
 
 ## Contents
-
 - [Role Overviews](#role-overviews).
 	- [Tech Ladders and other hierarchical progress](#tech-ladders-and-other-hierarchical-progress)
     - [Tech Roles in a team and lateral progress](#tech-roles-in-a-team-and-lateral-progress)
@@ -20,11 +18,9 @@ This list does not cover industry enterprises, consulting firms, managed service
     - [Customer-facing, post-commit](#customer-facing-post-commit)
 
 ## Role Overviews
-
 Not focused on management overall although some links might lead to it. Instead, see for instance [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme).
 
 ### Tech Ladders and other hierarchical progress
-
 - [Designing Engineering organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) - Classic post highlighting different "matrix" ways of organizing tech teams (conclusion: stable, multi-disciplinary, and product-aligned is a good bet).
 - [Dropbox Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world) - Dropbox Engineering Career Framework also including SRE, TPM etc.
 - [Engineering manager archetypes and career paths](https://leaddev.com/leadership-skills/engineering-manager-archetypes-and-career-paths) - Charity Majors has a lot of great advice on IC to manager (and back) switch - this is a great summary but sadly behind a weird spam-wall.
@@ -44,7 +40,6 @@ Not focused on management overall although some links might lead to it. Instead,
 
 
 ### Tech Roles in a team and lateral progress
-
 - [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - Summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles.
 - [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch’s extension of Conway's Law or "strategy drives structure".
@@ -69,7 +64,6 @@ Not focused on management overall although some links might lead to it. Instead,
 - [The Passionate Programmer](https://medium.com/pragmatic-programmers/avoid-waterfall-career-planning-6280dc50a99d) - Excerpt from Chad Fowlers "The Passionate Programmer" on long-term career progression and change.
 
 ### Career Management
-
 - [2022 Sequoia Compensation Findings Report](https://dataforest.sequoia.com/reports/compensation/) - The 2022 Compensation Findings Report gives interesting insights into the "Great Resignation", remote work, but also how priorities across departments and roles have changed
 - [An Elegant Puzzle](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/) - Summary of Will Larson's book "An Elegant Puzzle" especially look at chapter #5.
 - [Becoming a Technical Leader](https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/) - Notes and excerpts from Gerald Weinberg's "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser".
@@ -120,15 +114,13 @@ Not focused on management overall although some links might lead to it. Instead,
 
 
 ## Role Descriptions
-
-Similar to: Jobs, Designations, Ladders
+Similar to: Jobs, Designations, Careers paths, Ladders
 
 Trying to cluster similar tech-adjacent roles in terms of roles and responsibilities, without forcing or defining a right or wrong model. Similarity is based on common _tech_ industry use, not purity, think "also known as". As far as possible leaving out levels (e.g. "Senior", "Associate", "Apprentice"), scope (e.g. "Specialist", "Professional", "Strategy"), competency (e.g. "Staff", "Research"), technology (e.g. "Full-stack", "Cloud", "Analytics"), influence (e.g. "Principal", "Architect", "Fellow"), interaction (e.g. "Customer", "Player-Coach"), vanity (e.g. "Executive", "Lead", "Head of") or management responsibility (e.g. "Tech Lead Manager (TLM)", "Director"). Leaving out general corporate functions such as HR, Operations / BizOps, Finance, Marketing / Go-To-Market, Legal and Research / Science.
 
 ### Product
 
 #### Designer
-
 Similar to: User Experience (UX) Designer / Engineer / Researcher, Frontend, Interaction Designer / Engineer, Product Designer, Usability, Accessibility, Information Architecture
 
 See also: Product Manager, Technical Writer
@@ -149,7 +141,6 @@ See also: Product Manager, Technical Writer
 - [You got this.](http://www.zeldman.com/2019/05/22/you-got-this/) - Jeff Zeldman motivating all designers to keep learnings new technologies.
 
 #### Developer Advocate
-
 Similar to: Evangelist, Developer Relations (DevRel), Developer Experience, Solution Architect, Open Source Relations, Product Strategist, Customer Insight, Customer Empathy
 
 See also: Solution Architect, Trainer, Technical Writer
@@ -168,7 +159,6 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Working in Public](https://nadiaeghbal.com/oss/) - Nadia Eghbal’s book "Working in Public" became an instant classic, this is a resource collection of her research, in particular the roles of maintainers in Open-Source projects.
 
 #### Product Manager (PM)
-
 Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analyst
 
 See also: Program Manager, Developer Advocate, Designer
@@ -198,7 +188,6 @@ See also: Program Manager, Developer Advocate, Designer
 - [Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd#.cc9vf0ijs) - Gaurav Oberoi on how long-form writing of product specifications brings clarity.
 
 #### Project Manager
-
 Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TPgM), Consultant, Delivery Manager
 
 See also: Product Manager (PM)
@@ -220,7 +209,6 @@ See also: Product Manager (PM)
 - [Using Domain-Driven Design for autonomous teams](https://www.agilealliance.org/resources/experience-reports/towards-autonomous-aligned-teams-with-domain-driven-design/) - (For comparison) how bounded contexts can be used to reduce communication overhead between teams.
 
 #### Technical Writer
-
 Similar to: Editor, UX Writer, Documentation Manager / Designer, Content Strategist
 
 See also: Trainer, Developer Advocate
@@ -237,7 +225,6 @@ See also: Trainer, Developer Advocate
 - [Write the Docs Interview Guide](https://www.writethedocs.org/hiring-guide/) - Write the Docs is a great resource on technical writing and has a role interview guide.
 
 #### Software Engineer (SWE)
-
 Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead
 
 See also: Site Reliability Engineer (SRE)
@@ -255,7 +242,6 @@ See also: Site Reliability Engineer (SRE)
 - [What is Software Engineering?](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/ch01.html) - Introduction to the "Software Engineering at Google" book explaining the role and career of SWE's.
 
 #### Quality Assurance (QA)
-
 Similar to: Tester, Test Engineer, Quality Assurance Engineer
 
 See also: Site Reliability Engineer (SRE)
@@ -274,7 +260,6 @@ See also: Site Reliability Engineer (SRE)
 ### Operations
 
 #### Data Analyst
-
 Similar to: Data Scientist, Business Intelligence Analyst, Quantitative Researcher, Operations Analyst, Machine Learning Researcher
 
 See also: Data Engineer, Support Operations, Trust and Safety Analysts
@@ -289,7 +274,6 @@ See also: Data Engineer, Support Operations, Trust and Safety Analysts
 - [The roaring twenties](https://twitter.com/josephmoon_ai/status/1486133352608382977?s=21) - Tweet storm on modern data analysis tools and how they helped data scientists and analysts step out in the limelight.
 
 #### Data Engineer
-
 Similar to: Machine Learning Engineer, Analytics Engineer
 
 See also: Data Analyst, Software Engineer (SWE)
@@ -310,7 +294,6 @@ See also: Data Analyst, Software Engineer (SWE)
 - [We Don't Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
 
 #### Security Engineer
-
 Similar to: Security Analyst / Researcher, Vulnerability Researcher, Information Security ("InfoSec") Engineer, Threat Intelligence, Hacker, Red Team
 
 See also: Trust and Safety Analyst
@@ -325,7 +308,6 @@ See also: Trust and Safety Analyst
 - [Working at Project Zero](https://googleprojectzero.blogspot.com/p/working-at-project-zero.html) - OG Project Zero overview on career paths to security engineering.
 
 #### Trust and Safety Analyst
-
 Similar to: Fraud Investigator, Policy and Governance, Compliance, Risk Analyst, Incident Response, Content Review, Policy Enforcement
 
 See also: Security Analyst, Data Analyst
@@ -340,7 +322,6 @@ See also: Security Analyst, Data Analyst
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
-
 Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator
 
 See also: Support Operations, IT Operations
@@ -359,7 +340,6 @@ See also: Support Operations, IT Operations
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
 
 #### IT Operations
-
 Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
 
 See also: Support Operations, Site Reliability Engineer (SRE)
@@ -381,8 +361,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 ### Customer-facing, pre-commit
 
 #### Account Manager
-
-Also knowns as: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development, Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
+Similar to: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development, Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
 
 See also: Sales Engineer, Technical Account Manager
 
@@ -399,7 +378,6 @@ See also: Sales Engineer, Technical Account Manager
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
 #### Sales Engineer
-
 Similar to: Customer Engineer, Principal Architect, Customer Success Manager (CSM), Account Strategist, Technical Consultant, Technical Sales
 
 See also: Technical Account Manager, Account Manager, Solution Architect
@@ -412,7 +390,6 @@ See also: Technical Account Manager, Account Manager, Solution Architect
 - [Value Selling vs Solution Selling](https://blog.close.com/value-selling-vs-solution-selling/) - Good comparison of Account Manager role, often value selling, and Sales Engineer role, often solution selling.
 
 #### Solution Architect
-
 Similar to: Solution Sales, Solution Planner, Technology Architect, Enterprise Architect
 
 See also: Sales Engineer, Technical Account Manager
@@ -427,7 +404,6 @@ See also: Sales Engineer, Technical Account Manager
 - [Why is it great to be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/) - (For comparison) often solution architecture is performed as review by external consultants - here are some advantages of this approach.
 
 #### Office of the CTO (OCTO)
-
 Similar to: Enterprise Strategist, Chief Evangelist, Transformation Officer, *Innovation, *Research
 
 See also: Sales Engineer, Solution Architect, Developer Advocate
@@ -441,7 +417,6 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 ### Customer-facing, post-commit
 
 #### Integration Engineer / Consultant
-
 Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
 
 See also: Solution Architect, Partner Engineer
@@ -456,7 +431,6 @@ See also: Solution Architect, Partner Engineer
 - [Why Doesn't Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
 
 #### Partner Engineer
-
 Similar to: Partnership Manager, Alliance Manager, Partner Development Manager, Partner Solution Architect, Integration Engineer, Partner Support, System Engineer
 
 See also: Trainer, Developer Advocate, Integration Engineer
@@ -469,7 +443,6 @@ See also: Trainer, Developer Advocate, Integration Engineer
 - [Senior Partner Engineer at Slack](https://meghan-duffy.com/2019/01/10/role-models-brook-shelley-senior-partner-engineer-at-slack/) - Interview with Slack's Brook Shelley on Meghan Duffy's Tech Role Models blog.
 
 #### Managed Services
-
 Similar to: Business-critical services, Customer IT Operations, Service Delivery, Client Technical Solutions, Professional, Specialist, Outsourcing
 
 - [Accenture Infrastructure Services](https://www.accenture.com/us-en/insights/cloud/cloud-environment-management) - Accenture (consulting firm, not strictly Tech) explaining capabilities it offers to customers to manage their cloud e.g. FinOps.
@@ -480,8 +453,7 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 - [Palo Alto](https://www.paloaltonetworks.com/blog/sase/cloud-delivered-managed-security/) - Many companies move to SaaS by offering their product in the Cloud including managed services, for instance Palo Alto offers managed security services.
 
 #### Technical Account Manager (TAM)
-
-Similar to: Customer Success Manager (CSM), Account Strategist, Customer Experience, Service Account Manager
+Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager
 
 See also: Account Manager, Solution Architect
 
@@ -494,7 +466,6 @@ See also: Account Manager, Solution Architect
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
 #### Trainer
-
 Similar to: Practice Lead, Instructor, Coach, Moderator, Facilitator, Learning and Enablement, Instructional Designer, Customer Education
 
 See also: Technical Writer, Developer Advocate
@@ -511,7 +482,6 @@ See also: Technical Writer, Developer Advocate
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
 #### Support Operations
-
 Similar to: Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert, Incident Response
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
