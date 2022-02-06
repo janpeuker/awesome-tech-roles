@@ -364,13 +364,13 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 ### Customer-facing, pre-commit
 
 #### Account Manager
-Similar to: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development, Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
+Similar to: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
 
 See also: Sales Engineer, Technical Account Manager
 
 - [Challenger and Sense Making](https://www.gartner.com/en/sales-service/insights/challenger-sale) - Example of the countless sales communication methodologies.
 - [Designing compensation systems for sales professionals](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/designingcompensationsystemsforsalesprofessionals.aspx) - (This deep link does not always work) Broad and deep overview of sales incentive systems, which is important when defining shared goals and objectives.
-- [How to really motivate salespeople](https://hbr.org/2015/04/how-to-really-motivate-salespeople) - Sales incentive (bonus) systems are complex, often commission based. This research gives some insight into the structures behind and helps understand motivations of sales teams.
+- [How to really motivate salespeople](https://hbr.org/2015/04/how-to-really-motivate-salespeople) - Business Development incentive (bonus) systems are complex, often commission based. This research gives some insight into the structures behind and helps understand motivations of sales teams.
 - [Modern Account Management](https://www.fool.com/the-blueprint/account-management/) - Explaining the common tasks of account managers in value-driven tech firms.
 - [Navigating Microsoft](https://www.channelfutures.com/cloud-2/navigating-microsoft-preparation-leads-to-opportunity) - Outsider analysis of Microsoft's rhythm of business (ROB) showing important of acccount managers to understand how others tick.
 - [Origin of the Business Model Canvas](https://www.strategyzer.com/blog/posts/the-origin-of-the-business-model-canvas-interview-with-bill-fischer-alex-osterwalder) - History of the Business Model Canvas in Strategyzer's blog, one of the modern ways to pitch business models and value propositions and [experiment with business ideas](https://www.strategyzer.com/books/testing-business-ideas-david-j-bland).
@@ -461,9 +461,9 @@ Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), A
 
 See also: Account Manager, Solution Architect
 
-- [A day in the life of a TAM at Microsoft](https://cloudblogs.microsoft.com/industry-blog/en-gb/beyourfuture/2019/04/18/a-day-in-the-life-of-a-technical-account-manager/) - Good read for comparison of TAM between more technical and more business (customer success) focused, at Microsoft CSM are in the sales org.
+- [A day in the life of a TAM at Microsoft](https://cloudblogs.microsoft.com/industry-blog/en-gb/beyourfuture/2019/04/18/a-day-in-the-life-of-a-technical-account-manager/) - Good read for comparison of TAM between more technical and more business (customer success) focused, at Microsoft CSM are in the Business Development org.
 - [A day in the life of a TAM at Red Hat](https://www.redhat.com/en/blog/being-technical-account-manager-tam-day-life) - See below for Red Hat's difference between TAM, CSM and Support.
-- [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Sales (see above).
+- [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab's open source TAM handbook as part of the customer success team.
 - [Red Hat's Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
