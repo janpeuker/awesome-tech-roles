@@ -32,7 +32,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Jorge Fioranelli's Ladder Framework](https://github.com/jorgef/engineeringladders) - A GitHub repo with a complete career management framework along 5 axes.
 - [levels.fyi](https://www.levels.fyi/blog/swe-level-framework.html) - Common attributes of the Engineering career ladder in a standard framework.
 - [Microsoft Disciplines and Professions](https://careers.microsoft.com/professionals/us/en/professions) - Microsoft's breakdown of their job families into disciplines and professions.
-- [Organizational Design](https://infraeng.dev/organizational-design/) - Common team sizes (aka management span of control) for lead roles from Lethain's org growth template and org design template
+- [Organizational Design](https://infraeng.dev/organizational-design/) - Common team sizes (aka management span of control) for lead roles from Lethain's org growth template and org design template.
 - [progression.fyi](https://www.progression.fyi/) - A great collection of progression frameworks (a much better name for career ladder but less common).
 - [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder .
 - [Spotify Steps Framework](https://engineering.atspotify.com/2016/02/15/spotify-technology-career-steps/) - Spotify's Step Framework for career evolution around disciplines and roles.
@@ -460,11 +460,11 @@ Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), A
 See also: Account Manager, Solution Architect
 
 - [A day in the life of a TAM at Microsoft](https://cloudblogs.microsoft.com/industry-blog/en-gb/beyourfuture/2019/04/18/a-day-in-the-life-of-a-technical-account-manager/) - Good read for comparison of TAM between more technical and more business (customer success) focused, at Microsoft CSM are in the sales org.
-- [A day in the life of a TAM at Red Hat](https://www.redhat.com/en/blog/being-technical-account-manager-tam-day-life) - See below for Red Hat's difference between TAM, CSM and Support
+- [A day in the life of a TAM at Red Hat](https://www.redhat.com/en/blog/being-technical-account-manager-tam-day-life) - See below for Red Hat's difference between TAM, CSM and Support.
 - [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Sales (see above).
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab's open source TAM handbook as part of the customer success team.
-- [Red Hat's Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective
+- [Red Hat's Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
