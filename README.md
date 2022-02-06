@@ -1,7 +1,7 @@
 # Awesome Tech Roles
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Tech-adjacent Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms or firms that see themselves as technology companies and embrace a product mindset.
+Tech-adjacent Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") organizations, or organization that sees themselves as technology-driven and embraces a product mindset.
 
 This list does not cover non-tech industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have different, often hierarchical or organizational, meaning (e.g. Analyst, Manager, Operations). This list ist not a definition but an observation.
 
@@ -434,10 +434,11 @@ See also: Solution Architect, Partner Engineer
 - [Why Doesn't Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
 
 #### Partner Engineer
-Similar to: Partnership Manager, Alliance Manager, Partner Development Manager, Partner Solution Architect, Integration Engineer, Partner Support, System Engineer
+Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Integration Engineer, Partner Support, System Engineer
 
 See also: Trainer, Developer Advocate, Integration Engineer
 
+- [AWS Teams you NEED to Know to Accelerate Business Growth](https://nofar-asselman.medium.com/the-big-five-aws-teams-you-need-to-know-42b000618313) - Interesting perspective into AWS's partner organization and how Independent Software Vendor (ISV) SaaS work on AWS Marketplace
 - [Cisco's Customer Experience Framework](https://blogs.cisco.com/partner/how-partners-make-money-with-cisco-customer-experience-cx) - Cisco's services portfolio around Expert Resources, Trusted Support, Insights and Analytics and Contextual Learning for their partners.
 - [Confluent verified integrations program](https://www.confluent.io/blog/guide-to-confluent-verified-integrations-program/) - Often tech companies certify their software to run on other platforms or be operated by partners, another good example of a partner engineer's role.
 - [Elastic Partner Program](https://www.elastic.co/partners/program) - (For comparison) Elastic relies a lot on partners ([less with AWS](https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/) but more with [GCP and Azure](https://www.elastic.co/blog/elastic-recognized-for-innovation-by-google-cloud-and-microsoft)) so their PDF guides do a good explaining the difference between Managed Service Provider (MSP), Original Equipment Manufacturer (OEM), System Integrator (SI) and Resell partners.
