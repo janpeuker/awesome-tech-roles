@@ -1,9 +1,9 @@
 # Awesome Tech Roles
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms, focused on tech-adjacent roles.
+Tech-adjacent Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms or firms that see themselves as technology companies and embrace a product mindset.
 
-This list does not cover industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have very different, often hierarchical, meaning (e.g. Analyst, Manager). This list ist not a definition but an observation.
+This list does not cover non-tech industry enterprises, consulting firms, managed service providers, service delivery firms or startups, as many roles in those (e.g. Architect, Program Manager) have different, often hierarchical or organizational, meaning (e.g. Analyst, Manager, Operations). This list ist not a definition but an observation.
 
 ## Contents
 - [Role Overviews](#role-overviews).
@@ -65,7 +65,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [The Passionate Programmer](https://medium.com/pragmatic-programmers/avoid-waterfall-career-planning-6280dc50a99d) - Excerpt from Chad Fowlers "The Passionate Programmer" on long-term career progression and change.
 
 ### Career Management
-- [2022 Sequoia Compensation Findings Report](https://dataforest.sequoia.com/reports/compensation/) - The 2022 Compensation Findings Report gives interesting insights into the "Great Resignation", remote work, but also how priorities across departments and roles have changed
+- [2022 Sequoia Compensation Findings Report](https://dataforest.sequoia.com/reports/compensation/) - The 2022 Compensation Findings Report gives interesting insights into the "Great Resignation", remote work, but also how priorities across departments and roles have changed.
 - [An Elegant Puzzle](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/) - Summary of Will Larson's book "An Elegant Puzzle" especially look at chapter #5.
 - [Becoming a Technical Leader](https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/) - Notes and excerpts from Gerald Weinberg's "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser".
 - [Competency Management](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/human-capital/ZA_Competency_management_at_its_most_competent.pdf) - Deloitte / Development Dimensions International white paper on Competency Management using a Success Profile model.
@@ -76,7 +76,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Google's Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work.
 - [Growth Framework at Medium](https://medium.com/s/engineering-growth-framework) - Often the term "growth mindset" is used across career dimensions, here is a classic post from Medium who used to [publish their ladder tool Snowflake](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer).
 - [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers.
-- [Know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d) - Another great post by Cindy Sridharan on navigating org incentives in order to influence decisions
+- [Know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d) - Another great post by Cindy Sridharan on navigating org incentives in order to influence decisions.
 - [The 4 key managerial activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/) - Classic blog post by James Stanier predating many engineering management books focusing on _High Output Management_ with a good example of a day schedule.
 - [Maker's Schedule](http://www.paulgraham.com/makersschedule.html) - (For historic context) Paul Graham's classic post on manager schedules.
 - [Performance Achievements](https://www.accenture.com/sg-en/case-studies/about/performance-achievement) - Technical white paper on the HR system also explaining some ideas of an agile performance appraisal process at Accenture.
@@ -112,7 +112,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary.
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV's, Resumes or Career Conversations and Performance Reviews.
-- [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews
+- [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews.
 
 
 ## Role Descriptions
@@ -342,7 +342,7 @@ See also: Support Operations, IT Operations
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
 
 #### IT Operations
-Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
+Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
 
 See also: Support Operations, Site Reliability Engineer (SRE)
 
@@ -351,7 +351,8 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 - [Evoling ThoughtWorks internal IT](https://www.thoughtworks.com/en-sg/insights/blog/evolving-thoughtworks-internal-it-solve-broader-cross-cutting-problems) - Nice insight, more from consulting background but applicable to Tech as well.
 - [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA) - Stephanie Wong's YouTube video won numerous accolades and become the canonical reference for data center DevSecOps.
 - [How Google and Amazon scale up their huge IT operations](https://www.computerworld.com/article/2486298/here-s-how-google-and-amazon-scale-up-their-huge-it-operations.html) - Insight into hyperscalers' economies of scale in data center operations.
-- [Service Management & Operations Management Explained](https://www.bmc.com/blogs/it-service-management-vs-operations-management/#) - (For comparison) Depending on the company SRE / DevOps or IT Ops own operations. This is a good overview of classic IT service management (ITSM) and IT operations management (ITOM) processes more often found in non-tech enterprises.
+- [IT Operations (ITOps) Roles & Responsibilities](https://www.bmc.com/blogs/it-operations-roles/) - (For comparision) Traditional non-tech enterprises often use the "ITIL" framework and try to tweak Tech concepts into it by renaming roles e.g. "ITOps"
+- [Service Management & Operations Management Explained](https://www.bmc.com/blogs/it-service-management-vs-operations-management/) - (For comparison) Depending on the company SRE / DevOps or IT Ops own operations. This is a good overview of classic "ITIL" IT service management (ITSM) and IT operations management (ITOM) processes more often found in non-tech enterprises.
 - [Lean at Amazon](https://www.mckinsey.com/business-functions/operations/our-insights/when-toyota-met-e-commerce-lean-at-amazon) - For better or worse, Amazon is known for ruthless operational excellence including writing custom IT operations software (another good example is [McDonald's](https://aws.amazon.com/blogs/enterprise-strategy/revisiting-buy-vs-build-drawing-the-line/)).
 - [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products.
 - [Salesforce Admin](https://www.salesforce.com/ap/blog/2021/06/what-is-a-salesforce-admin.html) - Even SaaS platforms like Salesforce need admins, this is a good overview on the Sys Admin role.
@@ -498,6 +499,6 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
-- [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries
+- [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries.
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk's Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
