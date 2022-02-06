@@ -525,6 +525,6 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
-- (Service Capability & Performance (SCP) Standards)[https://servicestrategies.com/scp-standards/] - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries
+- [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk's Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
