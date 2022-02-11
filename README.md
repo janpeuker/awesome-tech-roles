@@ -457,7 +457,7 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 - [Palo Alto](https://www.paloaltonetworks.com/blog/sase/cloud-delivered-managed-security/) - Many companies move to SaaS by offering their product in the Cloud including managed services, for instance Palo Alto offers managed security services.
 
 #### Technical Account Manager (TAM)
-Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager
+Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM)
 
 See also: Account Manager, Solution Architect
 
@@ -468,6 +468,7 @@ See also: Account Manager, Solution Architect
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab's open source TAM handbook as part of the customer success team.
 - [Red Hat's Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
+- [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
 #### Trainer
