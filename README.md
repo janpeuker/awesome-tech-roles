@@ -43,7 +43,7 @@ Not focused on management overall although some links might lead to it. Instead,
 ### Tech Roles in a team and lateral progress
 - [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - Summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles.
-- [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch’s extension of Conway&apos;s Law or "strategy drives structure".
+- [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch&apos;s extension of Conway&apos;s Law or "strategy drives structure".
 - [Conway&apos;s Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway&apos;s Law and ThoughtWorks' Inverse Conway Maneuver to avoid having the organization become the product.
 - [Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - Bruce Webster coined the Dead Sea Effect for the Tech version of the Peter Principle aka Dilbert Principle.
 - [Expert Beginner Problem](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Erik Dietrich introduced the term "Expert Beginner" for a dead-end in learning progress.
@@ -72,7 +72,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Developer Progression as a function of navigating complexity](https://www.siddharthsarda.com/p/developer-progression-as-a-function) - Siddharth Sarda translating Jessica Kerr&apos;s research into developer career progression (complexity is a common career framework attribute).
 - [Don Jones &apos;Own your Tech Career&apos;](https://techleadjournal.dev/episodes/55/) - TechLead Podcast episode on [Don Jones&apos; book](https://www.manning.com/books/own-your-tech-career).
 - [Engineering Leadership Skill Set Overlaps](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps) - Paid newsletter, for reference on the terms Staff Engineer, Engineering Manager (EM), Product Manager (PM), Tech Lead Manager (TLM) and Technical Program Manager (TPM).
-- [Engineering management 101: evaluating your team’s performance](https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance) - Classic post by Camille Fournier on coaching as core management competency.
+- [Engineering management 101: evaluating your team&apos;s performance](https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance) - Classic post by Camille Fournier on coaching as core management competency.
 - [Google&apos;s Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work.
 - [Growth Framework at Medium](https://medium.com/s/engineering-growth-framework) - Often the term "growth mindset" is used across career dimensions, here is a classic post from Medium who used to [publish their ladder tool Snowflake](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer).
 - [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers.
@@ -158,7 +158,7 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe) - Insights from Stripe into DevRel since the pandemic with a lot of links to further resources and people.
 - [What is DX?](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) - Good summary of Developer Experience (DX).
 - [Why am I a Developer Advocate?](https://twitter.com/kelseyhightower/status/808436229851090945) - Kelsey Hightower explaining DevRel as the CTO of a product.
-- [Working in Public](https://nadiaeghbal.com/oss/) - Nadia Eghbal’s book "Working in Public" became an instant classic, this is a resource collection of her research, in particular the roles of maintainers in Open-Source projects.
+- [Working in Public](https://nadiaeghbal.com/oss/) - Nadia Eghbal&apos;s book "Working in Public" became an instant classic, this is a resource collection of her research, in particular the roles of maintainers in Open-Source projects.
 
 #### Product Manager (PM)
 Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analyst
@@ -304,7 +304,7 @@ See also: Trust and Safety Analyst
 - [Cloudflare how to build security teams](https://blog.cloudflare.com/international-womens-day-2020-building-a-modern-security-team/) - Very cloudflare-specific but good overview on career paths into security engineering.
 - [InfoSec Career Path](https://twitter.com/dakami/status/1213698967659151363?s=19) - Twitter Thread by Dan Kaminsky on his career in InfoSec.
 - [InfoSec Competencies](https://www.netmeister.org/blog/infosec-competencies.html) - (Technical) Infosec Core Competencies, a good list to understand skills required.
-- [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge) - Twitter has recently stepped up AI Security and Safety with Rumman Chowdhury appointment joining shortly after Peiter “Mudge” Zatko.
+- [Introducing Twitter&apos;s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge) - Twitter has recently stepped up AI Security and Safety with Rumman Chowdhury appointment joining shortly after Peiter "Mudge" Zatko.
 - [Our CVE Story: An Open-Source, Community-Based Example](https://cve.mitre.org/blog/April122021_Our_CVE_Story_An_Open_Source_Community_Based_Example.html) - (For comparison) How Apache as an OSS Organization became part of the CVE community, in the CVE blog.
 - [Telegraphing the future of security](https://blog.google/technology/safety-security/telegraphing-future-security/) - Snippets from security experts what future challenges for roles will be e.g. security and digital literacy and user empathy.
 - [Working at Project Zero](https://googleprojectzero.blogspot.com/p/working-at-project-zero.html) - OG Project Zero overview on career paths to security engineering.
@@ -330,7 +330,7 @@ See also: Support Operations, IT Operations
 
 - [7 Lessons From 10 Outages](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - How life really is [on-call](https://increment.com/on-call) explained in The Downtime Project&apos;s podcast.
 - [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer).
-- [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team’s maturity in the Google Blog .
+- [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team&apos;s maturity in the Google Blog .
 - [DevOps, SRE and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/) - Tweet unroll of the difference between Software Development, DevOps, SRE and towards Platform Engineering.
 - [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams".
 - [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps.
@@ -387,7 +387,7 @@ See also: Technical Account Manager, Account Manager, Solution Architect
 
 - [Forrester Business Case For Customer Success Management](https://go.forrester.com/blogs/build-the-case-for-a-customer-success-management-program-now/) - Forrester and [Salesforce](https://www.salesforce.com/blog/build-customer-success-organization/) have a good case study for the introduction of a Customer Success function.
 - [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
-- [Presales, Sales Engineering and Solution Architects Mean In Today’s Digital Sales](https://hub.inc/what-do-presales-sales-engineering-and-solution-architects-mean-in-todays-digital-sales-era/) - Comparing the roles of presales, sales engineers, and solution architects (sadly from a product pitch perspective but it&apos;s a good start).
+- [Presales, Sales Engineering and Solution Architects Mean In Today&apos;s Digital Sales](https://hub.inc/what-do-presales-sales-engineering-and-solution-architects-mean-in-todays-digital-sales-era/) - Comparing the roles of presales, sales engineers, and solution architects (sadly from a product pitch perspective but it&apos;s a good start).
 - [Sales Engineer Skills](https://www.cybervista.net/top-skills-of-an-exceptional-sales-engineer/) - Very sales-y description of sales engineering skills.
 - [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart) - (For comparison) David Sacks showing 3 very detailed sample org charts for Series A, Series B, or Series C with a strong focus on Customer Success.
 - [Value Selling vs Solution Selling](https://blog.close.com/value-selling-vs-solution-selling/) - Good comparison of Account Manager role, often value selling, and Sales Engineer role, often solution selling.
@@ -414,7 +414,7 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 - [Accenture Tech Vision](https://www.accenture.com/sg-en/insights/technology/technology-trends-2019) - (For comparison) Tech consultancies and system integrators move up the value chain by pushing into strategy, [ThoughtWorks Radar](https://www.thoughtworks.com/radar) and Accenture Digital were one of the first to form these research units.
 - [Chief Transformation Officer](https://www.mckinsey.com/business-functions/rts/our-insights/the-role-of-the-chief-transformation-officer) - During a Digital Transformation, a Chief Transformation Offer drives the strategy - says McKinsey.
 - [GitHub OCTO](https://github.com/github/githubOCTO/discussions/1) - GitHub&apos;s research unit is responsible to syndicate their view of the future of technology.
-- [How Google’s Office of the CTO is Redefining Collaboration](https://mission.org/podcast/built-for-innovation-how-googles-office-of-the-cto-is-redefining-collaboration/) - Podcast with Google Cloud&apos;s OCTO with the history and future of the team.
+- [How Google&apos;s Office of the CTO is Redefining Collaboration](https://mission.org/podcast/built-for-innovation-how-googles-office-of-the-cto-is-redefining-collaboration/) - Podcast with Google Cloud&apos;s OCTO with the history and future of the team.
 - [VMware OCTO Blog](https://octo.vmware.com/new-way-thinking-origins-vmware-octo-cloud-architecture-team/) - History of VMware&apos;s OCTO team and research / whitepaper unit.
 
 ### Customer-facing, post-commit
@@ -452,7 +452,7 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 - [Accenture Infrastructure Services](https://www.accenture.com/us-en/insights/cloud/cloud-environment-management) - Accenture (consulting firm, not strictly Tech) explaining capabilities it offers to customers to manage their cloud e.g. FinOps.
 - [Azure Expert MSP](https://partner.microsoft.com/en-rs/membership/azure-expert-msp) - Microsoft Azure has one of the most mature managed services partners programs.
 - [Cisco Partner Managed Services](https://blogs.cisco.com/partner/welcome-to-partner-managed-services) - Cisco pivoted from hardware into services but smarter than IBM with a managed services strategy that included partners.
-- [Huawei’s Own Digital Transformation](https://e.huawei.com/sg/publications/global/ict_insights/201801221604/digital-huawei/201801241420) - (For comparison) Network Managed Services are especially prevalent in outsourcing-heavy Telecommunications (Telco) firms, a view inside Huawei&apos;s Service-Delivery Platform shows how everything centers around tracking managed services and resource allocation.
+- [Huawei&apos;s Own Digital Transformation](https://e.huawei.com/sg/publications/global/ict_insights/201801221604/digital-huawei/201801241420) - (For comparison) Network Managed Services are especially prevalent in outsourcing-heavy Telecommunications (Telco) firms, a view inside Huawei&apos;s Service-Delivery Platform shows how everything centers around tracking managed services and resource allocation.
 - [IBM spins of Kyndryl](https://newsroom.ibm.com/2021-04-12-IBMs-Independent-Managed-Infrastructure-Services-Business-to-be-Named-Kyndryl) - Over the years, IBM had become a managed services business and now spun it off.
 - [Palo Alto](https://www.paloaltonetworks.com/blog/sase/cloud-delivered-managed-security/) - Many companies move to SaaS by offering their product in the Cloud including managed services, for instance Palo Alto offers managed security services.
 
@@ -468,7 +468,7 @@ See also: Account Manager, Solution Architect
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab&apos;s open source TAM handbook as part of the customer success team.
 - [Red Hat&apos;s Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
-- [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup
+- [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
 #### Trainer
@@ -484,7 +484,7 @@ See also: Technical Writer, Developer Advocate
 - [Pitfalls to Avoid When Building a CCoE](https://aws.amazon.com/blogs/enterprise-strategy/7-pitfalls-to-avoid-when-building-a-ccoe/) - AWS blog post on how to build up a cloud center of excellence (or any center of excellence).
 - [Remote Education](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) - GitHub Blog Series on best practices for online campus communities.
 - [Stop sidelining your network team](https://acloudguru.com/blog/business/hey-cloud-execs-stop-sidelining-your-network-team) - Advertorial by A Cloud Guru (now part of PluralSight) showing the need for re-skilling due to technology changes, here with the example of network infrastructure to Cloud.
-- [The Programmer’s Brain](https://www.manning.com/books/the-programmers-brain) - _The Programmer’s Brain_ is a bug summarizing tons of [Felienne Hermans&apos;s research](https://www.felienne.com/publications) on learning, understanding and collaboration for engineers.
+- [The Programmer&apos;s Brain](https://www.manning.com/books/the-programmers-brain) - _The Programmer&apos;s Brain_ is a bug summarizing tons of [Felienne Hermans&apos;s research](https://www.felienne.com/publications) on learning, understanding and collaboration for engineers.
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
 #### Support Operations
