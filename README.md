@@ -206,10 +206,11 @@ See also: Product Manager (PM)
 - [PMO: From Technology Spectator to Enterprise Enabler](https://aws.amazon.com/blogs/enterprise-strategy/the-project-management-office-from-technology-spectator-to-enterprise-enabler/) - Opinion piece on the Project Management Office (PMO)&apos;s changed role .
 - [Products over Projects](https://martinfowler.com/articles/products-over-projects.html#ChallengesOfOperatingInProduct-mode) - (For comparison) Product vs Project organizations and the strengths of both models.
 - [Project Management in 2021](https://monday.com/blog/project-management/guide-to-project-management/) - Long blog post on modern project management (advertorial but good references).
-- [Project Management in Tech](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - Gergely Orosz summarizing the heterogenous project and product management approaches in big tech firms.
+- [Project Management in Tech](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - Gergely Orosz summarizing the heterogenous project and product management approaches in big tech firms (see below for follow-up post on TPM).
 - [Self-organizing teams](https://leaddev.com/culture-engagement-motivation/art-self-organizing-engineering-teams) - (For comparison) aspects of self-organizing teams and how the (project) manager role changes.
 - [Uber Freight Technology Team](https://www.uber.com/en-SG/blog/meet-the-team-uber-freight-technology/) - Interview with a whole technology team giving a good overview how program manager, engineer and data science work together - see also ["Navigating the TPM team"](https://eng.uber.com/tpm-and-learning-team/).
 - [Using Domain-Driven Design for autonomous teams](https://www.agilealliance.org/resources/experience-reports/towards-autonomous-aligned-teams-with-domain-driven-design/) - (For comparison) how bounded contexts can be used to reduce communication overhead between teams.
+- [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do) - Gergely Orosz in his Newsletter specifically on Technical Program Managers (TPM) in the context of his earlier role overview in tech firms.
 
 #### Technical Writer
 Similar to: Editor, UX Writer, Documentation Manager / Designer, Content Strategist
