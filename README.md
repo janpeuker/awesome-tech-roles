@@ -114,6 +114,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV&apos;s, Resumes or Career Conversations and Performance Reviews.
 - [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews.
+- [The Ultimate Guide to Onboarding](https://leadership.garden/onboarding-engineers/) - (For comparison) Not directly interview-related, but it's helpful to ask questions about onboarding during interviews to understand learning (growth mindset) focus of an org.
 
 
 ## Role Descriptions
@@ -328,7 +329,7 @@ See also: Security Analyst, Data Analyst
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
-Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator
+Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Core Infrastructure
 
 See also: Support Operations, IT Operations
 
@@ -341,9 +342,11 @@ See also: Support Operations, IT Operations
 - [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry.
 - [Incident Operations](https://sre.google/sre-book/managing-incidents/) - The SRE book defines roles during an incident like ops lead, incident commander and communication lead.
 - [Jez Humble&apos;s DevOps insights](https://newrelic.com/blog/best-practices/devops-jez-humble) - For historic context one of the earlier talks by Jez Humble in the New Relic blog.
+- [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations).
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones' legendary blog post and YouTube video series explaining SRE.
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
+- [Trunk and Branches Model](https://infraeng.dev/trunk-and-branches/) - Will Larson's learnings scaling infrastructure organizations using his Trunk and Branches Model.
 
 #### IT Operations
 Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
@@ -358,7 +361,6 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 - [IT Operations (ITOps) Roles & Responsibilities](https://www.bmc.com/blogs/it-operations-roles/) - (For comparision) Traditional non-tech enterprises often use the "ITIL" framework and try to tweak Tech concepts into it by renaming roles e.g. "ITOps".
 - [Service Management & Operations Management Explained](https://www.bmc.com/blogs/it-service-management-vs-operations-management/) - (For comparison) Depending on the company SRE / DevOps or IT Ops own operations. This is a good overview of classic "ITIL" IT service management (ITSM) and IT operations management (ITOM) processes more often found in non-tech enterprises.
 - [Lean at Amazon](https://www.mckinsey.com/business-functions/operations/our-insights/when-toyota-met-e-commerce-lean-at-amazon) - For better or worse, Amazon is known for ruthless operational excellence including writing custom IT operations software (another good example is [McDonald&apos;s](https://aws.amazon.com/blogs/enterprise-strategy/revisiting-buy-vs-build-drawing-the-line/)).
-- [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products.
 - [Salesforce Admin](https://www.salesforce.com/ap/blog/2021/06/what-is-a-salesforce-admin.html) - Even SaaS platforms like Salesforce need admins, this is a good overview on the Sys Admin role.
 - [Thank you, IT](https://blog.google/inside-google/life-at-google/making-our-tech-spill-proof-crash-proofthank-you-it/) - Google&apos;s Techstop team is often cited as one of the best perks at Google, an IT that "just works" with great empathy and talent e.g. ["Grab and Go Loaners"](https://www.blog.google/products/chrome-enterprise/extending-googles-grab-and-go-program-to-businesses/).
 - [The Changing World of an (Oracle) Database Administrator](https://blogs.oracle.com/database/post/the-rise-of-the-renaissance-database-administrator) - (For comparison) Oracle on the "change" of the DBA role.
@@ -381,6 +383,7 @@ See also: Sales Engineer, Technical Account Manager
 - [Sales Pitch Guide](https://close.com/sales-pitch/) - A guide on the art of the pitch.
 - [Salesforce State of Sales Report](https://www.salesforce.com/news/stories/the-fourth-state-of-sales-report-shows-how-teams-adapt-to-a-new-selling-landscape/) - Modelled after the State of DevOps report, this research survey shows how account management changed post-pandemic.
 - [Stakeholder Mapping](https://miro.com/blog/stakeholder-mapping/) - Stakeholder Mapping and Go-To-Market is one of the most important functions of an Account Manager.
+- [The Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve) - Classic HBR research on different stages of sales processes, important to understand priorities.
 - [Types of Bonuses](https://www.glassdoor.com/blog/types-of-bonuses/) - Good summary from Glassdoor showing different incentive structures between sales (pre-commit) and other teams.
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
@@ -496,6 +499,7 @@ Similar to: Product Operations, Product Support, Customer Experience, Technical 
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
 
+- [Big Tech and the reality of scaling customer support](https://blog.pragmaticengineer.com/scaling-customer-support/) - Scoop by Gergely Orosz going deep into the (good and bad) incentives for support organizations.
 - [Customer Experience at Apple](https://medium.com/thrive-global/always-start-with-the-customer-experience-not-with-the-technology-former-apple-ceo-john-sculley-68b5f36e810e) - Very long interview with Jon Sculley how apple sees the end-to-end customer experience, made famous with the Genius bar.
 - [Customer Service at Shopify](https://www.shopify.com.sg/blog/customer-service) - Whole framework of how to build successful customer service and retain happy customers ([interesting context in the same blog](https://www.shopify.com.sg/retail/119535811-the-apple-store-guide-to-insanely-great-customer-service) on Apple above).
 - [Dropbox Support Team](https://blog.dropbox.com/topics/company/the-dropbox-support-you-know-and) - Specific to Dropbox but good insight into metrics, tasks and technology of support teams.
