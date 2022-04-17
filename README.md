@@ -77,6 +77,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Google&apos;s Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work.
 - [Growth Framework at Medium](https://medium.com/s/engineering-growth-framework) - Often the term "growth mindset" is used across career dimensions, here is a classic post from Medium who used to [publish their ladder tool Snowflake](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer).
 - [Hiring vs Nurturing Managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) - Hiring vs Nurturing Managers.
+- [How to prevent a Bozo Explosion](https://guykawasaki.com/how_to_prevent_/) - Classic essay by Guy Kawasaki on slow rot and deterioration of innovative company cultures.
 - [Know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d) - Another great post by Cindy Sridharan on navigating org incentives in order to influence decisions.
 - [The 4 key managerial activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/) - Classic blog post by James Stanier predating many engineering management books focusing on _High Output Management_ with a good example of a day schedule.
 - [Maker&apos;s Schedule](http://www.paulgraham.com/makersschedule.html) - (For historic context) Paul Graham&apos;s classic post on manager schedules.
@@ -335,13 +336,15 @@ See also: Support Operations, IT Operations
 
 - [7 Lessons From 10 Outages](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - How life really is [on-call](https://increment.com/on-call) explained in The Downtime Project&apos;s podcast.
 - [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer).
-- [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team&apos;s maturity in the Google Blog .
+- [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team&apos;s maturity in the Google Blog.
+- [Building Platform Teams](https://martinfowler.com/articles/building-infrastructure-platform.html) - ThoughtWorks blog on how to build platform teams and what metrics they are measured on.
 - [DevOps, SRE and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/) - Tweet unroll of the difference between Software Development, DevOps, SRE and towards Platform Engineering.
 - [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams".
 - [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps.
 - [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry.
 - [Incident Operations](https://sre.google/sre-book/managing-incidents/) - The SRE book defines roles during an incident like ops lead, incident commander and communication lead.
 - [Jez Humble&apos;s DevOps insights](https://newrelic.com/blog/best-practices/devops-jez-humble) - For historic context one of the earlier talks by Jez Humble in the New Relic blog.
+- [Making Ops work more visible](https://github.com/readme/guides/ops-work-visible) - Interesting story from Netflix' DevOps journey from "You run it" to SRE and Platforms teams.
 - [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations).
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones' legendary blog post and YouTube video series explaining SRE.
