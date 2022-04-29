@@ -1,5 +1,5 @@
 # Awesome Tech Roles
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Tech-adjacent Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") organizations, or organization that sees themselves as technology-driven and embraces a product mindset.
 
@@ -441,6 +441,7 @@ See also: Solution Architect, Partner Engineer
 - [GitLab Migration Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/) - GitLab&apos;s Professional Services is under its Customer Success org and focuses on certifying service partners (see "Partner Engineer") with their standard methodology (see below).
 - [Hashicorp introducing Professional Services](https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog) - Interesting insight how small but famous tech companies take a step towards Implementation Services.
 - [HBR Digital Transformation](https://hbr.org/2019/03/digital-transformation-is-not-about-technology) - (For comparison) Digital Transformation (["Every company wants to be a tech company"](https://www.inc.com/magazine/201605/marli-guzzetta/tech-company-definition.html) aka ["Software is easting the world"](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.c9xi6vier)) is the main trend tech companies plug into, this older Harvard Business Review article gives a good overview.
+- [How to become a Premier Field Engineer](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-become-a-premier-field-engineer-pfe/ba-p/255475) - The term "Field Engineer" has fallen a little bit out of session but generally used to mean customer-facing engineers travelling on-site
 - [Scalable and seamless customer service](https://www.salesforce.com/ap/customer-success-stories/tokopedia/) - Advertorial but good example of business-focused consulting services as done by Salesforce.
 - [The 12 Worst Differentiators for Professional Services Firms](https://hingemarketing.com/blog/story/the-12-worst-differentiators-for-professional-services-firms) - Pop-up laden advertorial but good insights what to look for in professional services value propositions (which drives what the roles do).
 - [Why Doesn't Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
