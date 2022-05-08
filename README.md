@@ -24,6 +24,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10) - Great talk by Marco Rogers comparing different progression frameworks and how to build one on top, with a good focus on diversity (via [this long post](https://www.linkedin.com/pulse/how-build-strong-career-tech-thiago-ghisi/)).
 - [Designing Engineering organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) - Classic post highlighting different "matrix" ways of organizing tech teams (conclusion: stable, multi-disciplinary, and product-aligned is a good bet).
 - [Dropbox Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world) - Dropbox Engineering Career Framework also including SRE, TPM etc.
+- [Engineering Levels - A case study](https://engstuff.substack.com/p/engineering-levels-a-case-study-from?s=r) - Basic high-level overview of individual contributor vs manager vs VP with some nice references e.g. the Cone Model.
 - [Engineering manager archetypes and career paths](https://leaddev.com/leadership-skills/engineering-manager-archetypes-and-career-paths) - Charity Majors has a lot of great advice on IC to manager (and back) switch - this is a great summary but sadly behind a weird spam-wall.
 - [Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548) - ACM research article by Kate Matsudaira on steps from team lead to CxO.
 - [GitLab Job Families](https://about.gitlab.com/job-families/) - GitLab&apos;s overview of all job families, their whole management framework is openly accessible.
@@ -136,10 +137,12 @@ See also: Product Manager, Technical Writer
 - [Career Management Document](https://alistapart.com/article/the-career-management-document/) - Jessica Ivins in A List Apart on career progress for designers.
 - [Design Systems](https://matthewstrom.com/writing/design-apis/) - In UX, design systems have been taken over, in developer advocacy "DX" is coming, this article goes in depth how to apply this to API documentation.
 - [Everything You Know About Web Design Just Changed](https://talks.jensimmons.com/20LmLE/everything-you-know-about-web-design-just-changed) - Jen Simmons seminal talk on the history of design into the digital era (and why CSS is a programming language).
+- [Figma Product Design Ladder](https://nlevin.com/figma/ladder/) - Figma's career ladder for product designers shows 6 dimensions or responsibilities like product strategy.
 - [Guide to UX research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/) - Canonical article trying to explain all aspects of UX research.
 - [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech.
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google&apos;s People + AI Guidebook contains patterns for incorporating AI into product design.
 - [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/) - Marty Cagan on empowered Feature Teams and the role of "Product Designer".
+- [Staff Design](https://staff.design/) - Staff Design is a catalog and resource to navigate the individual contributor career path, curated by Brian Lovin.
 - [usability.gov](https://www.usability.gov/what-and-why/user-research.html) - List of user research techniques as part of the US usability standards e.g. [Peter Morville&apos;s User Experience Honeycomb](https://www.usability.gov/what-and-why/user-experience.html).
 - [USDS Digital Services Playbook](https://playbook.cio.gov/#play3) - Digital Services Playbook highlighting the focus on Make it simple and intuitive with a reference to the U.S. Web Design System.
 - [User Experience at Spotify](https://productschool.com/blog/product-management-2/spotify-user-experience/) - Interview on product management at Spotify.
