@@ -111,6 +111,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [How to freaking hire great developers](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - Blog post on Code _Reading_ interviews, their advantage to debias and tips how to conduct them.
 - [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms.
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) - Thomas Ptacek&apos;s classic, deep essay about Tech hiring processes.
+- [Hiring Technical Talent](https://github.com/readme/guides/hiring-technical-talent) - This article is very high level but GitHub's ReadME is a good overall resource, this is a placeholder to many of their good articles on hiring.
 - [Interview Performance is kind of arbitrary](https://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/) - Research by Aline Lerner et al on tech interview performance, biases and noise.
 - [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Interview process from "The Manager&apos;s Handbook".
 - [Interview your manager back](https://twitter.com/lilykonings/status/1484598087494496258) - Great tweet storm on questions to ask back to managers to understand the company and role focus.
@@ -167,6 +168,7 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann&apos;s Developer Advocacy Handbook has been updated for 11 years and counting.
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - Nader Dabit on the edge between developer advocacy and consulting.
+- [Taking a DevRel approach to developer onboarding](https://github.com/readme/guides/community-engagement) - Sonia John in GitHub's ReadME on how to use ideas from DevRel for onboarding all engineers (nice list of references in the end).
 - [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe) - Insights from Stripe into DevRel since the pandemic with a lot of links to further resources and people.
 - [What is DX?](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) - Good summary of Developer Experience (DX).
 - [Why am I a Developer Advocate?](https://twitter.com/kelseyhightower/status/808436229851090945) - Kelsey Hightower explaining DevRel as the CTO of a product.
