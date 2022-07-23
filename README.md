@@ -25,6 +25,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Designing Engineering organizations](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) - Classic post highlighting different "matrix" ways of organizing tech teams (conclusion: stable, multi-disciplinary, and product-aligned is a good bet).
 - [Dropbox Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world) - Dropbox Engineering Career Framework also including SRE, TPM etc.
 - [Engineering Levels - A case study](https://engstuff.substack.com/p/engineering-levels-a-case-study-from?s=r) - Basic high-level overview of individual contributor vs manager vs VP with some nice references e.g. the Cone Model.
+- [Engineering Levels at Honeycomb](https://www.honeycomb.io/blog/engineering-levels-at-honeycomb/) - Short blog post explaining Honeycomb&apos;s growth framework based on scope and ownership - good reading in the context of [this Twitter thread on ladders](https://twitter.com/lewisl9029/status/1548754468304326657).
 - [Engineering manager archetypes and career paths](https://leaddev.com/leadership-skills/engineering-manager-archetypes-and-career-paths) - Charity Majors has a lot of great advice on IC to manager (and back) switch - this is a great summary but sadly behind a weird spam-wall.
 - [Evolution of Management](https://queue.acm.org/detail.cfm?id=3350548) - ACM research article by Kate Matsudaira on steps from team lead to CxO.
 - [GitLab Job Families](https://about.gitlab.com/job-families/) - GitLab&apos;s overview of all job families, their whole management framework is openly accessible.
@@ -33,6 +34,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Jorge Fioranelli&apos;s Ladder Framework](https://github.com/jorgef/engineeringladders) - A GitHub repo with a complete career management framework along 5 axes.
 - [levels.fyi](https://www.levels.fyi/blog/swe-level-framework.html) - Common attributes of the Engineering career ladder in a standard framework.
 - [Microsoft Disciplines and Professions](https://careers.microsoft.com/professionals/us/en/professions) - Microsoft&apos;s breakdown of their job families into disciplines and professions.
+- [Operating Well - What I learned at Stripe](https://every.to/p/operating-well-what-i-learned-at-stripe) - Good collection of resources and techniques for management in high-growth organizations, with a particular focus on hiring and scaling.
 - [Organizational Design](https://infraeng.dev/organizational-design/) - Common team sizes (aka management span of control) for lead roles from Lethain&apos;s org growth template and org design template.
 - [progression.fyi](https://www.progression.fyi/) - A great collection of progression frameworks (a much better name for career ladder but less common).
 - [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder .
@@ -46,27 +48,27 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - Summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles.
 - [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch&apos;s extension of Conway&apos;s Law or "strategy drives structure".
-- [Conway&apos;s Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway&apos;s Law and ThoughtWorks' Inverse Conway Maneuver to avoid having the organization become the product.
+- [Conway&apos;s Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway&apos;s Law and ThoughtWorks&apos; Inverse Conway Maneuver to avoid having the organization become the product.
 - [Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - Bruce Webster coined the Dead Sea Effect for the Tech version of the Peter Principle aka Dilbert Principle.
 - [Expert Beginner Problem](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Erik Dietrich introduced the term "Expert Beginner" for a dead-end in learning progress.
 - [Freedom at work](https://medium.com/@chadfowler/clone-yourself-the-step-by-step-guide-to-finding-freedom-at-work-11fdccf2f50b) - Chad Fowler on working towards a career goal like building a startup.
 - [How engineering-driven leads to engineering-supremacy](https://charity.wtf/2022/01/20/how-engineering-driven-leads-to-engineering-supremacy/) - Great post by Charity Majors on tech-adjacent roles, balancing engineering and business value focus and respecting sales.
 - [Is Tech the right career for you?](https://hbr.org/2021/08/is-tech-the-right-career-for-you) - Quick and easy summary in the HBR blog on non-engineering roles in Tech.
-- [Jeff Bezos' API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today e.g. [this recent HBR article on API&apos;s between teams](https://hbr.org/2021/04/apis-arent-just-for-tech-companies).
+- [Jeff Bezos&apos; API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today e.g. [this recent HBR article on API&apos;s between teams](https://hbr.org/2021/04/apis-arent-just-for-tech-companies).
 - [Learn Software Development Toolkit](https://www.techwell.com/hub-takover/lean-software-development-agile-toolkit) - Interview with Mary Poppendieck author of "Leading Lean Software Development" on how Lean may fight against the organization.
 - [Hunting Tech Debt via Org Charts](https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145) - Marianne Bellotti author of ["Kill it with Fire"](https://nostarch.com/kill-it-fire) on tech debt, interesting because she put it into context of different engineering team organizations.
 - [Managing with Context, not control](https://awspyker.medium.com/managing-with-context-not-control-2a5643386ecd) - Netflix famous people over process culture defining managers as "glue" (see below).
 - [Next Generation Organization](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300) - Simon Wardley&apos;s research on next generation organizations including team structures formed by swarming (also see [Adhocracy](https://www.mckinsey.com/business-functions/organization/our-insights/adhocracy-for-an-agile-age)).
 - [Picking your next Tech employer](https://medium.com/swlh/https-medium-com-tomaspueyo-the-secret-to-picking-your-next-tech-employer-7869a5a9367e) - Good overview on various startup stages vs established tech firms.
 - [Pragmatic Programmer](https://www.codingblocks.net/podcast/the-pragmatic-programmer-how-to-build-pragmatic-teams/) - Notes from a podcast on Andrew Hunt and David Thomas&apos; "The Pragmatic Programmer" especially chapters "Orthogonality" and "Team Division".
-- [Staff Engineer at Carta](https://medium.com/building-carta/staff-engineering-at-carta-526b154fd317) - Good overview on the application of Will Larson's and Yonatan Zunger's staff engineer roles at Carta.
+- [Staff Engineer at Carta](https://medium.com/building-carta/staff-engineering-at-carta-526b154fd317) - Good overview on the application of Will Larson&apos;s and Yonatan Zunger&apos;s staff engineer roles at Carta.
 - [Staff Engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) - Amy Unger describing the sphere of influence of a staff engineer helps understand relationships to other roles.
 - [Staff Engineer](https://staffeng.com/guides/staff-archetypes) -  Will Larson&apos;s Staff Engineer book and "StaffEng" blog talks about the career towards 4 archetypes of staff engineer roles: Tech Lead, Architect, Solver and Right Hand.
 - [Startup Engineering Teams](https://increment.com/teams/how-to-build-a-startup-engineering-team/) - Increment #11 on how to structure teams in startups.
-- [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/) -  Adam Gordon Bell comparing Line and Staff Software Engineers as similar to IT as Profit Center vs. Cost Center in an example of consulting vs industry companies (see epic fail ["IT doesn't matter" essay](https://hbr.org/2003/05/it-doesnt-matter) by Nick Carr but this guide does not focus on traditional industry).
+- [The Other Kind of Staff Software Engineer](https://earthly.dev/blog/line-staff/) -  Adam Gordon Bell comparing Line and Staff Software Engineers as similar to IT as Profit Center vs. Cost Center in an example of consulting vs industry companies (see epic fail ["IT doesn&apos;t matter" essay](https://hbr.org/2003/05/it-doesnt-matter) by Nick Carr but this guide does not focus on traditional industry).
 - [Team Topologies](https://teamtopologies.com/key-concepts) - Instant classic book that introduced the notions of stream-aligned-, enabling-, subsysteam- and platform-team.
 - [The Passionate Programmer](https://medium.com/pragmatic-programmers/avoid-waterfall-career-planning-6280dc50a99d) - Excerpt from Chad Fowlers "The Passionate Programmer" on long-term career progression and change.
-- [WTF is a Tech Lead](https://gauravgargate.medium.com/wtf-is-a-tech-lead-and-what-does-she-do-b858a01902a6) - This list doesn't focus on lead roles but here is a good example of responsibilities within a team of engineers (without the bias of [Tech Lead vs Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html)).
+- [WTF is a Tech Lead](https://gauravgargate.medium.com/wtf-is-a-tech-lead-and-what-does-she-do-b858a01902a6) - This list doesn&apos;t focus on lead roles but here is a good example of responsibilities within a team of engineers (without the bias of [Tech Lead vs Manager](http://www.engineeringladders.com/TechLead-EngineeringManager.html)).
 
 
 ### Career Management
@@ -86,7 +88,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [The 4 key managerial activities](https://www.theengineeringmanager.com/management-101/the-4-key-managerial-activities/) - Classic blog post by James Stanier predating many engineering management books focusing on _High Output Management_ with a good example of a day schedule.
 - [Maker&apos;s Schedule](http://www.paulgraham.com/makersschedule.html) - (For historic context) Paul Graham&apos;s classic post on manager schedules.
 - [Performance Achievements](https://www.accenture.com/sg-en/case-studies/about/performance-achievement) - Technical white paper on the HR system also explaining some ideas of an agile performance appraisal process at Accenture.
-- [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from Clearbit's "The Manager&apos;s Handbook".
+- [Performance Goals](https://themanagershandbook.com/creating-and-achieving-goals/performance) - Performance Management and goals from Clearbit&apos;s "The Manager&apos;s Handbook".
 - [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - Classic (2012) blog post by Patrick McKenzie on salary negotiation although the really interesting core here is your next career move and building up reputation [for creating value](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) _irrespective of a role title_.
 - [Talent is largely a myth](https://blog.nukemberg.com/post/talent-is-largely-a-myth/) - Long article with good references why talent is largely a myth and how to hire for development.
 - [The GROW template](https://rework.withgoogle.com/guides/managers-care-professionally-personally-for-team/steps/structure-career-conversations-with-grow/) - The GROW template for structured Career Conversations from Google re:Work.
@@ -95,7 +97,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [The Manager&apos;s Path](https://www.welcometothejungle.com/en/articles/btc-manager-path-camille-fournier) - Behind the Code summary of Camille Fournier&apos;s instant classic "The Manager&apos;s Path".
 - [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/) - Julia Evans on how to talk to your manager.
 - [Writing the roadmap from engineer to manager](https://stackoverflow.blog/2021/09/17/podcast-376-writing-the-roadmap-from-engineer-to-manager/) - Stack Overflow podcast featuring amongst others Sarah Drasner, author of "Engineering Management for the Rest of Us".
-- [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in Clearbit's "The Manager&apos;s Handbook". See also their leveling, and generally self-determination Motivation theory (SDT) and Herzberg&apos;s Motivation and Hygiene Factors.
+- [Zone of Genius](https://themanagershandbook.com/coaching-and-feedback/zone-of-genius) - Zone of Genius framework from The Big Leap in Clearbit&apos;s "The Manager&apos;s Handbook". See also their leveling, and generally self-determination Motivation theory (SDT) and Herzberg&apos;s Motivation and Hygiene Factors.
 
 ### Interviews
 - [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/) - 18F is a technology and design consultancy for the U.S. Government and publishes a lot of their processes including a detailed hiring guide.
@@ -111,20 +113,20 @@ Not focused on management overall although some links might lead to it. Instead,
 - [How to freaking hire great developers](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/) - Blog post on Code _Reading_ interviews, their advantage to debias and tips how to conduct them.
 - [The Hiring Bar](https://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/) - Comparing hiring attributes across various tech firms.
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/) - Thomas Ptacek&apos;s classic, deep essay about Tech hiring processes.
-- [Hiring Technical Talent](https://github.com/readme/guides/hiring-technical-talent) - This article is very high level but GitHub's ReadME is a good overall resource, this is a placeholder to many of their good articles on hiring.
+- [Hiring Technical Talent](https://github.com/readme/guides/hiring-technical-talent) - This article is very high level but GitHub&apos;s ReadME is a good overall resource, this is a placeholder to many of their good articles on hiring.
 - [Interview Performance is kind of arbitrary](https://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/) - Research by Aline Lerner et al on tech interview performance, biases and noise.
 - [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Interview process from "The Manager&apos;s Handbook".
 - [Interview your manager back](https://twitter.com/lilykonings/status/1484598087494496258) - Great tweet storm on questions to ask back to managers to understand the company and role focus.
 - [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco&apos;s "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler".
-- [Resources in Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?types=reading&topics=interview-prep) - Google's Tech Dev Guide is a great resource for computer science / engineering learning and has a list of (external) resources for _taking_ a tech interview process
-- [Questions I'm asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews.
+- [Resources in Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?types=reading&topics=interview-prep) - Google&apos;s Tech Dev Guide is a great resource for computer science / engineering learning and has a list of (external) resources for _taking_ a tech interview process
+- [Questions I&apos;m asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews.
 - [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format.
 - [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary.
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
-- [The Most Difficult IT Interview I've Ever Loved](https://www.thoughtworks.com/en-sg/insights/blog/most-difficult-it-interview-ive-ever-loved) - Classic blog post on [ThoughtWorks hiring process](https://www.thoughtworks.com/careers/our-process) who early on championed pair programming, code reading and ethics interviews.
+- [The Most Difficult IT Interview I&apos;ve Ever Loved](https://www.thoughtworks.com/en-sg/insights/blog/most-difficult-it-interview-ive-ever-loved) - Classic blog post on [ThoughtWorks hiring process](https://www.thoughtworks.com/careers/our-process) who early on championed pair programming, code reading and ethics interviews.
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV&apos;s, Resumes or Career Conversations and Performance Reviews.
 - [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews.
-- [The Ultimate Guide to Onboarding](https://leadership.garden/onboarding-engineers/) - (For comparison) Not directly interview-related, but it's helpful to ask questions about onboarding during interviews to understand learning (growth mindset) focus of an org.
+- [The Ultimate Guide to Onboarding](https://leadership.garden/onboarding-engineers/) - (For comparison) Not directly interview-related, but it&apos;s helpful to ask questions about onboarding during interviews to understand learning (growth mindset) focus of an org.
 
 
 ## Role Descriptions
@@ -142,7 +144,7 @@ See also: Product Manager, Technical Writer
 - [Career Management Document](https://alistapart.com/article/the-career-management-document/) - Jessica Ivins in A List Apart on career progress for designers.
 - [Design Systems](https://matthewstrom.com/writing/design-apis/) - In UX, design systems have been taken over, in developer advocacy "DX" is coming, this article goes in depth how to apply this to API documentation.
 - [Everything You Know About Web Design Just Changed](https://talks.jensimmons.com/20LmLE/everything-you-know-about-web-design-just-changed) - Jen Simmons seminal talk on the history of design into the digital era (and why CSS is a programming language).
-- [Figma Product Design Ladder](https://nlevin.com/figma/ladder/) - Figma's career ladder for product designers shows 6 dimensions or responsibilities like product strategy.
+- [Figma Product Design Ladder](https://nlevin.com/figma/ladder/) - Figma&apos;s career ladder for product designers shows 6 dimensions or responsibilities like product strategy.
 - [Guide to UX research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/) - Canonical article trying to explain all aspects of UX research.
 - [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech.
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google&apos;s People + AI Guidebook contains patterns for incorporating AI into product design.
@@ -169,7 +171,8 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann&apos;s Developer Advocacy Handbook has been updated for 11 years and counting.
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - Nader Dabit on the edge between developer advocacy and consulting.
-- [Taking a DevRel approach to developer onboarding](https://github.com/readme/guides/community-engagement) - Sonia John in GitHub's ReadME on how to use ideas from DevRel for onboarding all engineers (nice list of references in the end).
+- [Taking a DevRel approach to developer onboarding](https://github.com/readme/guides/community-engagement) - Sonia John in GitHub&apos;s ReadME on how to use ideas from DevRel for onboarding all engineers (nice list of references in the end).
+- [The radiating circles of Developer Experience Architecture](https://dx.tips/circles) - A philosphical model by Temporal going from Tech Writing to DevOps coving different types of developer community needs. 
 - [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe) - Insights from Stripe into DevRel since the pandemic with a lot of links to further resources and people.
 - [What is DX?](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) - Good summary of Developer Experience (DX).
 - [Why am I a Developer Advocate?](https://twitter.com/kelseyhightower/status/808436229851090945) - Kelsey Hightower explaining DevRel as the CTO of a product.
@@ -181,12 +184,13 @@ Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analy
 See also: Program Manager, Developer Advocate, Designer
 
 - [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky.
-- [A product managers' guide to API&apos;s](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API&apos;s as product (see above Jeff Bezos' API Mandate and below Developer Experience).
+- [A product managers&apos; guide to API&apos;s](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API&apos;s as product (see above Jeff Bezos&apos; API Mandate and below Developer Experience).
 - [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering (see above "Take jobs that make you grow").
 - [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (For Comparison) Explains the Business Analyst role in a public service / government org.
 - [Evolution of the Product Manager](https://queue.acm.org/detail.cfm?id=2683579) - Classic ACM research developing a curriculum and competency matrix for different types of PM&apos;s.
 - [GSA TBM Playbook](https://tech.gsa.gov/playbooks/tbm/) - (For Comparison) Explains how to start Technology Business Management in a traditional org.
 - [Hashicorp&apos;s culture](https://review.firstround.com/focus-on-your-first-10-systems-not-just-your-first-10-hires-this-chief-of-staff-shares-his-playbook#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation#system-2-how-to-forge-a-company-culture-of-writing-and-decision-documentation) - Chief of Staff Kevin Fishner shows how systems, products and documentation fit together.
+- [Lessons for Product Leaders](https://www.theproductfolks.com/blog/lessons-for-product-leaders-shishir-mehrotra) - Explaining the PSHE (Problem, Solution, How and Execution) Career management framework for Product Managers. 
 - [Most Common Pitfalls of new Product Managers](https://www.lennysnewsletter.com/p/product-manager-pitfalls) - Nice list for product manager career starters in particular point 1 on the difference to project managers.
 - [Product Hunt PRD](https://uxpin.medium.com/how-to-write-a-painless-product-requirements-document-508ff6807b4a) - Product Hunt&apos;s simple and concise Product Requirements Document (PRD) is still a high bar.
 - [Product Management as Discovery](https://lethain.com/intro-product-management/) - Will Larson&apos;s introduction into product management and the problem discovery, problem selection and solution validation loop.
@@ -311,7 +315,7 @@ See also: Data Analyst, Software Engineer (SWE)
 - [Machine Learning Interviews BookMachine Learning Interview](https://huyenchip.com/ml-interviews-book/) - Chip Huyen&apos;s book does never clearly explain roles but has good insights on types of teams and companies for ML roles.
 - [Netflix Data Engineer](https://netflixtechblog.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea) - Career path of a Data Engineer at Netflix (see also [this blog of Netflix roles](https://netflixtechblog.com/notebook-innovation-591ee3221233)).
 - [PyTorch builds the future of AI and machine learning at Facebook](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/) - Machine Learning Research fused into MLOps over the last years, this is a good history from Facebook how PyTorch emerged (not unsimiliar to [TFX](https://blog.tensorflow.org/2020/09/brief-history-of-tensorflow-extended-tfx.html#Intro) at Google).
-- [We Don't Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
+- [We Don&apos;t Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
 - [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) - Chip Huyen on how to run machnine learning / analytics systems and how pipeline work and DevOps roles are different from data science and research roles.
 
 #### Security Engineer
@@ -333,6 +337,7 @@ Similar to: Fraud Investigator, Policy and Governance, Compliance, Risk Analyst,
 
 See also: Security Analyst, Data Analyst
 
+- [Building a Trust and Safety Mindset](https://www.sidequest.cc/resources/buildingts) - Great history starting with eBay&apos;s Trust and Safety Team and overview of all functions in such a team by Adelin Cai.
 - [Building fairness, trust and safety into machine learning](https://accelerate.withgoogle.com/stories/building-fairness-trust-and-safety-into-machine-learning-meet-googler-jamila-smith-loud) - Interview with Google&apos;s Jamila Smith-Loud how AI Principles are part of Trust & Safety.
 - [How Pinterest fights misinformation, hate speech, and self-harm content with machine learning](https://medium.com/pinterest-engineering/how-pinterest-fights-misinformation-hate-speech-and-self-harm-content-with-machine-learning-1806b73b40ef) - Deep dive into Pinterest&apos;s Policy Enforcement.
 - [How to build a Trust and Safety Team](https://blog.sift.com/2017/trust-and-safety-ground-up/) - Advertorial from Sift but a good summary on skills and metrics.
@@ -343,7 +348,7 @@ See also: Security Analyst, Data Analyst
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
-Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Core Infrastructure
+Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Core Infrastructure, Production Engineer, No Code Operations
 
 See also: Support Operations, IT Operations
 
@@ -357,13 +362,15 @@ See also: Support Operations, IT Operations
 - [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry.
 - [Incident Operations](https://sre.google/sre-book/managing-incidents/) - The SRE book defines roles during an incident like ops lead, incident commander and communication lead.
 - [Jez Humble&apos;s DevOps insights](https://newrelic.com/blog/best-practices/devops-jez-humble) - For historic context one of the earlier talks by Jez Humble in the New Relic blog.
-- [Making Ops work more visible](https://github.com/readme/guides/ops-work-visible) - Interesting story from Netflix' DevOps journey from "You run it" to SRE and Platforms teams.
+- [Making Ops work more visible](https://github.com/readme/guides/ops-work-visible) - Interesting story from Netflix&apos; DevOps journey from "You run it" to SRE and Platforms teams.
+- [No Code Operations](https://blog.airtable.com/no-code-operations/) - Good example of maintenance and operations not only covering Code but all kinds of business processes modelled in all kinds of tools, including No-Code, from Excel to Airtable (for which this is an advertorial).
 - [Performance Management Maturity Levels](https://infrequently.org/2022/05/performance-management-maturity/#the-role-of-senior-management) - This is actually a list of _software_ performance not _career_ performance points but it contains an interesting section recognizin the need of [management buy-in](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) for platform work.
 - [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations).
+- [Production Engineers at Facebook](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch13.html) - Meta&apos;s implementation of DevOps and their version of SRE is the "Production Engineer"; the role is explained in the "Seeking SRE" book.
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
-- [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones' legendary blog post and YouTube video series explaining SRE.
+- [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones&apos; legendary blog post and YouTube video series explaining SRE.
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
-- [Trunk and Branches Model](https://infraeng.dev/trunk-and-branches/) - Will Larson's learnings scaling infrastructure organizations using his Trunk and Branches Model.
+- [Trunk and Branches Model](https://infraeng.dev/trunk-and-branches/) - Will Larson&apos;s learnings scaling infrastructure organizations using his Trunk and Branches Model.
 
 #### IT Operations
 Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
@@ -374,7 +381,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 - [DWP Digital](https://dwpdigital.blog.gov.uk/2020/10/29/the-best-move-i-ever-made-my-career-change-to-infrastructure-services/) - (For comparison) Explains Infrastructure Services in a public service / government org which is often hardware based e.g. networking.
 - [Evoling ThoughtWorks internal IT](https://www.thoughtworks.com/en-sg/insights/blog/evolving-thoughtworks-internal-it-solve-broader-cross-cutting-problems) - Nice insight, more from consulting background but applicable to Tech as well.
 - [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA) - Stephanie Wong&apos;s YouTube video won numerous accolades and become the canonical reference for data center DevSecOps.
-- [How Google and Amazon scale up their huge IT operations](https://www.computerworld.com/article/2486298/here-s-how-google-and-amazon-scale-up-their-huge-it-operations.html) - Insight into hyperscalers' economies of scale in data center operations.
+- [How Google and Amazon scale up their huge IT operations](https://www.computerworld.com/article/2486298/here-s-how-google-and-amazon-scale-up-their-huge-it-operations.html) - Insight into hyperscalers&apos; economies of scale in data center operations.
 - [IT Operations (ITOps) Roles & Responsibilities](https://www.bmc.com/blogs/it-operations-roles/) - (For comparision) Traditional non-tech enterprises often use the "ITIL" framework and try to tweak Tech concepts into it by renaming roles e.g. "ITOps".
 - [Service Management & Operations Management Explained](https://www.bmc.com/blogs/it-service-management-vs-operations-management/) - (For comparison) Depending on the company SRE / DevOps or IT Ops own operations. This is a good overview of classic "ITIL" IT service management (ITSM) and IT operations management (ITOM) processes more often found in non-tech enterprises.
 - [Lean at Amazon](https://www.mckinsey.com/business-functions/operations/our-insights/when-toyota-met-e-commerce-lean-at-amazon) - For better or worse, Amazon is known for ruthless operational excellence including writing custom IT operations software (another good example is [McDonald&apos;s](https://aws.amazon.com/blogs/enterprise-strategy/revisiting-buy-vs-build-drawing-the-line/)).
@@ -382,7 +389,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 - [Thank you, IT](https://blog.google/inside-google/life-at-google/making-our-tech-spill-proof-crash-proofthank-you-it/) - Google&apos;s Techstop team is often cited as one of the best perks at Google, an IT that "just works" with great empathy and talent e.g. ["Grab and Go Loaners"](https://www.blog.google/products/chrome-enterprise/extending-googles-grab-and-go-program-to-businesses/).
 - [The Changing World of an (Oracle) Database Administrator](https://blogs.oracle.com/database/post/the-rise-of-the-renaissance-database-administrator) - (For comparison) Oracle on the "change" of the DBA role.
 - [Uber&apos;s IT Engineering Team](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/) - Uber Career Blog interview on their IT Operations team.
-- [Why a new kind of work means a new role for IT](https://experience.dropbox.com/resources/the-rise-of-a-new-kind-of-work--and-a-new-kind-of-role-in-it) - Dropbox' Work Culture Blog on how IT becomes an enabler and how this changes hierarchies.
+- [Why a new kind of work means a new role for IT](https://experience.dropbox.com/resources/the-rise-of-a-new-kind-of-work--and-a-new-kind-of-role-in-it) - Dropbox&apos; Work Culture Blog on how IT becomes an enabler and how this changes hierarchies.
 
 ### Customer-facing, pre-commit
 
@@ -413,8 +420,10 @@ See also: Technical Account Manager, Account Manager, Solution Architect
 - [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
 - [Presales, Sales Engineering and Solution Architects Mean In Today&apos;s Digital Sales](https://hub.inc/what-do-presales-sales-engineering-and-solution-architects-mean-in-todays-digital-sales-era/) - Comparing the roles of presales, sales engineers, and solution architects (sadly from a product pitch perspective but it&apos;s a good start).
 - [Sales Engineer Skills](https://www.cybervista.net/top-skills-of-an-exceptional-sales-engineer/) - Very sales-y description of sales engineering skills.
+- [The confusing job titles in Sales](https://wethesalesengineers.com/the-confusing-job-titles-in-sales/) - Good overview from pre- to post-sales titles even including professional servics and field engineering which are sometimes considered part of Sales (most accurately "Go-To-Market" or "Customer Success" organizations).
 - [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart) - (For comparison) David Sacks showing 3 very detailed sample org charts for Series A, Series B, or Series C with a strong focus on Customer Success.
 - [Value Selling vs Solution Selling](https://blog.close.com/value-selling-vs-solution-selling/) - Good comparison of Account Manager role, often value selling, and Sales Engineer role, often solution selling.
+- [What is Tech Sales?](https://www.zendesk.de/blog/tech-sales/) - Advertorial but refreshingly honest article about the career as "technology salesperson".
 
 #### Solution Architect
 Similar to: Solution Sales, Solution Planner, Technology Architect, Enterprise Architect
@@ -459,7 +468,7 @@ See also: Solution Architect, Partner Engineer
 - [Scalable and seamless customer service](https://www.salesforce.com/ap/customer-success-stories/tokopedia/) - Advertorial but good example of business-focused consulting services as done by Salesforce.
 - [So you want to be an IT Consultant?](https://www.thoughtworks.com/en-sg/insights/blog/so-you-want-be-it-consultant) - (For historic comparison) Classic ThoughtWorks blog from 2014 explaining how consulting organizations work e.g. staff augmentation vs solution-based (see "The Other Kind of Staff Software Engineer" above).
 - [The 12 Worst Differentiators for Professional Services Firms](https://hingemarketing.com/blog/story/the-12-worst-differentiators-for-professional-services-firms) - Pop-up laden advertorial but good insights what to look for in professional services value propositions (which drives what the roles do).
-- [Why Doesn't Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
+- [Why Doesn&apos;t Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
 
 #### Partner Engineer
 Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Integration Engineer, Partner Support, System Engineer
@@ -496,6 +505,7 @@ See also: Account Manager, Solution Architect
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab&apos;s open source TAM handbook as part of the customer success team.
 - [Red Hat&apos;s Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
+- [The evolution of Customer Success](https://www.intercom.com/blog/podcasts/oracles-catherine-blackmore-on-the-evolution-of-customer-success/) - Historic overview of the Customer Success Role by Catherine Blackmore (in an advertorial podcast).
 - [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
@@ -520,10 +530,12 @@ Similar to: Product Operations, Product Support, Customer Experience, Technical 
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
 
+- [A day in the lift of an AWS Developer Support Engineer](https://aws.amazon.com/blogs/aws/a-day-in-the-life-of-an-aws-developer-support-engineer/) - Support description that in 2010 was 10 years ahead and therefore still relevant - for historical reference in particular the career where Jeff Barr ended up (Chief Evangelist for AWS).
 - [Big Tech and the reality of scaling customer support](https://blog.pragmaticengineer.com/scaling-customer-support/) - Scoop by Gergely Orosz going deep into the (good and bad) incentives for support organizations.
 - [Customer Experience at Apple](https://medium.com/thrive-global/always-start-with-the-customer-experience-not-with-the-technology-former-apple-ceo-john-sculley-68b5f36e810e) - Very long interview with Jon Sculley how apple sees the end-to-end customer experience, made famous with the Genius bar.
 - [Customer Happiness at Canva](https://www.canva.com/careers/support/) - Canva is one of the companies who turned their support team goals inside out by making it the center of "Customer Happiness" (see also Customer Experience)
 - [Customer Service at Shopify](https://www.shopify.com.sg/blog/customer-service) - Whole framework of how to build successful customer service and retain happy customers ([interesting context in the same blog](https://www.shopify.com.sg/retail/119535811-the-apple-store-guide-to-insanely-great-customer-service) on Apple above).
+- [2022 Customer Service Quality Benchmark Report](https://www.intercom.com/blog/podcasts/2022-customer-service-quality-benchmark-report-a-roundtable-on-support-strategies-for-the-year-ahead/) - Advertorial Podcast but interesting overview panel of different companies, showing what goals and metrics (e.g. CSAT) drive support teams and Support as "career incubator".
 - [Dropbox Support Team](https://blog.dropbox.com/topics/company/the-dropbox-support-you-know-and) - Specific to Dropbox but good insight into metrics, tasks and technology of support teams.
 - [From IT Certificate completers to Googlers](https://blog.google/outreach-initiatives/grow-with-google/it-certificate-completers-googlers/) - Career paths into tech via support roles, resident programs and certifications.
 - [Google CRE](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) - Google&apos;s Customer Reliability Engineering team are SREs working towards shared operational fate between Google and Google Cloud Platform customers.
