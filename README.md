@@ -471,7 +471,7 @@ See also: Solution Architect, Partner Engineer
 - [Why Doesn&apos;t Anyone Talk About Microsoft Consulting Services](https://rcpmag.com/articles/2015/12/01/silence-of-mcs.aspx) - Good historic insight into the long-term struggle to find the right balance at Microsoft between Partners and Microsoft Cross Industry Solutions / Consulting Services (XIS / MCS).
 
 #### Partner Engineer
-Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Integration Engineer, Partner Support, System Engineer
+Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Partner Solution Engineer, Partner Support, System Engineer, Deployment Engineer, Field Engineer
 
 See also: Trainer, Developer Advocate, Integration Engineer
 
