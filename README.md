@@ -396,7 +396,7 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 #### Account Manager
 Similar to: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
 
-See also: Sales Engineer, Technical Account Manager
+See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Manager (CSM)
 
 - [Challenger and Sense Making](https://www.gartner.com/en/sales-service/insights/challenger-sale) - Example of the countless sales communication methodologies.
 - [Designing compensation systems for sales professionals](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/designingcompensationsystemsforsalesprofessionals.aspx) - (This deep link does not always work) Broad and deep overview of sales incentive systems, which is important when defining shared goals and objectives.
@@ -458,6 +458,7 @@ See also: Account Manager, Technical Account Manager (TAM)
 - [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
 - [Forrester Business Case For Customer Success Management](https://go.forrester.com/blogs/build-the-case-for-a-customer-success-management-program-now/) - Forrester and [Salesforce](https://www.salesforce.com/blog/build-customer-success-organization/) have a good case study for the introduction of a Customer Success function.
+- [How to Design a Sales to CSM Handoff That Works](https://www.jeffbullas.com/sales-to-csm-handoff/) - Very high-level / sales-y article but focusing on the handoff useful to understand the difference between Account Manager and CSM roles.
 - [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
 - [The evolution of Customer Success](https://www.intercom.com/blog/podcasts/oracles-catherine-blackmore-on-the-evolution-of-customer-success/) - Historic overview of the Customer Success Role by Catherine Blackmore (in an advertorial podcast).
 
