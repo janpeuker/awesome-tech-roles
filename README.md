@@ -412,12 +412,10 @@ See also: Sales Engineer, Technical Account Manager
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
 #### Sales Engineer
-Similar to: Customer Engineer, Principal Architect, Customer Success Manager (CSM), Account Strategist, Technical Consultant, Technical Sales
+Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales
 
-See also: Technical Account Manager, Account Manager, Solution Architect
+See also: Technical Account Manager (TAM), Account Manager, Solution Architect, Customer Success Manager (CSM)
 
-- [Forrester Business Case For Customer Success Management](https://go.forrester.com/blogs/build-the-case-for-a-customer-success-management-program-now/) - Forrester and [Salesforce](https://www.salesforce.com/blog/build-customer-success-organization/) have a good case study for the introduction of a Customer Success function.
-- [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
 - [Presales, Sales Engineering and Solution Architects Mean In Today&apos;s Digital Sales](https://hub.inc/what-do-presales-sales-engineering-and-solution-architects-mean-in-todays-digital-sales-era/) - Comparing the roles of presales, sales engineers, and solution architects (sadly from a product pitch perspective but it&apos;s a good start).
 - [Sales Engineer Skills](https://www.cybervista.net/top-skills-of-an-exceptional-sales-engineer/) - Very sales-y description of sales engineering skills.
 - [The confusing job titles in Sales](https://wethesalesengineers.com/the-confusing-job-titles-in-sales/) - Good overview from pre- to post-sales titles even including professional servics and field engineering which are sometimes considered part of Sales (most accurately "Go-To-Market" or "Customer Success" organizations).
@@ -451,6 +449,18 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 - [VMware OCTO Blog](https://octo.vmware.com/new-way-thinking-origins-vmware-octo-cloud-architecture-team/) - History of VMware&apos;s OCTO team and research / whitepaper unit.
 
 ### Customer-facing, post-commit
+
+#### Customer Success Manager (CSM)
+Similar to: Account Manager, Enterprise Services Manager (ESM), Account Strategist, Customer Experience
+
+See also: Account Manager, Technical Account Manager (TAM)
+
+- [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
+- [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
+- [Forrester Business Case For Customer Success Management](https://go.forrester.com/blogs/build-the-case-for-a-customer-success-management-program-now/) - Forrester and [Salesforce](https://www.salesforce.com/blog/build-customer-success-organization/) have a good case study for the introduction of a Customer Success function.
+- [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
+- [The evolution of Customer Success](https://www.intercom.com/blog/podcasts/oracles-catherine-blackmore-on-the-evolution-of-customer-success/) - Historic overview of the Customer Success Role by Catherine Blackmore (in an advertorial podcast).
+
 
 #### Integration Engineer / Consultant
 Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
@@ -494,18 +504,15 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 - [Palo Alto](https://www.paloaltonetworks.com/blog/sase/cloud-delivered-managed-security/) - Many companies move to SaaS by offering their product in the Cloud including managed services, for instance Palo Alto offers managed security services.
 
 #### Technical Account Manager (TAM)
-Similar to: Customer Success Manager (CSM), Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM)
+Similar to: Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM)
 
-See also: Account Manager, Solution Architect
+See also: Account Manager, Solution Architect, Customer Success Manager (CSM)
 
 - [A day in the life of a TAM at Microsoft](https://cloudblogs.microsoft.com/industry-blog/en-gb/beyourfuture/2019/04/18/a-day-in-the-life-of-a-technical-account-manager/) - Good read for comparison of TAM between more technical and more business (customer success) focused, at Microsoft CSM are in the Business Development org.
 - [A day in the life of a TAM at Red Hat](https://www.redhat.com/en/blog/being-technical-account-manager-tam-day-life) - See below for Red Hat&apos;s difference between TAM, CSM and Support.
-- [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
-- [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab&apos;s open source TAM handbook as part of the customer success team.
 - [Red Hat&apos;s Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
-- [The evolution of Customer Success](https://www.intercom.com/blog/podcasts/oracles-catherine-blackmore-on-the-evolution-of-customer-success/) - Historic overview of the Customer Success Role by Catherine Blackmore (in an advertorial podcast).
 - [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
