@@ -249,7 +249,7 @@ See also: Trainer, Developer Advocate
 - [Write the Docs Interview Guide](https://www.writethedocs.org/hiring-guide/) - Write the Docs is a great resource on technical writing and has a role interview guide.
 
 #### Software Engineer (SWE)
-Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead
+Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead, Product Engineer
 
 See also: Site Reliability Engineer (SRE)
 
@@ -261,9 +261,11 @@ See also: Site Reliability Engineer (SRE)
 - [Software engineering at large tech-firms](https://80000hours.org/career-guide/reports/software-engineering-at-large-tech-firms/) - 80,000 Hours is a non-profit with great career advise, this is an older guide on SWE roles in Tech firms specifically .
 - [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) - (For comparison) The IEEE has their "authoritative" definition of software engineering, sadly it&apos;s behind a subscription-wall so it&apos;s not used in Tech.
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - Gergely Orosz on the mix between product manager designer and engineer, and healthy curiosity for the business.
+- [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - Based on DORA research in _Accelerate_ (see above), the SPACE framework builds a model for developer productivity, which is helpful to understand all the aspects of the SWE role.
 - [Useful things about Engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/) - Charity Majors on levelling and how to level up.
 - [WayUp Software Engineer Job Guide](https://www.wayup.com/guide/entry-level-software-engineer-job-guide/) - Simple introduction explaining main tasks, relationship to other roles and technologies.
 - [What is Software Engineering?](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/ch01.html) - Introduction to the "Software Engineering at Google" book explaining the role and career of SWE&apos;s.
+- [Who is Product Engineer](https://hackernoon.com/who-is-product-engineer-cl4l3yiu) - Recently the term "Product Engineer" has taken over "Full Stack Engineer" to represent a Software Engineer who applies user-first design principles, often in frontend development.
 
 #### Quality Assurance (QA)
 Similar to: Tester, Test Engineer, Quality Assurance Engineer
@@ -458,6 +460,7 @@ See also: Account Manager, Technical Account Manager (TAM)
 - [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
 - [Forrester Business Case For Customer Success Management](https://go.forrester.com/blogs/build-the-case-for-a-customer-success-management-program-now/) - Forrester and [Salesforce](https://www.salesforce.com/blog/build-customer-success-organization/) have a good case study for the introduction of a Customer Success function.
+- [How is Value Engineering different](https://www.presalescollective.com/content/how-is-value-engineering-different-from-value-consulting) - In sales-focused CSM teams "value engineering" is a commonly applied practice, sometimes even "Value Engineer" roles, to develop (SaaS) pricing and ROI models.
 - [How to Design a Sales to CSM Handoff That Works](https://www.jeffbullas.com/sales-to-csm-handoff/) - Very high-level / sales-y article but focusing on the handoff useful to understand the difference between Account Manager and CSM roles.
 - [Microsoft Customer Success Journey](https://www.linkedin.com/pulse/why-you-should-consider-joining-microsofts-customer-success-fuqua/) - Microsoft champions the Customer Success function from a sales perspective (TAM perspective see below).
 - [The evolution of Customer Success](https://www.intercom.com/blog/podcasts/oracles-catherine-blackmore-on-the-evolution-of-customer-success/) - Historic overview of the Customer Success Role by Catherine Blackmore (in an advertorial podcast).
