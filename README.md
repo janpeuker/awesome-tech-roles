@@ -395,8 +395,8 @@ See also: Support Operations, Site Reliability Engineer (SRE)
 
 ### Customer-facing, pre-commit
 
-#### Account Manager
-Similar to: Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
+#### Account Manager (AM)
+Similar to: Account Executive (AE), Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
 
 See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Manager (CSM)
 
@@ -413,7 +413,7 @@ See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Mana
 - [Types of Bonuses](https://www.glassdoor.com/blog/types-of-bonuses/) - Good summary from Glassdoor showing different incentive structures between sales (pre-commit) and other teams.
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
-#### Sales Engineer
+#### Sales Engineer (SE)
 Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales
 
 See also: Technical Account Manager (TAM), Account Manager, Solution Architect, Customer Success Manager (CSM)
@@ -425,10 +425,10 @@ See also: Technical Account Manager (TAM), Account Manager, Solution Architect, 
 - [Value Selling vs Solution Selling](https://blog.close.com/value-selling-vs-solution-selling/) - Good comparison of Account Manager role, often value selling, and Sales Engineer role, often solution selling.
 - [What is Tech Sales?](https://www.zendesk.de/blog/tech-sales/) - Advertorial but refreshingly honest article about the career as "technology salesperson".
 
-#### Solution Architect
+#### Solution Architect (SA)
 Similar to: Solution Sales, Solution Planner, Technology Architect, Enterprise Architect
 
-See also: Sales Engineer, Technical Account Manager
+See also: Sales Engineer (SE), Technical Account Manager (TAM)
 
 - [Accenture Career Blog](https://www.accenture.com/us-en/blogs/blogs-technical-architect-careers) - (For comparison) Explaining the Technology Architect role for Consulting / Service Provider / Service Delivery firms which usually focuses on projects, not products.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Awesome list of general software architecture resources which (sadly) is mostly _not_ connected to the term "architect".
@@ -467,7 +467,7 @@ See also: Account Manager, Technical Account Manager (TAM)
 
 
 #### Integration Engineer / Consultant
-Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, System Engineer, Solutions Engineer
+Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer
 
 See also: Solution Architect, Partner Engineer
 
@@ -487,7 +487,7 @@ See also: Solution Architect, Partner Engineer
 #### Partner Engineer
 Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Partner Solution Engineer, Partner Support, System Engineer, Deployment Engineer, Field Engineer
 
-See also: Trainer, Developer Advocate, Integration Engineer
+See also: Trainer, Developer Advocate (DevRel), Integration Engineer
 
 - [AWS Teams you NEED to Know to Accelerate Business Growth](https://nofar-asselman.medium.com/the-big-five-aws-teams-you-need-to-know-42b000618313) - Interesting perspective into AWS&apos;s partner organization and how Independent Software Vendor (ISV) SaaS work on AWS Marketplace.
 - [Cisco&apos;s Customer Experience Framework](https://blogs.cisco.com/partner/how-partners-make-money-with-cisco-customer-experience-cx) - Cisco&apos;s services portfolio around Expert Resources, Trusted Support, Insights and Analytics and Contextual Learning for their partners.
@@ -510,7 +510,7 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 #### Technical Account Manager (TAM)
 Similar to: Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM)
 
-See also: Account Manager, Solution Architect, Customer Success Manager (CSM)
+See also: Account Manager (AM), Solution Architect (SA), Customer Success Manager (CSM)
 
 - [A day in the life of a TAM at Microsoft](https://cloudblogs.microsoft.com/industry-blog/en-gb/beyourfuture/2019/04/18/a-day-in-the-life-of-a-technical-account-manager/) - Good read for comparison of TAM between more technical and more business (customer success) focused, at Microsoft CSM are in the Business Development org.
 - [A day in the life of a TAM at Red Hat](https://www.redhat.com/en/blog/being-technical-account-manager-tam-day-life) - See below for Red Hat&apos;s difference between TAM, CSM and Support.
@@ -523,7 +523,7 @@ See also: Account Manager, Solution Architect, Customer Success Manager (CSM)
 #### Trainer
 Similar to: Practice Lead, Instructor, Coach, Moderator, Facilitator, Learning and Enablement, Instructional Designer, Customer Education
 
-See also: Technical Writer, Developer Advocate
+See also: Technical Writer, Developer Advocate (DevRel)
 
 - [Communities of Practice](https://www.infoq.com/articles/communities-of-practice-agile-organisation/) - Emily Webber&apos;s classic article introducing the roles in internal communities of practices and how trainers own organizational development.
 - [Customer Education](https://coreaxis.com/insights/blog/customer-education) - Advertorial but a good list of priorities in a customer education / learning and enablement team.
