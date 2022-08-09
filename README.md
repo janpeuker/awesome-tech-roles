@@ -259,6 +259,7 @@ See also: Site Reliability Engineer (SRE)
 - [Growing in ladders of abstraction](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html#growing-using-different-ladders-of-abstraction) - An individual&apos;s journey towards senior engineer, covers interaction with other practices e.g. testing.
 - [Senior Engineer Skills](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier sharing a list of non-technicals skills for engineers expanding their influence.
 - [Software engineering at large tech-firms](https://80000hours.org/career-guide/reports/software-engineering-at-large-tech-firms/) - 80,000 Hours is a non-profit with great career advise, this is an older guide on SWE roles in Tech firms specifically .
+- [Software Engineering related roles](https://twitter.com/GergelyOrosz/status/1556657335510208513) - Twitter thread with some nice replies on recent ["technical"](https://twitter.com/kelseyhightower/status/1554285562705608705) role titles adjacent to SWE.
 - [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) - (For comparison) The IEEE has their "authoritative" definition of software engineering, sadly it&apos;s behind a subscription-wall so it&apos;s not used in Tech.
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/) - Gergely Orosz on the mix between product manager designer and engineer, and healthy curiosity for the business.
 - [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - Based on DORA research in _Accelerate_ (see above), the SPACE framework builds a model for developer productivity, which is helpful to understand all the aspects of the SWE role.
@@ -268,7 +269,7 @@ See also: Site Reliability Engineer (SRE)
 - [Who is Product Engineer](https://hackernoon.com/who-is-product-engineer-cl4l3yiu) - Recently the term "Product Engineer" has taken over "Full Stack Engineer" to represent a Software Engineer who applies user-first design principles, often in frontend development.
 
 #### Quality Assurance (QA)
-Similar to: Tester, Test Engineer, Quality Assurance Engineer
+Similar to: Tester, Test Engineer, Quality Assurance Engineer, Software Developer in Test (SDET)
 
 See also: Site Reliability Engineer (SRE)
 
@@ -288,7 +289,7 @@ See also: Site Reliability Engineer (SRE)
 #### Data Analyst
 Similar to: Data Scientist, Business Intelligence Analyst, Quantitative Researcher, Operations Analyst, Machine Learning Researcher
 
-See also: Data Engineer, Support Operations, Trust and Safety Analysts
+See also: Data Engineer, Support Engineer, Trust and Safety Analysts
 
 - [Data Analyst Career Path](https://www.northeastern.edu/graduate/blog/data-analyst-career-path/) - Advertorial but a good overall overview on data analyst roles.
 - [Data Analyst Driven Organization](https://cloud.google.com/blog/products/data-analytics/building-the-data-analyst-driven-organization) - Part of a Google Cloud blog series explaining different roles in different organizations, also has [Data Engineering](https://cloud.google.com/blog/products/data-analytics/building-the-data-engineering-driven-organization).
@@ -350,9 +351,9 @@ See also: Security Analyst, Data Analyst
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
-Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Core Infrastructure, Production Engineer, No Code Operations
+Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Infrastructure Engineer, Production Engineer, No Code Operations
 
-See also: Support Operations, IT Operations
+See also: Support Engineer, IT Operations
 
 - [7 Lessons From 10 Outages](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - How life really is [on-call](https://increment.com/on-call) explained in The Downtime Project&apos;s podcast.
 - [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer).
@@ -377,7 +378,7 @@ See also: Support Operations, IT Operations
 #### IT Operations
 Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
 
-See also: Support Operations, Site Reliability Engineer (SRE)
+See also: Support Engineer, Site Reliability Engineer (SRE)
 
 - [Dropbox Datacenter automation](https://dropbox.tech/infrastructure/covid-19-one-year-later) - Dropbox famously moved large workloads back from AWS into their own datacenter - here are some post-pandemic examples what tasks this meant they had to manage.
 - [DWP Digital](https://dwpdigital.blog.gov.uk/2020/10/29/the-best-move-i-ever-made-my-career-change-to-infrastructure-services/) - (For comparison) Explains Infrastructure Services in a public service / government org which is often hardware based e.g. networking.
@@ -467,7 +468,7 @@ See also: Account Manager, Technical Account Manager (TAM)
 
 
 #### Integration Engineer / Consultant
-Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer
+Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
 
 See also: Solution Architect, Partner Engineer
 
@@ -475,6 +476,7 @@ See also: Solution Architect, Partner Engineer
 - [Databricks Labs](https://databricks.com/learn/labs) - Databricks uses the role "Field Engineer" in their "Labs" for a combination of Integration Engineer and DevRel, also building / maintaining some open-source reusable helper tools coming out of customer engagements ([here](https://github.com/GoogleCloudPlatform/professional-services) is a similar repository from Google Cloud).
 - [Deployment Engineer](https://www2.htw-dresden.de/~anke/openup/core.default.role_def.base/roles/deployment_engineer_5F5FF257.html) - (for comparison) Traditionally the term "Deployment Engineer" has been used for someone responsible to bring a release or product to production, hence often used for consultants. It was followed by "Field Engineer" and more recently "Integration Engineer".
 - [Facebook&apos;s Solution Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Solutions Engineering Team (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/)).
+- [Forward Deployed Software Engineer at Palantir](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) - Interesting, weirdly militaristic, title for "embedded" integration engineers at Palantir, similar to Databricks' Resident Architects.
 - [GitLab Migration Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/) - GitLab&apos;s Professional Services is under its Customer Success org and focuses on certifying service partners (see "Partner Engineer") with their standard methodology (see below).
 - [Hashicorp introducing Professional Services](https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog) - Interesting insight how small but famous tech companies take a step towards Implementation Services.
 - [HBR Digital Transformation](https://hbr.org/2019/03/digital-transformation-is-not-about-technology) - (For comparison) Digital Transformation (["Every company wants to be a tech company"](https://www.inc.com/magazine/201605/marli-guzzetta/tech-company-definition.html) aka ["Software is easting the world"](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.c9xi6vier)) is the main trend tech companies plug into, this older Harvard Business Review article gives a good overview.
@@ -508,7 +510,7 @@ Similar to: Business-critical services, Customer IT Operations, Service Delivery
 - [Palo Alto](https://www.paloaltonetworks.com/blog/sase/cloud-delivered-managed-security/) - Many companies move to SaaS by offering their product in the Cloud including managed services, for instance Palo Alto offers managed security services.
 
 #### Technical Account Manager (TAM)
-Similar to: Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM)
+Similar to: Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Service Account Manager / Support Account Manager (SAM), Customer Success Engineer
 
 See also: Account Manager (AM), Solution Architect (SA), Customer Success Manager (CSM)
 
@@ -536,8 +538,8 @@ See also: Technical Writer, Developer Advocate (DevRel)
 - [The Programmer&apos;s Brain](https://www.manning.com/books/the-programmers-brain) - _The Programmer&apos;s Brain_ is a bug summarizing tons of [Felienne Hermans&apos;s research](https://www.felienne.com/publications) on learning, understanding and collaboration for engineers.
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
-#### Support Operations
-Similar to: Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert, Incident Response
+#### Support Engineer
+Similar to: Support Operations, Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert, Incident Response
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
 
