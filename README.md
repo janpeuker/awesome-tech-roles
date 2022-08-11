@@ -340,6 +340,7 @@ Similar to: Fraud Investigator, Policy and Governance, Compliance, Risk Analyst,
 
 See also: Security Analyst, Data Analyst
 
+- [ACFE Scorecard](https://legacy.acfe.com/coso-scorecard-home.aspx) - The US Association of Certified Fraud Examiners has an interesting scorecard / maturity model of fraud processes that also defines role responsibilities within a fraud management team.
 - [Building a Trust and Safety Mindset](https://www.sidequest.cc/resources/buildingts) - Great history starting with eBay&apos;s Trust and Safety Team and overview of all functions in such a team by Adelin Cai.
 - [Building fairness, trust and safety into machine learning](https://accelerate.withgoogle.com/stories/building-fairness-trust-and-safety-into-machine-learning-meet-googler-jamila-smith-loud) - Interview with Google&apos;s Jamila Smith-Loud how AI Principles are part of Trust & Safety.
 - [How Pinterest fights misinformation, hate speech, and self-harm content with machine learning](https://medium.com/pinterest-engineering/how-pinterest-fights-misinformation-hate-speech-and-self-harm-content-with-machine-learning-1806b73b40ef) - Deep dive into Pinterest&apos;s Policy Enforcement.
@@ -468,7 +469,7 @@ See also: Account Manager, Technical Account Manager (TAM)
 
 
 #### Integration Engineer / Consultant
-Similar to: Deployment Engineer, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
+Similar to: Deployment Engineer / Strategist, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
 
 See also: Solution Architect, Partner Engineer
 
@@ -476,7 +477,7 @@ See also: Solution Architect, Partner Engineer
 - [Databricks Labs](https://databricks.com/learn/labs) - Databricks uses the role "Field Engineer" in their "Labs" for a combination of Integration Engineer and DevRel, also building / maintaining some open-source reusable helper tools coming out of customer engagements ([here](https://github.com/GoogleCloudPlatform/professional-services) is a similar repository from Google Cloud).
 - [Deployment Engineer](https://www2.htw-dresden.de/~anke/openup/core.default.role_def.base/roles/deployment_engineer_5F5FF257.html) - (for comparison) Traditionally the term "Deployment Engineer" has been used for someone responsible to bring a release or product to production, hence often used for consultants. It was followed by "Field Engineer" and more recently "Integration Engineer".
 - [Facebook&apos;s Solution Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Solutions Engineering Team (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/)).
-- [Forward Deployed Software Engineer at Palantir](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) - Interesting, weirdly militaristic, title for "embedded" integration engineers at Palantir, similar to Databricks' Resident Architects.
+- [Forward Deployed Software Engineer at Palantir](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) - Interesting, weirdly militaristic, title for "embedded" integration engineers at Palantir, similar to Databricks' Resident Architects. Their Consultants are called [Deployment Strategist](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-deployment-strategist-951cb59a5a96).
 - [GitLab Migration Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/) - GitLab&apos;s Professional Services is under its Customer Success org and focuses on certifying service partners (see "Partner Engineer") with their standard methodology (see below).
 - [Hashicorp introducing Professional Services](https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog) - Interesting insight how small but famous tech companies take a step towards Implementation Services.
 - [HBR Digital Transformation](https://hbr.org/2019/03/digital-transformation-is-not-about-technology) - (For comparison) Digital Transformation (["Every company wants to be a tech company"](https://www.inc.com/magazine/201605/marli-guzzetta/tech-company-definition.html) aka ["Software is easting the world"](https://medium.com/humane-tech/there-is-no-technology-industry-44774dfb3ed7#.c9xi6vier)) is the main trend tech companies plug into, this older Harvard Business Review article gives a good overview.
