@@ -302,10 +302,11 @@ See also: Data Engineer, Support Engineer, Trust and Safety Analysts
 - [The roaring twenties](https://twitter.com/josephmoon_ai/status/1486133352608382977?s=21) - Tweet storm on modern data analysis tools and how they helped data scientists and analysts step out in the limelight.
 
 #### Data Engineer
-Similar to: Machine Learning Engineer, Analytics Engineer
+Similar to: Machine Learning Engineer, Analytics Engineer, Business Intelligence (Intel) Engineer
 
-See also: Data Analyst, Software Engineer (SWE)
+See also: Data Analyst, Software Engineer (SWE), Integration Engineer
 
+- [Business Intelligence Engineers](https://hevodata.com/learn/business-intelligence-engineers/) - Advertorial but clear description of a Business Intel Engineer - for comparison with external facing engineers, see also Palantir "Forward Deployed Engineer" below.
 - [Coding habits for data scientists](https://www.thoughtworks.com/en-us/insights/blog/coding-habits-data-scientists) - ThoughtWorks on the edge between data science and engineering.
 - [Data as a Product in Data Meshes](https://martinfowler.com/articles/data-mesh-principles.html#DataAsAProduct) - Zhamak Dehghani coined the term data mesh and with that also new roles, Data Product Managers and Data Platform Teams and the [DataOps Manifesto](https://dataopsmanifesto.org/en/) (see Team Topologies).
 - [Data First at Grab](https://engineering.grab.com/data-first-sla-always) - Blog from Grab (Steve Yegge [their ML ops automation is a competitive advantage](https://steve-yegge.medium.com/saying-goodbye-to-the-best-gig-i-ever-had-a33736833c1e)) on their Data Engineering SLA&apos;s.
@@ -350,6 +351,7 @@ See also: Security Analyst, Data Analyst
 - [Resources from the TSPA](https://www.tspa.info/explore/resource-library/) - Great list of resources on content moderation and more by the Trust & Safety Professional Association.
 - [Stripe Radar documentation](https://stripe.com/docs/radar/reviews) - Stripe&apos;s inclusion of human review gives a good insight in payments fraud investigation.
 - [Twitter Trust and Safety Council](https://about.twitter.com/en/our-priorities/healthy-conversations/trust-and-safety-council) - List of organizations informing Twitter&apos;s rules and policies.
+- [Uber&apos;s IT Risk Team](https://www.uber.com/en-SG/blog/uber-eats-risk-team/) - Uber Career Blog interview of their Fraud and Risk team.
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
