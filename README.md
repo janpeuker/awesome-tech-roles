@@ -460,7 +460,7 @@ See also: Sales Engineer, Solution Architect, Developer Advocate
 #### Customer Success Manager (CSM)
 Similar to: Account Manager, Enterprise Services Manager (ESM), Account Strategist, Customer Experience
 
-See also: Account Manager, Technical Account Manager (TAM)
+See also: Account Manager, Technical Account Manager (TAM), Support Engineer
 
 - [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
@@ -545,13 +545,14 @@ See also: Technical Writer, Developer Advocate (DevRel)
 #### Support Engineer
 Similar to: Support Operations, Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert, Incident Response
 
-See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM)
+See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM), Customer Success Manager (CSM)
 
 - [A day in the lift of an AWS Developer Support Engineer](https://aws.amazon.com/blogs/aws/a-day-in-the-life-of-an-aws-developer-support-engineer/) - Support description that in 2010 was 10 years ahead and therefore still relevant - for historical reference in particular the career where Jeff Barr ended up (Chief Evangelist for AWS).
 - [Big Tech and the reality of scaling customer support](https://blog.pragmaticengineer.com/scaling-customer-support/) - Scoop by Gergely Orosz going deep into the (good and bad) incentives for support organizations.
 - [Customer Experience at Apple](https://medium.com/thrive-global/always-start-with-the-customer-experience-not-with-the-technology-former-apple-ceo-john-sculley-68b5f36e810e) - Very long interview with Jon Sculley how apple sees the end-to-end customer experience, made famous with the Genius bar.
 - [Customer Happiness at Canva](https://www.canva.com/careers/support/) - Canva is one of the companies who turned their support team goals inside out by making it the center of "Customer Happiness" (see also Customer Experience)
 - [Customer Service at Shopify](https://www.shopify.com.sg/blog/customer-service) - Whole framework of how to build successful customer service and retain happy customers ([interesting context in the same blog](https://www.shopify.com.sg/retail/119535811-the-apple-store-guide-to-insanely-great-customer-service) on Apple above).
+- [Customer Support vs Customer Success Explained](https://www.helpscout.com/blog/customer-support-vs-customer-success/) - Advertorial but good description of the flavours of customer support, clearly separating customer success and its various variants.
 - [2022 Customer Service Quality Benchmark Report](https://www.intercom.com/blog/podcasts/2022-customer-service-quality-benchmark-report-a-roundtable-on-support-strategies-for-the-year-ahead/) - Advertorial Podcast but interesting overview panel of different companies, showing what goals and metrics (e.g. CSAT) drive support teams and Support as "career incubator".
 - [Dropbox Support Team](https://blog.dropbox.com/topics/company/the-dropbox-support-you-know-and) - Specific to Dropbox but good insight into metrics, tasks and technology of support teams.
 - [From IT Certificate completers to Googlers](https://blog.google/outreach-initiatives/grow-with-google/it-certificate-completers-googlers/) - Career paths into tech via support roles, resident programs and certifications.
