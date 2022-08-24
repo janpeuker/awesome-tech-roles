@@ -256,6 +256,7 @@ See also: Site Reliability Engineer (SRE)
 
 - [ACM Software Engineering Code of Ethics and Professional Practice](https://ethics.acm.org/code-of-ethics/software-engineering-code/) - The Association for Computing Machinery (ACM) ethics full version has good ideas on teamwork and career of SWE&apos;s.
 - [c2 Wiki](https://wiki.c2.com/?SoftwareEngineering) - (For historic context) Ward Cunningham&apos;s original Wiki with a discussion what software engineering means.
+- [Common Tech Jobs Described as Cabals of Mesoamerican Wizards](https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals) - Hilarious story explaining Software Engineer roles like Mobile Engineer to tech-adjacent roles, in particular AI engineers and Data Scientists.
 - [Decoding SWE Job Titles](https://increment.com/teams/decoding-job-titles/) - Increment #11, an overview on SWE specific job titles, especially specialization and seniority.
 - [Growing in ladders of abstraction](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html#growing-using-different-ladders-of-abstraction) - An individual&apos;s journey towards senior engineer, covers interaction with other practices e.g. testing.
 - [Senior Engineer Skills](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - Camille Fournier sharing a list of non-technicals skills for engineers expanding their influence.
