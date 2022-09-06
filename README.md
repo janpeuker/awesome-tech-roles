@@ -182,7 +182,7 @@ See also: Solution Architect, Trainer, Technical Writer
 #### Product Manager (PM)
 Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analyst
 
-See also: Program Manager, Developer Advocate, Designer
+See also: Program Manager, Developer Advocate, Designer, Product Operations
 
 - [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky.
 - [A product managers&apos; guide to API&apos;s](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API&apos;s as product (see above Jeff Bezos&apos; API Mandate and below Developer Experience).
@@ -205,16 +205,28 @@ See also: Program Manager, Developer Advocate, Designer
 - [Product School](https://productschool.com/blog/product-management-2/ultimate-product-management-guide/) - The Product School has a lot of content on hard PM skills like user research, experimentation, measurements, writing PRD&apos;s and [Product Design](https://productschool.com/blog/product-management-2/product-design-definition/).
 - [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton&apos;s podcast with Michael Siliski comparing Stripe and Google&apos;s product approach.
 - [Project to Product](https://projecttoproduct.org/solutions/) - (For Comparison) Book and approach ("The Flow Framework" blueprint) often used in traditional industry to move from project to product.
-- [Rise of Product Ops](https://www.productplan.com/blog/the-rise-of-product-ops/) - Product Operations is mentioned below under support, but another option is to see managing user feedback and launches from a product roadmap perspective.
 - [RFC&apos;s as decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb) - Juan Pablo Buriticá on how RFC&apos;s can bridge between Engineering and Product and help include everyone.
 - [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf) - Lara Hogan&apos;s seminal Venn Chart of the Who / What and How of Product Manager, Engineering Manager and Engineering Lead.
 - [Value Proposition Canvas](https://isaacjeffries.com/blog/2018/2/27/how-to-fill-in-a-value-proposition-canvas) - Part of the Business Model Canvas, how to research and visualize a value proposition.
 - [Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd#.cc9vf0ijs) - Gaurav Oberoi on how long-form writing of product specifications brings clarity.
 
+#### Product Operations (POps)
+Similar to: Product Ops, Product Support, Customer Experience
+
+See also: Program Manager, Support Engineer, Developer Advocate, Customer Success Manager
+
+- [Making the Case for Product Operations](https://produxlabs.com/product-thinking-blog/episode-42-denise-tilles) - Podcast with Denise Tilles in the Product Thinking Blog.
+- [Product Operations Manager Role](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
+- [Product Operations Pillars](https://productcoalition.com/product-operations-unlock-your-product-teams-full-potential-8b44b05813de) - Blake Bassett's classic reference framework for roles and responsibilities of a Product Operations Team.
+- [Rise of Product Ops](https://www.productplan.com/blog/the-rise-of-product-ops/) - Product Operations is mentioned below under support, but another option is to see managing user feedback and launches from a product roadmap perspective.
+- [The Product Culture Shift](https://skamille.medium.com/the-product-culture-shift-441c31a3fdf1) - Camille Fournier on Product Culture, which does not mention Product Ops but Customer Empathy which is often the focus of Product Operations organizations.
+- [Voice of Customer Programs](https://getthematic.com/insights/voc-for-product-operations/) - Advertorial but good overview on Voice of the Customer or Customer Insights Programs which sometimes is in Product Operations organizations, other times in Go-to-Market or Customer Success Organizations.
+
+
 #### Project Manager
 Similar to: Program Manager, Project Portfolio Manager, Technical Program Manager (TPM, TPgM), Consultant, Delivery Manager
 
-See also: Product Manager (PM)
+See also: Product Manager (PM), Product Operations
 
 - [4 Types of Work in the Phoenix Project](https://uptakedigital.zendesk.com/hc/en-us/articles/115000524374-4-Types-of-Work-in-IT-The-Phoenix-Project-) - Highly influential, "The Phoenix project" book introduced the 4 types of work model.
 - [An epic treatise on scheduling](https://apenwarr.ca/log/20171213) - _Extremely_ long classic read on agile project management, bug triage, feature prioritization and dependencies.
@@ -545,9 +557,9 @@ See also: Technical Writer, Developer Advocate (DevRel)
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
 #### Support Engineer
-Similar to: Support Operations, Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert (TPE), Incident Response, Support Escalation Engineer, L2 / L3 Engineer
+Similar to: Support Operations, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert (TPE), Incident Response, Support Escalation Engineer, L2 / L3 Engineer
 
-See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM), Customer Success Manager (CSM)
+See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM), Customer Success Manager (CSM), Product Operations
 
 - [A day in the lift of an AWS Developer Support Engineer](https://aws.amazon.com/blogs/aws/a-day-in-the-life-of-an-aws-developer-support-engineer/) - Support description that in 2010 was 10 years ahead and therefore still relevant - for historical reference in particular the career where Jeff Barr ended up (Chief Evangelist for AWS).
 - [Big Tech and the reality of scaling customer support](https://blog.pragmaticengineer.com/scaling-customer-support/) - Scoop by Gergely Orosz going deep into the (good and bad) incentives for support organizations.
@@ -563,7 +575,6 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [Microsoft Support Escalation Engineer](https://twitter.com/timmisiak/status/1566483206945525760) - Tweetstorm around the Escalation Engineer role at Microsoft (that is only [described in a PDF otherwise](https://download.microsoft.com/download/7/8/0/7801716B-88A1-45A8-BD2D-A8C1A49EEDA9/MS_EscalationEnginner_27.pdf)) and what other titles for Level 2 or 3 Support Escalation roles exist.
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
-- [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
 - [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries.
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk&apos;s Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
