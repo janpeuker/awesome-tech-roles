@@ -545,7 +545,7 @@ See also: Technical Writer, Developer Advocate (DevRel)
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
 #### Support Engineer
-Similar to: Support Operations, Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert, Incident Response
+Similar to: Support Operations, Product Operations, Product Support, Customer Experience, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert (TPE), Incident Response, Support Escalation Engineer, L2 / L3 Engineer
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM), Customer Success Manager (CSM)
 
@@ -560,6 +560,7 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [From IT Certificate completers to Googlers](https://blog.google/outreach-initiatives/grow-with-google/it-certificate-completers-googlers/) - Career paths into tech via support roles, resident programs and certifications.
 - [Google CRE](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) - Google&apos;s Customer Reliability Engineering team are SREs working towards shared operational fate between Google and Google Cloud Platform customers.
 - [Great Incident Management](https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management) - Humerous but good overview on more detailed incident management and outage communcation roles.
+- [Microsoft Support Escalation Engineer](https://twitter.com/timmisiak/status/1566483206945525760) - Tweetstorm around the Escalation Engineer role at Microsoft (that is only [described in a PDF otherwise](https://download.microsoft.com/download/7/8/0/7801716B-88A1-45A8-BD2D-A8C1A49EEDA9/MS_EscalationEnginner_27.pdf)) and what other titles for Level 2 or 3 Support Escalation roles exist.
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Product Operations](https://productschool.com/blog/product-management-2/product-ops-operations-manager/) - Product School explanation of how Product Ops fits into Product Management e.g. managing the product feedback loop.
