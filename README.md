@@ -335,6 +335,7 @@ See also: Data Analyst, Software Engineer (SWE), Integration Engineer
 - [Netflix Data Engineer](https://netflixtechblog.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea) - Career path of a Data Engineer at Netflix (see also [this blog of Netflix roles](https://netflixtechblog.com/notebook-innovation-591ee3221233)).
 - [PyTorch builds the future of AI and machine learning at Facebook](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/) - Machine Learning Research fused into MLOps over the last years, this is a good history from Facebook how PyTorch emerged (not unsimiliar to [TFX](https://blog.tensorflow.org/2020/09/brief-history-of-tensorflow-extended-tfx.html#Intro) at Google).
 - [We Don&apos;t Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
+- [What is Data Engineering](https://blog.pragmaticengineer.com/what-is-data-engineering/) - Collaboration between Benjamin Rogojan and Gergely Orosz, explaining the data engineer role and the differences to data scientist and software engineer.
 - [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) - Chip Huyen on how to run machnine learning / analytics systems and how pipeline work and DevOps roles are different from data science and research roles.
 
 #### Security Engineer
