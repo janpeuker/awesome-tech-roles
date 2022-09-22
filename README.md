@@ -416,7 +416,7 @@ See also: Support Engineer, Site Reliability Engineer (SRE)
 ### Customer-facing, pre-commit
 
 #### Account Manager (AM)
-Similar to: Account Executive (AE), Field Sales Representative (FSR), Account Representative ("Rep"), Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
+Similar to: Account Executive (AE), Field Sales Representative (FSR), Account Representative ("Rep"), Commercial Manager, Sales, Business Development (BD), Relationship Manager, Key Account Manager (KAM), Strategic Account Manager (SAM)
 
 See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Manager (CSM)
 
@@ -538,7 +538,7 @@ See also: Account Manager (AM), Solution Architect (SA), Customer Success Manage
 - [Gitlab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/) - GitLab&apos;s open source TAM handbook as part of the customer success team.
 - [Red Hat&apos;s Tenets of TAM](https://www.redhat.com/en/blog/five-tenets-technical-account-management) - Five tenets of good technical account management, with the difference between TAM, Support and CSM from a Red Hat perspective.
 - [TAM at Percone](https://www.percona.com/blog/2020/01/06/a-day-in-the-life-of-a-technical-account-manager/) - (For comparison) A smaller Tech company where TAM covers more breadth towards support and solution architecture.
-- [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager which across the industry can be like a TAM, alongside a TAM, or alongside a CSM depending on the org setup.
+- [VMWare TAM to the Rescue](https://blogs.vmware.com/customer-experience-and-success/2022/01/vmware-tam-to-the-rescue-helping-a-customer-out-of-a-jam.html) - The VMWare Careers blog has a lot of interesting stories about their support roles, this one is an example of a TAMs daily work.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
 #### Trainer
@@ -558,7 +558,7 @@ See also: Technical Writer, Developer Advocate (DevRel)
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
 
 #### Support Engineer
-Similar to: Support Operations, Technical Solution Engineer (TSE), Product Technology Manager, Technical Product Expert (TPE), Incident Response, Support Escalation Engineer, L2 / L3 Engineer
+Similar to: Support Operations, Technical Solution Engineer (TSE), Technical Support Engineer (TSE), Product Technology Manager, Technical Product Expert (TPE), Incident Response, Support Escalation Engineer, L2 / L3 Engineer
 
 See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manager (TAM), Customer Success Manager (CSM), Product Operations
 
@@ -577,5 +577,6 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries.
+- [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager in Global Support - which in other firms may be similar to TAM, alongside a TAM, or alongside a CSM depending on the org setup.
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk&apos;s Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
