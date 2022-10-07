@@ -161,7 +161,7 @@ See also: Product Manager, Technical Writer
 - [You got this.](http://www.zeldman.com/2019/05/22/you-got-this/) - Jeff Zeldman motivating all designers to keep learnings new technologies.
 
 #### Developer Advocate
-Similar to: Evangelist, Developer Relations (DevRel), Developer Experience, Solution Architect, Open Source Relations, Product Strategist, Customer Insight, Customer Empathy
+Similar to: Evangelist, Developer Relations (DevRel), Developer Experience (DX), Open Source Relations, Product Strategist, Customer Insight, Customer Empathy
 
 See also: Solution Architect, Trainer, Technical Writer
 
@@ -170,6 +170,7 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Deploy Empathy](https://deployempathy.com/) - Michelle Hansen&apos;s book goes beyond usability research and places customer interviews in the center of product management, support and integration.
 - [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience) - The pillars of good developer experience, including how to build a team.
 - [How Kelsey Hightower became one of the most respected people in cloud computing](https://www.protocol.com/enterprise/kelsey-hightower-google-cloud) - showing Kelsey Hightowers career path through Sys Admin and Engineer to Developer and recently [User Empathy](https://thenewstack.io/?p=18044044) Advocate.
+- [Building a Developer Experience Team](https://sendgrid.com/blog/scaling-product-management-at-sendgrid-building-a-developer-experience-team/) - Short blog post in a series of scaling Product Management at SendGrid on how to spin out a developer experience team, what its goals and mission are.
 - [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann&apos;s Developer Advocacy Handbook has been updated for 11 years and counting.
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - Nader Dabit on the edge between developer advocacy and consulting.
