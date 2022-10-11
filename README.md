@@ -249,7 +249,7 @@ See also: Product Manager (PM), Product Operations
 - [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do) - Gergely Orosz in his Newsletter specifically on Technical Program Managers (TPM) in the context of his earlier role overview in tech firms.
 
 #### Technical Writer
-Similar to: Editor, UX Writer, Documentation Manager / Designer, Content Strategist
+Similar to: (Copy) Editor, Tech Writer, UX Writer, Documentation Manager / Designer, Content Strategist, Product Marketing Manager (PMM)
 
 See also: Trainer, Developer Advocate
 
@@ -258,6 +258,7 @@ See also: Trainer, Developer Advocate
 - [Google Developers Technical Writing Course](https://developers.google.com/tech-writing) - Free Course as part of Google&apos;s Developer Training on technical writing, check the one on [inclusion](https://developers.google.com/style/inclusive-documentation).
 - [Leading through Writing](https://leaddev.com/communication-relationships/leading-through-writing-software-engineering) - Amy Nguyen&apos;s writing tips not only for documentation but beyond that for team updates, casual communication and more.
 - [Notes on technical writing](https://mkaz.blog/misc/notes-on-technical-writing/) - List of best practices, not exactly a role description but goes into tasks.
+- [Product Marketing Manager Tips](https://www.chameleon.io/blog/product-marketing-manager-tips) - (for comparison) Broad role overview of the Product Marketing Manager role which can sometimes overlap with Tech Writers when it comes to external communication of the value proposition and user journey.
 - [STC](https://www.stc.org/about-stc/defining-technical-communication/) - The Society for technical communication defining Technical Communication.
 - [Technical Writer at Netlify](https://career-ladders.dev/docs/#technical-writer-i) - Technical Writer in Netlify&apos;s Career Ladder by Sarah Drasner, author of "Engineering Management for the Rest of Us".
 - [Technical Writing](https://developerexperience.io/practices/tech-writing) - Developer Experience Knowledge Base entry on Technical Writing.
