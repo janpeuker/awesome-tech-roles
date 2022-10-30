@@ -262,6 +262,7 @@ See also: Trainer, Developer Advocate
 - [STC](https://www.stc.org/about-stc/defining-technical-communication/) - The Society for technical communication defining Technical Communication.
 - [Technical Writer at Netlify](https://career-ladders.dev/docs/#technical-writer-i) - Technical Writer in Netlify&apos;s Career Ladder by Sarah Drasner, author of "Engineering Management for the Rest of Us".
 - [Technical Writing](https://developerexperience.io/practices/tech-writing) - Developer Experience Knowledge Base entry on Technical Writing.
+- [When Life gives you lemons write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) - Great blog from Jenni Nadler showing how Tech Writers can be deeply embedded into the feature development process, in this case error messages.
 - [Who Will Write your Company&apos;s Technical Content](https://philipkiely.com/essays/who_will_write.html) - Philip Kiely&apos;s book and blog are a reference, here an example post on how to split responsibility for writing.
 - [Write the Docs Interview Guide](https://www.writethedocs.org/hiring-guide/) - Write the Docs is a great resource on technical writing and has a role interview guide.
 
@@ -300,6 +301,7 @@ See also: Site Reliability Engineer (SRE)
 - [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) - Cindy Sridharan&apos;s instant classic overarching framework of testing approaches explaining how QA testers fit in with automation.
 - [Testing of Microservices](https://engineering.atspotify.com/2018/01/11/testing-of-microservices/) - Spotify reshaped the classic Testing Pyramid into the Microservices Testing Honeycomb.
 - [Two kinds of testing](https://blog.nelhage.com/post/two-kinds-of-testing/) - Nelson Elhage&apos;s blog has many pearly on testing, this one talks about fuzzing, regression and integration testing.
+- [Why observability matters for testers](https://www.thoughtworks.com/en-sg/insights/blog/observability/why-observability-matters-testers) - Interesting perspective from Parveen Khan how SRE and QA can overlap.
 - [V-Models for Testing](https://insights.sei.cmu.edu/blog/using-v-models-for-testing/) - (For comparison) The V-Model is used in traditional industry quality assurance, fittingly presented by the Software Engineering Institute (SEI).
 
 ### Operations
@@ -375,7 +377,7 @@ See also: Security Analyst, Data Analyst
 #### Site Reliability Engineer (SRE)
 Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Infrastructure Engineer, Production Engineer, No Code Operations
 
-See also: Support Engineer, IT Operations
+See also: Support Engineer, IT Operations, Quality Assurance
 
 - [7 Lessons From 10 Outages](https://downtimeproject.com/podcast/7-lessons-from-10-outages/) - How life really is [on-call](https://increment.com/on-call) explained in The Downtime Project&apos;s podcast.
 - [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer).
@@ -383,6 +385,7 @@ See also: Support Engineer, IT Operations
 - [Building Platform Teams](https://martinfowler.com/articles/building-infrastructure-platform.html) - ThoughtWorks blog on how to build platform teams and what metrics they are measured on.
 - [DevOps, SRE and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/) - Tweet unroll of the difference between Software Development, DevOps, SRE and towards Platform Engineering.
 - [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams".
+- [Facebook Configuration Management](https://engineering.fb.com/2014/10/01/core-data/facebook-configuration-management-community-and-open-source/) - (historic context) Classic blog post that open-sourced Chef, written by Production Engineers which would now be called Platform Team.
 - [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps.
 - [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry.
 - [Incident Operations](https://sre.google/sre-book/managing-incidents/) - The SRE book defines roles during an incident like ops lead, incident commander and communication lead.
@@ -390,7 +393,7 @@ See also: Support Engineer, IT Operations
 - [Making Ops work more visible](https://github.com/readme/guides/ops-work-visible) - Interesting story from Netflix&apos; DevOps journey from "You run it" to SRE and Platforms teams.
 - [No Code Operations](https://blog.airtable.com/no-code-operations/) - Good example of maintenance and operations not only covering Code but all kinds of business processes modelled in all kinds of tools, including No-Code, from Excel to Airtable (for which this is an advertorial).
 - [Performance Management Maturity Levels](https://infrequently.org/2022/05/performance-management-maturity/#the-role-of-senior-management) - This is actually a list of _software_ performance not _career_ performance points but it contains an interesting section recognizin the need of [management buy-in](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) for platform work.
-- [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations).
+- [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations, [ongoing discussion on Forrester here](https://www.forrester.com/blogs/platform-product-management-versus-platform-engineering/)).
 - [Production Engineers at Facebook](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch13.html) - Meta&apos;s implementation of DevOps and their version of SRE is the "Production Engineer"; the role is explained in the "Seeking SRE" book.
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones&apos; legendary blog post and YouTube video series explaining SRE.
@@ -449,13 +452,14 @@ See also: Technical Account Manager (TAM), Account Manager, Solution Architect, 
 - [What is Tech Sales?](https://www.zendesk.de/blog/tech-sales/) - Advertorial but refreshingly honest article about the career as "technology salesperson".
 
 #### Solution Architect (SA)
-Similar to: Solution Sales, Solution Planner, Technology Architect, Enterprise Architect
+Similar to: Solution Sales, Solution Planner, Technology Architect, Technical Architect, Enterprise Architect
 
 See also: Sales Engineer (SE), Technical Account Manager (TAM)
 
 - [Accenture Career Blog](https://www.accenture.com/us-en/blogs/blogs-technical-architect-careers) - (For comparison) Explaining the Technology Architect role for Consulting / Service Provider / Service Delivery firms which usually focuses on projects, not products.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Awesome list of general software architecture resources which (sadly) is mostly _not_ connected to the term "architect".
 - [Databricks Economic Benefits](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) - Advertorial but a good example how many product / platform companies move up the value chain to management consulting e.g. Databricks with their Resident Solution Architect which is more similar to a TAM or CSM.
+- [How we close deals and keep customers happy with Slack Connect](https://slack.com/blog/collaboration/how-we-close-deals-and-keep-customers-happy-with-slack-connect) - Slack's Technical Architects are part of the Sales Customer Success (CSM) organization but guide the implementation, like Deployment Engineers.
 - [Problems with Solution Selling](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/whats-wrong-with-solutions-selling-and-how-to-put-it-right) - Account managers are usually value or challenger selling because solution and product selling is more complex which makes commercials harder.
 - [SAP Solution Blog](https://blogs.sap.com/2014/05/25/from-developer-to-solution-architect-essential-skills-for-climbing-the-it-professional-ladder/) - (For comparision) Explaining Solution Architects for ISV / SaaS solution providers, focused on long-term system design while customers and consultants customize their product.
 - [Solution Architect — Who Am I?](https://osapishchuk.medium.com/solution-architect-who-am-i-bb54a9451a10) - Solution Archicture is a term used very differently in industry (Enterprise Architecture), Services Delivery / Professional Services / System Integration (Project Scoping / Planning) and SaaS / Consumption business / pay-as-you-go - this explains the latter and explains the career path.
@@ -496,6 +500,7 @@ See also: Solution Architect, Partner Engineer
 
 - [Cloud migration for the real world](https://cloud.google.com/blog/products/cloud-migration/real-world-cloud-migration-strategies) - Cloud / GCP specific ([AWS here](https://aws.amazon.com/professional-services/CAF/)) blog but shows how professional services teams build up [standard methodologies](https://cloud.google.com/blog/topics/perspectives/the-google-cloud-adoption-framework-helping-you-move-to-the-cloud-with-confidence) between pre-commit and post-commit teams, customers and partners.
 - [Databricks Labs](https://databricks.com/learn/labs) - Databricks uses the role "Field Engineer" in their "Labs" for a combination of Integration Engineer and DevRel, also building / maintaining some open-source reusable helper tools coming out of customer engagements ([here](https://github.com/GoogleCloudPlatform/professional-services) is a similar repository from Google Cloud).
+- [Data for the Win](https://www.tableau.com/blog/data-for-the-win-how-team-usa-visualizations-were-made) - Data and analytics companies like Tableau often have the strongest solution engineering value proposition and they can combine tooling with business knowledge to create models.
 - [Deployment Engineer](https://www2.htw-dresden.de/~anke/openup/core.default.role_def.base/roles/deployment_engineer_5F5FF257.html) - (for comparison) Traditionally the term "Deployment Engineer" has been used for someone responsible to bring a release or product to production, hence often used for consultants. It was followed by "Field Engineer" and more recently "Integration Engineer".
 - [Facebook&apos;s Solution Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Solutions Engineering Team (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/)).
 - [Forward Deployed Software Engineer at Palantir](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) - Interesting, weirdly militaristic, title for "embedded" integration engineers at Palantir, similar to Databricks&apos; Resident Architects. Their Consultants are called [Deployment Strategist](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-deployment-strategist-951cb59a5a96).
