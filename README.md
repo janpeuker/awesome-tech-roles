@@ -42,6 +42,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Stripe Scaling engineering organizations](https://stripe.com/en-sg/atlas/guides/scaling-eng) - Raylene Yung on how to scale Stripe&apos;s engineering organization, talking about roles and career paths ([here is an Asia-specific post](https://medium.com/@emdashry/engineering-in-asia-3386dcc26861)).
 - [The SWE Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3) - Classic article by Chuck Groom on career ladders for SWEs and how it maps to attributes and company principles (aka "follow the money").
 - [What it really means to be a Manager, Director and VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/) - Classic blog post from Dave Kellogg in 2015 talking about goals and scope but also giving a good counter-argument against levels.
+- [Why can't we just all get along](https://emilywebber.co.uk/why-cant-we-all-just-get-along/) - Goldmine of references in a talk by Emily Webber explaining different organizational styles like Discipline Led, Engineering led, Product Led, Data Led, why professional protectionism is a problem and towards her [progression framework for a multidisciplinary organization](https://emilywebber.co.uk/building-a-progression-framework-for-a-multidisciplinary-organisation/).
 
 
 ### Tech Roles in a team and lateral progress
@@ -177,6 +178,7 @@ See also: Solution Architect, Trainer, Technical Writer
 - [Taking a DevRel approach to developer onboarding](https://github.com/readme/guides/community-engagement) - Sonia John in GitHub&apos;s ReadME on how to use ideas from DevRel for onboarding all engineers (nice list of references in the end).
 - [The radiating circles of Developer Experience Architecture](https://dx.tips/circles) - A philosphical model by Temporal going from Tech Writing to DevOps coving different types of developer community needs. 
 - [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe) - Insights from Stripe into DevRel since the pandemic with a lot of links to further resources and people.
+- [What is a Developer Experience Team](https://leaddev.com/productivity-eng-velocity/what-developer-experience-team) - Great overview by Abi Noda comparing the mission statements for DX in many tech firms like Slack, Stripe Google etc.
 - [What is DX?](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) - Good summary of Developer Experience (DX).
 - [Why am I a Developer Advocate?](https://twitter.com/kelseyhightower/status/808436229851090945) - Kelsey Hightower explaining DevRel as the CTO of a product.
 - [Working in Public](https://nadiaeghbal.com/oss/) - Nadia Eghbal&apos;s book "Working in Public" became an instant classic, this is a resource collection of her research, in particular the roles of maintainers in Open-Source projects.
@@ -375,7 +377,7 @@ See also: Security Analyst, Data Analyst
 - [Zoom Trust and Safety](https://zoom.us/en-us/trust/trust-safety.html) - Zoom has many security and safety issues in the past, which now made them more open how their Trust & Safety team works.
 
 #### Site Reliability Engineer (SRE)
-Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Infrastructure Engineer, Production Engineer, No Code Operations
+Similar to: Reliability Engineer, DevOps / DevSecOps Engineer, System Administrator, Platform Engineer / Team, Infrastructure Engineer, Production Engineer, No Code Operations, Resilience Engineer
 
 See also: Support Engineer, IT Operations, Quality Assurance
 
@@ -383,11 +385,13 @@ See also: Support Engineer, IT Operations, Quality Assurance
 - [A feedback loop between Dev and Ops](https://stackoverflow.blog/2021/03/18/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) - Using documentation (runbooks) to bridge dev and ops teams (see below Technical Writer).
 - [Are we there yet?](https://cloud.google.com/blog/products/devops-sre/evaluating-where-your-team-lies-on-the-sre-spectrum) - Thoughts on assessing an SRE team&apos;s maturity in the Google Blog.
 - [Building Platform Teams](https://martinfowler.com/articles/building-infrastructure-platform.html) - ThoughtWorks blog on how to build platform teams and what metrics they are measured on.
+- [Can Resilience Engineering be described in 5 minutes?](https://www.adaptivecapacitylabs.com/blog/2020/03/24/can-resilience-engineering-be-sufficiently-described-in-5-minutes/) - Adaptive Capacity Labs conducts deeper post mortem analysis and retrospectives on learning from failures, pitching a role "resilience engineering".
 - [DevOps, SRE and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/) - Tweet unroll of the difference between Software Development, DevOps, SRE and towards Platform Engineering.
 - [DORA](https://www.devops-research.com/research.html) - The DORA State of DevOps research program which formed the basis for the _Accelerate_ book (see above), especially the practice "Empowering Teams".
 - [Facebook Configuration Management](https://engineering.fb.com/2014/10/01/core-data/facebook-configuration-management-community-and-open-source/) - (historic context) Classic blog post that open-sourced Chef, written by Production Engineers which would now be called Platform Team.
 - [Getting into DevOps](https://www.thoughtworks.com/insights/blog/getting-devops-part-2) - ThoughtWorks overview on the history and different styles of DevOps teams including DevNetOps and DevSecOps.
 - [Google SRE Interview](https://sre.google/in-conversation/) - Niall Murphy and Ben Treynor from Google in an early interview on the SRE practice and comparison to the industry.
+- [Howie Guide](https://www.jeli.io/howie/interview) - Jeli.io's Howie Post-Incident Guide described learning from failures and near-misses. It focuses on tech roles but in the Interview section explains connections to tech-adjacent roles, too.
 - [Incident Operations](https://sre.google/sre-book/managing-incidents/) - The SRE book defines roles during an incident like ops lead, incident commander and communication lead.
 - [Jez Humble&apos;s DevOps insights](https://newrelic.com/blog/best-practices/devops-jez-humble) - For historic context one of the earlier talks by Jez Humble in the New Relic blog.
 - [Making Ops work more visible](https://github.com/readme/guides/ops-work-visible) - Interesting story from Netflix&apos; DevOps journey from "You run it" to SRE and Platforms teams.
