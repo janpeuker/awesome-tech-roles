@@ -449,7 +449,7 @@ See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Mana
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
 #### Sales Engineer (SE)
-Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales
+Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales, Demo  /Spike Engineer
 
 See also: Technical Account Manager (TAM), Account Manager, Solution Architect, Customer Success Manager (CSM)
 
@@ -590,6 +590,7 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [Customer Service at Shopify](https://www.shopify.com.sg/blog/customer-service) - Whole framework of how to build successful customer service and retain happy customers ([interesting context in the same blog](https://www.shopify.com.sg/retail/119535811-the-apple-store-guide-to-insanely-great-customer-service) on Apple above).
 - [Customer Support vs Customer Success Explained](https://www.helpscout.com/blog/customer-support-vs-customer-success/) - Advertorial but good description of the flavours of customer support, clearly separating customer success and its various variants.
 - [2022 Customer Service Quality Benchmark Report](https://www.intercom.com/blog/podcasts/2022-customer-service-quality-benchmark-report-a-roundtable-on-support-strategies-for-the-year-ahead/) - Advertorial Podcast but interesting overview panel of different companies, showing what goals and metrics (e.g. CSAT) drive support teams and Support as "career incubator".
+- [Developing supportability for a public cloud](https://cloud.google.com/blog/products/management-tools/developing-supportability-for-a-public-cloud) - Example how Infrastructure Teams (SRE and CRE) can influence Support Team Roles and Responsibilities by optimizing metrics such as Supportability (see also ["Deemed SLI"](https://cloud.google.com/blog/products/management-tools/using-deemed-slis-to-measure-customer-reliability)).
 - [Dropbox Support Team](https://blog.dropbox.com/topics/company/the-dropbox-support-you-know-and) - Specific to Dropbox but good insight into metrics, tasks and technology of support teams.
 - [From IT Certificate completers to Googlers](https://blog.google/outreach-initiatives/grow-with-google/it-certificate-completers-googlers/) - Career paths into tech via support roles, resident programs and certifications.
 - [Google CRE](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) - Google&apos;s Customer Reliability Engineering team are SREs working towards shared operational fate between Google and Google Cloud Platform customers.
