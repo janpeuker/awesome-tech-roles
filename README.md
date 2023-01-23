@@ -49,6 +49,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Accelerate](https://blog.sonatype.com/principle-based-devops-frameworks-accelerate) - Summary of the instant classic book by Nicole Forsgren et al. also talking about empowering teams.
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#roles) - The Awesome Engineering Team Management list has a section on roles.
 - [BAPO](https://medium.com/nerd-for-tech/concepts-i-use-every-day-bapo-896d0ba0ccbb) - Overview of BAPO, Jan Bosch&apos;s extension of Conway&apos;s Law or "strategy drives structure".
+- [The Combined Engineering Software Model](https://testastic.wordpress.com/2016/01/03/the-combined-engineering-software-model/) - Classic blog and podcast excerpt about transforming to agile vertical slice teams explaining some roles like Tester / QA and PUM (Product Unit Manager) along the way.
 - [Conway&apos;s Law and Inverse Conway Maneuver](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc) - Good blog post introducing Conway&apos;s Law and ThoughtWorks&apos; Inverse Conway Maneuver to avoid having the organization become the product.
 - [Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - Bruce Webster coined the Dead Sea Effect for the Tech version of the Peter Principle aka Dilbert Principle.
 - [Expert Beginner Problem](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Erik Dietrich introduced the term "Expert Beginner" for a dead-end in learning progress.
@@ -106,6 +107,7 @@ Not focused on management overall although some links might lead to it. Instead,
 
 ### Interviews
 - [18F Engineering Hiring Guide](https://eng-hiring.18f.gov/) - 18F is a technology and design consultancy for the U.S. Government and publishes a lot of their processes including a detailed hiring guide.
+- [Generalizing Specialists: Improving Your Effectiveness](http://agilemodeling.com/essays/generalizingSpecialists.htm) - Classic essay from the agile movement on the Generalizing Specialist approach to skill building a broadening wider than T-Shaped.
 - [CMU 313](https://cmu-313.github.io/) - CMU&apos;s course 313 "Foundations of Software Engineering" has a section on "Peopleware", hiring and collaborating as team.
 - [Coding Homework](https://jacobian.org/2021/nov/23/wst-homework/) - Overview on coding "homework" exercises, how to describe them and how to evaluate.
 - [Common Hiring Manager mistakes](https://lethain.com/common-hiring-manager-mistakes/) - Will Larson on common mistakes and red flags in hiring.
@@ -193,6 +195,7 @@ Similar to: Product Owner, Business Analyst, Requirements Engineer, System Analy
 See also: Program Manager, Developer Advocate, Designer, Product Operations
 
 - [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky.
+- [Advanced time management principles](https://twitter.com/shreyas/status/1492345140492472321) - Long thread by Shreyas Doshi on priorization for product managers going into different approaches for different experience / seniority levels.
 - [A product managers&apos; guide to API&apos;s](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API&apos;s as product (see above Jeff Bezos&apos; API Mandate and below Developer Experience).
 - [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering (see above "Take jobs that make you grow").
 - [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (For Comparison) Explains the Business Analyst role in a public service / government org.
@@ -215,6 +218,7 @@ See also: Program Manager, Developer Advocate, Designer, Product Operations
 - [Product Shaping at Stripe](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) - Ken Norton&apos;s podcast with Michael Siliski comparing Stripe and Google&apos;s product approach.
 - [Project to Product](https://projecttoproduct.org/solutions/) - (For Comparison) Book and approach ("The Flow Framework" blueprint) often used in traditional industry to move from project to product.
 - [RFC&apos;s as decision making tool](https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb) - Juan Pablo Buriticá on how RFC&apos;s can bridge between Engineering and Product and help include everyone.
+- [The Scrum Product Owner role in one page](https://www.romanpichler.com/blog/one-page-product-owner/) - (for comparison) Classic definition of the Product Owner role by Roman Pichler, which is a traditional industry IT term.
 - [Taking Event Support from Sales Tactic to Product Strategy](http://www.productbeautiful.com/2016/08/24/taking-event-support-from-sales-tactic-to-product-strategy/) - Classic blog by Paul Young on the blurred line between PM and Marketing e.g. Outbound Product Management.
 - [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf) - Lara Hogan&apos;s seminal Venn Chart of the Who / What and How of Product Manager, Engineering Manager and Engineering Lead.
 - [Value Proposition Canvas](https://isaacjeffries.com/blog/2018/2/27/how-to-fill-in-a-value-proposition-canvas) - Part of the Business Model Canvas, how to research and visualize a value proposition.
@@ -409,6 +413,7 @@ See also: Support Engineer, IT Operations, Quality Assurance
 - [Production Engineers at Facebook](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch13.html) - Meta&apos;s implementation of DevOps and their version of SRE is the "Production Engineer"; the role is explained in the "Seeking SRE" book.
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones&apos; legendary blog post and YouTube video series explaining SRE.
+- [Systems design explains the world](https://apenwarr.ca/log/20201227) - Classic Apenwarr post that talks about innovator's dilemma, second-system effect and being glue - basically what in traditional enterprises is referred to as "architect" role but in tech is often SRE and Product Managers.
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
 - [Trunk and Branches Model](https://infraeng.dev/trunk-and-branches/) - Will Larson&apos;s learnings scaling infrastructure organizations using his Trunk and Branches Model.
 
@@ -603,6 +608,7 @@ See also: Data Analyst, Site Reliability Engineer (SRE), Technical Account Manag
 - [On adaptive capacity in incident response](https://increment.com/reliability/adaptive-capacity-incident-response/) - Increment #16 on reliability has some good articles on incident management.
 - [On-call at any size](https://increment.com/on-call/on-call-at-any-size/) - Increment #1 focused on on-call, this article compares the (DevOps) models at different org sizes.
 - [Service Capability & Performance (SCP) Standards](https://servicestrategies.com/scp-standards/) - (For comparison) SCP is rarely used in tech firms but the breakdown can understand traditional industries.
+- [We Invite Everyone at Etsy to Do an Engineering Rotation](https://www.etsy.com/codeascraft/engineering-rotation/) - Rotations are an underutilized tool to build customer empathy - Etsy has used support rotations for everyone in the company since 2010.
 - [What is a Support Account Manager](https://blogs.vmware.com/kb/2020/03/what-is-a-support-account-manager.html) - VMWare explaining their version of the Support Account Manager in Global Support - which in other firms may be similar to TAM, alongside a TAM, or alongside a CSM depending on the org setup.
 - [Zappos CLT](https://www.zappos.com/about/stories/clt-powered-by-service) - How Zappos Customer Loyalty Team is empowered to help.
 - [Zendesk&apos;s Support Metrics](https://www.zendesk.com/blog/customer-support-kpis-need-track/) - Advertorial but deep explanation of support metrics shows priorities of support work.
