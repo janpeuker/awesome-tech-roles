@@ -173,7 +173,7 @@ See also: Product Manager, Technical Writer
 #### Developer Advocate
 Similar to: Evangelist, Developer Relations (DevRel), Developer Experience (DX), Open Source Relations, Product Strategist, Customer Insight, Customer Empathy, Community Ops
 
-See also: Solution Architect, Trainer, Technical Writer
+See also: Solution Architect, Learning and Enablement, Technical Writer
 
 - [A Primer on Developer Marketing](https://tomwentworth.com/2016/10/13/a-primer-on-developer-marketing-47d792d67586/) - Tom Wentworth on how to create shared sense of purpose in a community.
 - [Developer Advocacy at Hashicorp](https://www.hashicorp.com/blog/how-hashicorp-does-developer-advocacy) - Hashicorp is famous for great developer focus,here are their principles.
@@ -267,7 +267,7 @@ See also: Product Manager (PM), Product Operations
 #### Technical Writer
 Similar to: (Copy) Editor, Tech Writer, UX Writer, Documentation Manager / Designer, Content Strategist, Product Marketing Manager (PMM)
 
-See also: Trainer, Developer Advocate
+See also: Learning and Enablement, Developer Advocate
 
 - [Document Culture at Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/) - Understand how long-form documents enable a shared understanding between DevRel, PM and Technical Writers.
 - [Documentation as Application](https://www.writethedocs.org/videos/portland/2020/documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul/) - Stripe&apos;s Ryan Paul on documentation as interactive content.
@@ -542,7 +542,7 @@ See also: Solution Architect, Partner Engineer
 #### Partner Engineer
 Similar to: Partnership Manager, Alliance Manager, Partner Development Manager (PDM), Partner Solution Architect, Partner Solution Engineer, Partner Support, System Engineer, Deployment Engineer, Field Engineer
 
-See also: Trainer, Developer Advocate (DevRel), Integration Engineer
+See also: Learning and Enablement, Developer Advocate (DevRel), Integration Engineer
 
 - [AWS Teams you NEED to Know to Accelerate Business Growth](https://nofar-asselman.medium.com/the-big-five-aws-teams-you-need-to-know-42b000618313) - Interesting perspective into AWS&apos;s partner organization and how Independent Software Vendor (ISV) SaaS work on AWS Marketplace.
 - [Cisco&apos;s Customer Experience Framework](https://blogs.cisco.com/partner/how-partners-make-money-with-cisco-customer-experience-cx) - Cisco&apos;s services portfolio around Expert Resources, Trusted Support, Insights and Analytics and Contextual Learning for their partners.
@@ -575,18 +575,20 @@ See also: Account Manager (AM), Solution Architect (SA), Customer Success Manage
 - [VMWare TAM to the Rescue](https://blogs.vmware.com/customer-experience-and-success/2022/01/vmware-tam-to-the-rescue-helping-a-customer-out-of-a-jam.html) - The VMWare Careers blog has a lot of interesting stories about their support roles, this one is an example of a TAMs daily work.
 - [What it is like to be a Technical Account Manager in AWS?](https://medium.com/amazonwebservices/what-it-is-like-to-be-a-technical-account-manager-in-aws-384cadd16b1e) - Deep introduction including career path of a TAM as part of the [AWS Premium Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) offering.
 
-#### Trainer
-Similar to: Practice Lead, Instructor, Coach, Moderator, Facilitator, Learning and Enablement, Instructional Designer, Customer Education
+#### Learning and Enablement
+Similar to: Practice Lead, Instructor, Coach, Moderator, Facilitator, Trainer, Instructional Designer, Customer Education, Technical Enablement, Field Enablement
 
-See also: Technical Writer, Developer Advocate (DevRel)
+See also: Partner Engineer, Technical Writer, Developer Advocate (DevRel)
 
 - [Communities of Practice](https://www.infoq.com/articles/communities-of-practice-agile-organisation/) - Emily Webber&apos;s classic article introducing the roles in internal communities of practices and how trainers own organizational development.
 - [Customer Education](https://coreaxis.com/insights/blog/customer-education) - Advertorial but a good list of priorities in a customer education / learning and enablement team.
 - [Design Sprint](https://www.gv.com/sprint/) - The Design Sprint Methodology is a mix of Design Thinking and Lean and collaborates across roles often facilitated by a coach.
 - [Distributed Education](https://experience.dropbox.com/resources/distributed-education) - Advertorial but good background on challenges for educators post-pandemic.
+- [Field Enablement at GitLab](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) - GitLabs field enablement role is interesting because it's very broad, containing parts of marketing, strategic ops (StratOps) and culture.
 - [Glitch Interview](https://blog.glitch.com/post/going-global-with-glitch-amp-educator-ben-morss) - Interview with a  Developer Advocate how they used Glitch to facilitate easy web coding classes.
 - [Pitfalls to Avoid When Building a CCoE](https://aws.amazon.com/blogs/enterprise-strategy/7-pitfalls-to-avoid-when-building-a-ccoe/) - AWS blog post on how to build up a cloud center of excellence (or any center of excellence).
 - [Remote Education](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) - GitHub Blog Series on best practices for online campus communities.
+- [The Who What How and Why of Sales Enablement](https://www.gartner.com/en/articles/the-who-what-how-and-why-of-sales-enablement) - Classic Gartner article that defines the pillars of the Sales Enablement function.
 - [Stop sidelining your network team](https://acloudguru.com/blog/business/hey-cloud-execs-stop-sidelining-your-network-team) - Advertorial by A Cloud Guru (now part of PluralSight) showing the need for re-skilling due to technology changes, here with the example of network infrastructure to Cloud.
 - [The Programmer&apos;s Brain](https://www.manning.com/books/the-programmers-brain) - _The Programmer&apos;s Brain_ is a bug summarizing tons of [Felienne Hermans&apos;s research](https://www.felienne.com/publications) on learning, understanding and collaboration for engineers.
 - [Trainer at SAP](https://blogs.sap.com/2019/11/07/becoming-an-official-sap-trainer/) - Explaining the trainer role at SAP, long time known to have a huge industry-specific education organization.
