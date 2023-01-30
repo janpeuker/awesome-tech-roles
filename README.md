@@ -131,6 +131,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco&apos;s "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler".
 - [Resources in Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?types=reading&topics=interview-prep) - Google&apos;s Tech Dev Guide is a great resource for computer science / engineering learning and has a list of (external) resources for _taking_ a tech interview process
 - [Questions I&apos;m asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews.
+- [Sam's Resume Advice](https://blog.samgreenfield.com/2023/01/resume-advice/) - Sam Greenfield giving some high level recommendations on what to include and how to format resume's / CV's.
 - [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format.
 - [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary.
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
@@ -138,6 +139,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV&apos;s, Resumes or Career Conversations and Performance Reviews.
 - [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews.
 - [The Ultimate Guide to Onboarding](https://leadership.garden/onboarding-engineers/) - (For comparison) Not directly interview-related, but it&apos;s helpful to ask questions about onboarding during interviews to understand learning (growth mindset) focus of an org.
+- [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) - Chip Huyen explaining what startups look in resume's, especially regarding skills (and how they will be tested).
 
 
 ## Role Descriptions
