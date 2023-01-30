@@ -476,35 +476,27 @@ See also: Technical Account Manager (TAM), Account Manager, Solution Architect, 
 - [Why top SaaS sales teams are creating a new role, Demo Engineers](https://www.saastock.com/blog/why-top-saas-companies-are-creating-a-new-role-demo-engineers/) - Example of a twist on the SE role, Demo Engineer, especially for No-Code and SaaS companies where the focus lies more on Proof-of-Concept work.
 
 #### Solution Architect (SA)
-Similar to: Solution Sales, Solution Planner, Technology Architect, Technical Architect, Enterprise Architect
+Similar to: Solution Sales, Solution Planner, Technology Architect, Technical Architect, Enterprise Architect, Office of the CTO (OCTO), Evangelist, Customer Advocacy
 
 See also: Sales Engineer (SE), Technical Account Manager (TAM)
 
 - [Accenture Career Blog](https://www.accenture.com/us-en/blogs/blogs-technical-architect-careers) - (For comparison) Explaining the Technology Architect role for Consulting / Service Provider / Service Delivery firms which usually focuses on projects, not products.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Awesome list of general software architecture resources which (sadly) is mostly _not_ connected to the term "architect".
 - [Databricks Economic Benefits](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) - Advertorial but a good example how many product / platform companies move up the value chain to management consulting e.g. Databricks with their Resident Solution Architect which is more similar to a TAM or CSM.
+- [GitHub OCTO](https://github.com/github/githubOCTO/discussions/1) - GitHub&apos;s research unit is responsible to syndicate their view of the future of technology.
+- [How Google&apos;s Office of the CTO is Redefining Collaboration](https://mission.org/podcast/built-for-innovation-how-googles-office-of-the-cto-is-redefining-collaboration/) - Podcast with Google Cloud&apos;s OCTO with the history and future of the team.
 - [How we close deals and keep customers happy with Slack Connect](https://slack.com/blog/collaboration/how-we-close-deals-and-keep-customers-happy-with-slack-connect) - Slack&apos;s Technical Architects are part of the Sales Customer Success (CSM) organization but guide the implementation, like Deployment Engineers.
 - [Problems with Solution Selling](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/whats-wrong-with-solutions-selling-and-how-to-put-it-right) - Account managers are usually value or challenger selling because solution and product selling is more complex which makes commercials harder.
 - [SAP Solution Blog](https://blogs.sap.com/2014/05/25/from-developer-to-solution-architect-essential-skills-for-climbing-the-it-professional-ladder/) - (For comparision) Explaining Solution Architects for ISV / SaaS solution providers, focused on long-term system design while customers and consultants customize their product.
+- [The role of customer advocacy in sales and support](https://www.productmarketingalliance.com/the-role-of-customer-advocacy-in-sales-and-support/) - Industry-group overview of customer advocacy as a role between marketing and sales, often performed by industry (as oposted to solution/technical focus) SAs.
 - [Solution Architect — Who Am I?](https://osapishchuk.medium.com/solution-architect-who-am-i-bb54a9451a10) - Solution Archicture is a term used very differently in industry (Enterprise Architecture), Services Delivery / Professional Services / System Integration (Project Scoping / Planning) and SaaS / Consumption business / pay-as-you-go - this explains the latter and explains the career path.
 - [Solution Architect in SAFe](https://www.scaledagileframework.com/solution-architect-engineering/) - Written from an enterprise point of view (SAFe) but creating, defining and communicating a shared technical and architectural vision also applies to the pre-commit stage of a customer "solution" aka "project".
 - [Why is it great to be a Consultant](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/) - (For comparison) often solution architecture is performed as review by external consultants - here are some advantages of this approach. See also "So you want to be an IT Consultant?" for historic comparison.
 
-#### Office of the CTO (OCTO)
-Similar to: Enterprise Strategist, Chief Evangelist, Transformation Officer, *Innovation, *Research
-
-See also: Sales Engineer, Solution Architect, Developer Advocate
-
-- [Accenture Tech Vision](https://www.accenture.com/sg-en/insights/technology/technology-trends-2019) - (For comparison) Tech consultancies and system integrators move up the value chain by pushing into strategy, [ThoughtWorks Radar](https://www.thoughtworks.com/radar) and Accenture Digital were one of the first to form these research units.
-- [Chief Transformation Officer](https://www.mckinsey.com/business-functions/rts/our-insights/the-role-of-the-chief-transformation-officer) - During a Digital Transformation, a Chief Transformation Offer drives the strategy - says McKinsey.
-- [GitHub OCTO](https://github.com/github/githubOCTO/discussions/1) - GitHub&apos;s research unit is responsible to syndicate their view of the future of technology.
-- [How Google&apos;s Office of the CTO is Redefining Collaboration](https://mission.org/podcast/built-for-innovation-how-googles-office-of-the-cto-is-redefining-collaboration/) - Podcast with Google Cloud&apos;s OCTO with the history and future of the team.
-- [VMware OCTO Blog](https://octo.vmware.com/new-way-thinking-origins-vmware-octo-cloud-architecture-team/) - History of VMware&apos;s OCTO team and research / whitepaper unit.
-
 ### Customer-facing, post-commit
 
 #### Customer Success Manager (CSM)
-Similar to: Account Manager, Enterprise Services Manager (ESM), Account Strategist, Customer Experience
+Similar to: Account Manager, Enterprise Services Manager (ESM), Account Strategist, Customer Experience, Customer Advocacy
 
 See also: Account Manager, Technical Account Manager (TAM), Support Engineer
 
