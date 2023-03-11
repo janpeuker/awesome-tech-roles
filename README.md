@@ -38,7 +38,8 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Operating Well - What I learned at Stripe](https://every.to/p/operating-well-what-i-learned-at-stripe) - Good collection of resources and techniques for management in high-growth organizations, with a particular focus on hiring and scaling.
 - [Organizational Design](https://infraeng.dev/organizational-design/) - Common team sizes (aka management span of control) for lead roles from Lethain&apos;s org growth template and org design template.
 - [progression.fyi](https://www.progression.fyi/) - A great collection of progression frameworks (a much better name for career ladder but less common).
-- [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder .
+- [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder.
+- [Scaling People Interviews](https://press.stripe.com/scaling-people/interviews/) - For the launch of Claire Hughes Johnson&apos;s excellent book "Scaling People", interviews from different fields on how to scale teams were published.
 - [Spotify Steps Framework](https://engineering.atspotify.com/2016/02/15/spotify-technology-career-steps/) - Spotify&apos;s Step Framework for career evolution around disciplines and roles.
 - [Stripe Scaling engineering organizations](https://stripe.com/en-sg/atlas/guides/scaling-eng) - Raylene Yung on how to scale Stripe&apos;s engineering organization, talking about roles and career paths ([here is an Asia-specific post](https://medium.com/@emdashry/engineering-in-asia-3386dcc26861)).
 - [The SWE Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3) - Classic article by Chuck Groom on career ladders for SWEs and how it maps to attributes and company principles (aka "follow the money").
@@ -59,7 +60,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Is Tech the right career for you?](https://hbr.org/2021/08/is-tech-the-right-career-for-you) - Quick and easy summary in the HBR blog on non-engineering roles in Tech.
 - [Jeff Bezos&apos; API Mandate](https://chrislaing.net/blog/the-memo/) - Back in 2002 Jeff Bezos mandated a service-oriented team architecture at Amazon (the memo was made famous by Steve Yegge) and the "Two pizza team" still referenced today e.g. [this recent HBR article on API&apos;s between teams](https://hbr.org/2021/04/apis-arent-just-for-tech-companies).
 - [Learn Software Development Toolkit](https://www.techwell.com/hub-takover/lean-software-development-agile-toolkit) - Interview with Mary Poppendieck author of "Leading Lean Software Development" on how Lean may fight against the organization.
-- [Holocracy Constitution](https://www.holacracy.org/constitution) - Holocracy is a management model that tries to avoid caveats of reporting chains (e.g. Conway&apos;s law) or Management by Objectives (MBO e.g. OKR) by focusing primarily on very specific, yet dynamic roles and rules. (for comparison)
+- [Holocracy Constitution](https://www.holacracy.org/constitution) - Holocracy is a management model that tries to avoid caveats of reporting chains (e.g. Conway&apos;s law) or Management by Objectives (MBO e.g. OKR) by focusing primarily on very specific, yet dynamic roles and rules. (for comparison).
 - [Hunting Tech Debt via Org Charts](https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145) - Marianne Bellotti author of ["Kill it with Fire"](https://nostarch.com/kill-it-fire) on tech debt, interesting because she put it into context of different engineering team organizations.
 - [Managing with Context, not control](https://awspyker.medium.com/managing-with-context-not-control-2a5643386ecd) - Netflix famous people over process culture defining managers as "glue" (see below).
 - [Next Generation Organization](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300) - Simon Wardley&apos;s research on next generation organizations including team structures formed by swarming (also see [Adhocracy](https://www.mckinsey.com/business-functions/organization/our-insights/adhocracy-for-an-agile-age)).
@@ -87,6 +88,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Developer Progression as a function of navigating complexity](https://www.siddharthsarda.com/p/developer-progression-as-a-function) - Siddharth Sarda translating Jessica Kerr&apos;s research into developer career progression (complexity is a common career framework attribute).
 - [Don Jones &apos;Own your Tech Career&apos;](https://techleadjournal.dev/episodes/55/) - TechLead Podcast episode on [Don Jones&apos; book](https://www.manning.com/books/own-your-tech-career).
 - [Engineering Leadership Skill Set Overlaps](https://newsletter.pragmaticengineer.com/p/engineering-leadership-skillset-overlaps) - Paid newsletter, for reference on the terms Staff Engineer, Engineering Manager (EM), Product Manager (PM), Tech Lead Manager (TLM) and Technical Program Manager (TPM).
+- [Engineering Onboarding Programs](https://lethain.com/engineering-onboarding-programs/) - Will Larson gives an overview on how to build up a spin-up training for new engineers and how that feeds into strategyt, goals and roals within the broader team.
 - [Engineering management 101: evaluating your team&apos;s performance](https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance) - Classic post by Camille Fournier on coaching as core management competency.
 - [Google&apos;s Manager Reseearch](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) - What makes a great manager with research from Project Aristotle (and [Oxygen Attributes](https://www.inc.com/michael-schneider/analysis-10000-reports-told-google-to-train-new-managers-6-areas.html)) from Google re:Work.
 - [Growth Framework at Medium](https://medium.com/s/engineering-growth-framework) - Often the term "growth mindset" is used across career dimensions, here is a classic post from Medium who used to [publish their ladder tool Snowflake](https://snowflake.medium.com/#1,2,3,2,4,1,1,4,3,2,0,4,2,2,3,0,Cersei%20Lannister,Staff%20Engineer).
@@ -129,17 +131,18 @@ Not focused on management overall although some links might lead to it. Instead,
 - [Interview Basics](https://themanagershandbook.com/hiring-and-onboarding/interviewing/the-basics) - Interview process from "The Manager&apos;s Handbook".
 - [Interview your manager back](https://twitter.com/lilykonings/status/1484598087494496258) - Great Twitter thread on questions to ask back to managers to understand the company and role focus.
 - [Peopleware](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md) - Notes and excerpts from Tom DeMarco&apos;s "Peopleware", especially chapters "The Hornblower Factor" and "Hiring a Juggler".
-- [Resources in Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?types=reading&topics=interview-prep) - Google&apos;s Tech Dev Guide is a great resource for computer science / engineering learning and has a list of (external) resources for _taking_ a tech interview process
+- [Resources in Tech Dev Guide](https://techdevguide.withgoogle.com/resources/?types=reading&topics=interview-prep) - Google&apos;s Tech Dev Guide is a great resource for computer science / engineering learning and has a list of (external) resources for _taking_ a tech interview process.
 - [Questions I&apos;m asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - Julia Evans on what to ask as a candidate in interviews.
-- [Sam's Resume Advice](https://blog.samgreenfield.com/2023/01/resume-advice/) - Sam Greenfield giving some high level recommendations on what to include and how to format resume's / CV's.
+- [Sam&apos;s Resume Advice](https://blog.samgreenfield.com/2023/01/resume-advice/) - Sam Greenfield giving some high level recommendations on what to include and how to format resume&apos;s / CV&apos;s.
 - [The STAR Interview Method](https://www.theguardian.com/careers/careers-blog/star-technique-competency-based-interview) - Blog in the Guardian on the situation, task, action, result (STAR) interview format.
 - [Six Intersectional Approaches to Improving Your Hiring Process](https://byteboard.dev/blog/six-intersectional-approaches-to-improving-your-hiring-process) - Advertorial for Byteboard who are building an interesting new interview process, but useful research and references on how to make interviews less exclusionary.
+- [System Design Interview Guide](https://interviewing.io/guides/system-design-interview) - There is many guides and books on system design interviews out there, but this is a good, free overview of required depth.
 - [Tech Interview Handbook](https://techinterviewhandbook.org/landscape) - The Tech Interview Handbook preface also covers variations of engineering roles and has [OSS contributions](https://github.com/yangshun/tech-interview-handbook).
 - [The Most Difficult IT Interview I&apos;ve Ever Loved](https://www.thoughtworks.com/en-sg/insights/blog/most-difficult-it-interview-ive-ever-loved) - Classic blog post on [ThoughtWorks hiring process](https://www.thoughtworks.com/careers/our-process) who early on championed pair programming, code reading and ethics interviews.
 - [The XYZ Model](https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html) - The XYZ model used to describe achievements for CV&apos;s, Resumes or Career Conversations and Performance Reviews.
 - [The Science Behind Making Software Engineering Interviews Truly Predictive of Job Performance](https://www.qualified.io/blog/posts/truly-predictive-software-engineering-interviews) - Long blog post listing research on biases and advantages of structured interviews.
 - [The Ultimate Guide to Onboarding](https://leadership.garden/onboarding-engineers/) - (For comparison) Not directly interview-related, but it&apos;s helpful to ask questions about onboarding during interviews to understand learning (growth mindset) focus of an org.
-- [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) - Chip Huyen explaining what startups look in resume's, especially regarding skills (and how they will be tested).
+- [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html) - Chip Huyen explaining what startups look in resume&apos;s, especially regarding skills (and how they will be tested).
 
 
 ## Role Descriptions
@@ -183,6 +186,7 @@ See also: Solution Architect, Learning and Enablement, Technical Writer
 - [Good Developer Experience](https://developerexperience.io/practices/good-developer-experience) - The pillars of good developer experience, including how to build a team.
 - [How Kelsey Hightower became one of the most respected people in cloud computing](https://www.protocol.com/enterprise/kelsey-hightower-google-cloud) - showing Kelsey Hightowers career path through Sys Admin and Engineer to Developer and recently [User Empathy](https://thenewstack.io/?p=18044044) Advocate.
 - [Building a Developer Experience Team](https://sendgrid.com/blog/scaling-product-management-at-sendgrid-building-a-developer-experience-team/) - Short blog post in a series of scaling Product Management at SendGrid on how to spin out a developer experience team, what its goals and mission are.
+- [Don&apos;t Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/) - Sam Newman on Platform Engineering and how it&apos;s really Developer Enablement and Experience or "Habitability".
 - [A Guide to Community Operations](https://www.commonroom.io/blog/guide-to-community-operations/) - Advertorial but well explaining the difference between Community Ops, DevRel and Support.
 - [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann&apos;s Developer Advocacy Handbook has been updated for 11 years and counting.
@@ -340,7 +344,7 @@ See also: Data Engineer, Support Engineer, Trust and Safety Analysts
 - [The roaring twenties](https://twitter.com/josephmoon_ai/status/1486133352608382977?s=21) - Twitter thread on modern data analysis tools and how they helped data scientists and analysts step out in the limelight.
 
 #### Data Engineer
-Similar to: Machine Learning Engineer, Analytics Engineer, Business Intelligence (Intel) Engineer
+Similar to: Machine Learning Engineer, AI Engineer, Analytics Engineer, Business Intelligence (Intel) Engineer
 
 See also: Data Analyst, Software Engineer (SWE), Integration Engineer
 
@@ -358,6 +362,7 @@ See also: Data Analyst, Software Engineer (SWE), Integration Engineer
 - [How Reporting and Experimentation Fuel Product Innovation at LinkedIn](https://www.youtube.com/watch?v=62JxeIZTc_4) - LinkedIn got famous for data engineering as the birthplace of Kafka and Samza, this old talk gives an overview how the data platform feeds into the product teams.
 - [Machine Learning Interviews BookMachine Learning Interview](https://huyenchip.com/ml-interviews-book/) - Chip Huyen&apos;s book does never clearly explain roles but has good insights on types of teams and companies for ML roles.
 - [Netflix Data Engineer](https://netflixtechblog.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea) - Career path of a Data Engineer at Netflix (see also [this blog of Netflix roles](https://netflixtechblog.com/notebook-innovation-591ee3221233)).
+- [Planning for AGI and Beyond](https://openai.com/blog/planning-for-agi-and-beyond) - This list does not feature "Prompt Engineering" under Data Engineer but below under "Designer", this post is an example by OpenAI on various strategies to approach working with, rather than bulding machine learning systems, in what they call alignment techniques.
 - [PyTorch builds the future of AI and machine learning at Facebook](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/) - Machine Learning Research fused into MLOps over the last years, this is a good history from Facebook how PyTorch emerged (not unsimiliar to [TFX](https://blog.tensorflow.org/2020/09/brief-history-of-tensorflow-extended-tfx.html#Intro) at Google).
 - [We Don&apos;t Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
 - [What is Data Engineering](https://blog.pragmaticengineer.com/what-is-data-engineering/) - Collaboration between Benjamin Rogojan and Gergely Orosz, explaining the data engineer role and the differences to data scientist and software engineer.
@@ -419,12 +424,13 @@ See also: Support Engineer, IT Operations, Quality Assurance
 - [Production Engineers at Facebook](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch13.html) - Meta&apos;s implementation of DevOps and their version of SRE is the "Production Engineer"; the role is explained in the "Seeking SRE" book.
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones&apos; legendary blog post and YouTube video series explaining SRE.
+- [SRE in the real world](https://blog.relyabilit.ie/sre-in-the-real-world/) - Niall Murphy, author of many SRE books, explaining Google SREs the difference to SRE in other orgs and interestingly finding the closest similarity with Staff Engineers.
 - [Systems design explains the world](https://apenwarr.ca/log/20201227) - Classic Apenwarr post that talks about innovator&apos;s dilemma, second-system effect and being glue - basically what in traditional enterprises is referred to as "architect" role but in tech is often SRE and Product Managers.
 - [The SRE Book](https://sre.google/sre-book/introduction/) - The seminal SRE books by Betsy Beyer et al. freely available - here the link to the introduction "The Sysadmin Approach to Service Management".
 - [Trunk and Branches Model](https://infraeng.dev/trunk-and-branches/) - Will Larson&apos;s learnings scaling infrastructure organizations using his Trunk and Branches Model.
 
 #### IT Operations
-Similar to: System Administrator (Sys Admin), Platform Engineer, Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
+Similar to: System Administrator (Sys Admin), Infrastructure Services, IT System Engineer, IT Support Specialist, Technical Staff, Technical Operations (TechOps), ITOps, *Ops, Incident Response, Database Administrator (DBA), Data Center Technician
 
 See also: Support Engineer, Site Reliability Engineer (SRE)
 
@@ -483,6 +489,7 @@ Similar to: Solution Sales, Solution Planner, Technology Architect, Technical Ar
 See also: Sales Engineer (SE), Technical Account Manager (TAM)
 
 - [Accenture Career Blog](https://www.accenture.com/us-en/blogs/blogs-technical-architect-careers) - (For comparison) Explaining the Technology Architect role for Consulting / Service Provider / Service Delivery firms which usually focuses on projects, not products.
+- [Architects, Anti-Patterns, and Organizational Fuckery](https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/) - Charity Majors' excellent summary of a mega thread of Twitter shows why this list as well does _not_ include a separate Architect role, because it should be a function within a role or rotation. She does however explicitly exclude SA, as advisory is generally something good.
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - Awesome list of general software architecture resources which (sadly) is mostly _not_ connected to the term "architect".
 - [Databricks Economic Benefits](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) - Advertorial but a good example how many product / platform companies move up the value chain to management consulting e.g. Databricks with their Resident Solution Architect which is more similar to a TAM or CSM.
 - [GitHub OCTO](https://github.com/github/githubOCTO/discussions/1) - GitHub&apos;s research unit is responsible to syndicate their view of the future of technology.
@@ -513,7 +520,7 @@ See also: Account Manager, Technical Account Manager (TAM), Support Engineer
 
 
 #### Integration Engineer / Consultant
-Similar to: Deployment Engineer / Strategist, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, Customer Solution Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
+Similar to: Deployment Engineer / Strategist, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, (Customer) Solution(s) Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
 
 See also: Solution Architect, Partner Engineer
 
@@ -521,7 +528,7 @@ See also: Solution Architect, Partner Engineer
 - [Databricks Labs](https://databricks.com/learn/labs) - Databricks uses the role "Field Engineer" in their "Labs" for a combination of Integration Engineer and DevRel, also building / maintaining some open-source reusable helper tools coming out of customer engagements ([here](https://github.com/GoogleCloudPlatform/professional-services) is a similar repository from Google Cloud).
 - [Data for the Win](https://www.tableau.com/blog/data-for-the-win-how-team-usa-visualizations-were-made) - Data and analytics companies like Tableau often have the strongest solution engineering value proposition and they can combine tooling with business knowledge to create models.
 - [Deployment Engineer](https://www2.htw-dresden.de/~anke/openup/core.default.role_def.base/roles/deployment_engineer_5F5FF257.html) - (for comparison) Traditionally the term "Deployment Engineer" has been used for someone responsible to bring a release or product to production, hence often used for consultants. It was followed by "Field Engineer" and more recently "Integration Engineer".
-- [Facebook&apos;s Solution Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Solutions Engineering Team (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/)).
+- [Facebook&apos;s Solutions Engineering Team](https://jmperezperez.com/solutions-engineer-facebook/) - Long interview about the practical role details at Meta&apos;s [Solutions Engineering Team](https://medium.com/meta-business-engineering/the-role-of-a-solutions-engineer-at-facebook-a8185777f1b1) which a mix of Solution Architect and Integration Engineer (at Google they are called [Customer Solution Engineer in gTech](https://blog.google/inside-google/life-at-google/my-path-google/my-path-to-google-ana-lucero-esqueda/)).
 - [Forward Deployed Software Engineer at Palantir](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-forward-deployed-software-engineer-45ef2de257b1) - Interesting, weirdly militaristic, title for "embedded" integration engineers at Palantir, similar to Databricks&apos; Resident Architects. Their Consultants are called [Deployment Strategist](https://blog.palantir.com/a-day-in-the-life-of-a-palantir-deployment-strategist-951cb59a5a96).
 - [GitLab Migration Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-migration-services-engineer/) - GitLab&apos;s Professional Services is under its Customer Success org and focuses on certifying service partners (see "Partner Engineer") with their standard methodology (see below).
 - [Hashicorp introducing Professional Services](https://www.hashicorp.com/blog/introducing-the-hashicorp-professional-service-prog) - Interesting insight how small but famous tech companies take a step towards Implementation Services.
@@ -578,7 +585,7 @@ See also: Partner Engineer, Technical Writer, Developer Advocate (DevRel)
 - [Customer Education](https://coreaxis.com/insights/blog/customer-education) - Advertorial but a good list of priorities in a customer education / learning and enablement team.
 - [Design Sprint](https://www.gv.com/sprint/) - The Design Sprint Methodology is a mix of Design Thinking and Lean and collaborates across roles often facilitated by a coach.
 - [Distributed Education](https://experience.dropbox.com/resources/distributed-education) - Advertorial but good background on challenges for educators post-pandemic.
-- [Field Enablement at GitLab](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) - GitLabs field enablement role is interesting because it's very broad, containing parts of marketing, strategic ops (StratOps) and culture.
+- [Field Enablement at GitLab](https://about.gitlab.com/handbook/sales/field-operations/field-enablement/) - GitLabs field enablement role is interesting because it&apos;s very broad, containing parts of marketing, strategic ops (StratOps) and culture.
 - [Glitch Interview](https://blog.glitch.com/post/going-global-with-glitch-amp-educator-ben-morss) - Interview with a  Developer Advocate how they used Glitch to facilitate easy web coding classes.
 - [Pitfalls to Avoid When Building a CCoE](https://aws.amazon.com/blogs/enterprise-strategy/7-pitfalls-to-avoid-when-building-a-ccoe/) - AWS blog post on how to build up a cloud center of excellence (or any center of excellence).
 - [Remote Education](https://github.blog/2020-09-10-remote-education-a-series-of-best-practices-for-online-campus-communities/) - GitHub Blog Series on best practices for online campus communities.
