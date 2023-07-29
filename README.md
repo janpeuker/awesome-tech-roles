@@ -86,6 +86,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [An Elegant Puzzle](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/) - Summary of Will Larson&apos;s book "An Elegant Puzzle" especially look at chapter #5.
 - [Annual Performance Reviews Ruin Everything](https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a) - Elizabeth Ayer on annual performance reviews and their flaws, in particular when (mis)used as growth feedback.
 - [Becoming a Technical Leader](https://danlebrero.com/2019/11/27/becoming-a-technical-leader-book-notes/) - Notes and excerpts from Gerald Weinberg&apos;s "Becoming a Technical Leader", especially chapters "Obstacles to Effective Organising" and "Learning to Be an Organiser".
+- [Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2) - Part 2 of  Emily Nakashima's blog post goes into details of what VPs actually do (part 1 is more how to get there).
 - [Competency Management](https://www2.deloitte.com/content/dam/Deloitte/za/Documents/human-capital/ZA_Competency_management_at_its_most_competent.pdf) - Deloitte / Development Dimensions International white paper on Competency Management using a Success Profile model.
 - [Compensation as reflection of values](https://oxide.computer/blog/compensation-as-a-reflection-of-values) - Nice description of how company culture values can shape compensation even in (stealth) startups.
 - [Developer Progression as a function of navigating complexity](https://www.siddharthsarda.com/p/developer-progression-as-a-function) - Siddharth Sarda translating Jessica Kerr&apos;s research into developer career progression (complexity is a common career framework attribute).
@@ -379,6 +380,7 @@ See also: Data Analyst, Software Engineer (SWE), Integration Engineer
 - [The struggles scaling data teams face](https://medium.com/@mikldd/the-struggles-scaling-data-teams-face-95ca8eb874f3) - Interesting analysis of growth-limiting factors e.g. sprawl and quality for [analytics engineering](https://www.getdbt.com/blog/analytics-engineering-next-step-forwards/) teams.
 - [We Don&apos;t Need Data Scientists, We Need Data Engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) - Rant, but with a good overview on data roles.
 - [What is Data Engineering](https://blog.pragmaticengineer.com/what-is-data-engineering/) - Collaboration between Benjamin Rogojan and Gergely Orosz, explaining the data engineer role and the differences to data scientist and software engineer.
+- [Where AI Fits in Engineering Organizations](https://matt-rickard.com/where-ai-fits-in-engineering-organizations) - Short blog by Matt Rickard that shows how hard it is to locate "AI Engineer" between Data Science, DevOps, Prompt Engineering etc.
 - [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) - Chip Huyen on how to run machnine learning / analytics systems and how pipeline work and DevOps roles are different from data science and research roles.
 
 #### Security Engineer
@@ -525,6 +527,7 @@ Similar to: Account Manager, Enterprise Services Manager (ESM), Account Strategi
 
 See also: Account Manager, Technical Account Manager (TAM), Support Engineer
 
+- [Aligning customer success](https://www.futureofsaas.io/aligning-customer-success-q-a-with-servicenow/) - ServiceNow's Emma Bilardi in an interview on alignement of CSMs with account management and professional services teams and more.
 - [Customer Success 2.0](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/introducing-customer-success-2-0-the-new-growth-engine) - McKinsey strategy piece showing the history of the Customer Success function as part of Customer Experience instead of Business Development (see above).
 - [Engineering Customer Success](https://notoriousplg.substack.com/p/nplg-102022-engineering-customer) - Part of the Product-Led Growth concept, this blog introduces how to measure customer success as driver of startup feature build and market fit.
 - [Effective CSM teams](https://blog.learndot.com/what-makes-a-customer-success-team-effective-we-asked-the-experts) - Interview with experts who perform(ed) TAM and CSM roles.
