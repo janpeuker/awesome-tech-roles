@@ -42,6 +42,7 @@ Not focused on management overall although some links might lead to it. Instead,
 - [progression.fyi](https://www.progression.fyi/) - A great collection of progression frameworks (a much better name for career ladder but less common).
 - [RtR Engineering Ladder](https://dresscode.renttherunway.com/blog/ladder) - OG Camille Fournier sharing the Rent-the-Runway Engineering career ladder.
 - [Scaling People Interviews](https://press.stripe.com/scaling-people/interviews/) - For the launch of Claire Hughes Johnson&apos;s excellent book "Scaling People", interviews from different fields on how to scale teams were published.
+- [Solving the engineering strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - What others call an architect role, Will Larson calls Engineering Strategy as a function.
 - [Spotify Steps Framework](https://engineering.atspotify.com/2016/02/15/spotify-technology-career-steps/) - Spotify&apos;s Step Framework for career evolution around disciplines and roles.
 - [Stripe Scaling engineering organizations](https://stripe.com/en-sg/atlas/guides/scaling-eng) - Raylene Yung on how to scale Stripe&apos;s engineering organization, talking about roles and career paths ([here is an Asia-specific post](https://medium.com/@emdashry/engineering-in-asia-3386dcc26861)).
 - [The SWE Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3) - Classic article by Chuck Groom on career ladders for SWEs and how it maps to attributes and company principles (aka "follow the money").
@@ -169,6 +170,7 @@ See also: Product Manager, Technical Writer
 - [Everything You Know About Web Design Just Changed](https://talks.jensimmons.com/20LmLE/everything-you-know-about-web-design-just-changed) - Jen Simmons seminal talk on the history of design into the digital era (and why CSS is a programming language).
 - [Figma Product Design Ladder](https://nlevin.com/figma/ladder/) - Figma&apos;s career ladder for product designers shows 6 dimensions or responsibilities like product strategy.
 - [Guide to UX research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/) - Canonical article trying to explain all aspects of UX research.
+- [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/) - Heather Buchel's post sounds technical but is actually about the "Web Designer" role, false gendering, equality and equity and user empathy.
 - [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech.
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google&apos;s People + AI Guidebook contains patterns for incorporating AI into product design.
 - [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/) - Marty Cagan on empowered Feature Teams and the role of "Product Designer".
@@ -196,6 +198,7 @@ See also: Solution Architect, Learning and Enablement, Technical Writer
 - [Demystifying developer advocacy](https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy) - Classic article by Angie Jonies giving an overview on Developer Advocacy, especially how it compares to other functions like Marketing (via [this tweet](https://twitter.com/dan_abramov/status/1644373027692462086?s=46&t=efatOS7dSYaf_tnFASZ4LQ)).
 - [Don&apos;t Call It A Platform](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/) - Sam Newman on Platform Engineering and how it&apos;s really Developer Enablement and Experience or "Habitability".
 - [A Guide to Community Operations](https://www.commonroom.io/blog/guide-to-community-operations/) - Advertorial but well explaining the difference between Community Ops, DevRel and Support.
+- [So you want to be a developer advocate?](https://medium.com/@tspann/so-you-want-to-be-a-developer-advocate-8cf836a2226d) - Short post by Tim Spann how their career led to a Developer Advocate role.
 - [Tactical Guide to kickstarting your community](https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community) - Long overview by Orbit on their ideas how to use (their) tools to build an OSS community.
 - [The Developer Advocacy Handbook](https://developer-advocacy.com/) - Chris Heilmann&apos;s Developer Advocacy Handbook has been updated for 11 years and counting.
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - Nader Dabit on the edge between developer advocacy and consulting.
@@ -297,11 +300,12 @@ See also: Learning and Enablement, Developer Advocate
 - [Write the Docs Interview Guide](https://www.writethedocs.org/hiring-guide/) - Write the Docs is a great resource on technical writing and has a role interview guide.
 
 #### Software Engineer (SWE)
-Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead, Product Engineer
+Similar to: Engineer, Software Developer, Software Development Engineer (SDE), Programmer, Coder, Tech Lead, Product Engineer, Applied Engineering
 
 See also: Site Reliability Engineer (SRE)
 
 - [ACM Software Engineering Code of Ethics and Professional Practice](https://ethics.acm.org/code-of-ethics/software-engineering-code/) - The Association for Computing Machinery (ACM) ethics full version has good ideas on teamwork and career of SWE&apos;s.
+- [OpenAI has always been a bit different](https://blog.infinity.ai/ep-2-openai-has-always-been-a-bit-different-evan-morikawa-f43ddfe02b4c) - We don't list "AI Engineer" in this list but under "Design" - this podcast episode covers the opposite, applied engineering on top of machine learning research.
 - [c2 Wiki](https://wiki.c2.com/?SoftwareEngineering) - (For historic context) Ward Cunningham&apos;s original Wiki with a discussion what software engineering means.
 - [Common Tech Jobs Described as Cabals of Mesoamerican Wizards](https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals) - Hilarious story explaining Software Engineer roles like Mobile Engineer to tech-adjacent roles, in particular AI engineers and Data Scientists.
 - [Decoding SWE Job Titles](https://increment.com/teams/decoding-job-titles/) - Increment #11, an overview on SWE specific job titles, especially specialization and seniority.
@@ -329,6 +333,7 @@ See also: Site Reliability Engineer (SRE)
 - [Exploratory Testing](http://kaner.com/?p=46) - For historic reference, Cem Kaner&apos;s classic definition of exploratory testing.
 - [How to review as a junior engineer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958) - Code reviews go into explorative testing.
 - [I test in Prod](https://increment.com/testing/i-test-in-production/) - Charity Majors in Increment #10 sporting her famous observability manifesto.
+- [Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html) - As we list prompt engineering under Design, we list finetuning AI models under QA, as it's typically an aspect of AI Engineer work that improves accuracy to a baseline.
 - [Rethinking Software Testing: Perspectives from the world of Hardware](https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/) - (For comparison) Opinion piece but good insight for more hardware-focused tech roles.
 - [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) - For historic reference, famous rant by DHH on TDD.
 - [Testing Microservices, the sane way](https://copyconstruct.medium.com/testing-microservices-the-sane-way-9bb31d158c16) - Cindy Sridharan&apos;s instant classic overarching framework of testing approaches explaining how QA testers fit in with automation.
@@ -356,7 +361,7 @@ See also: Data Engineer, Support Engineer, Trust and Safety Analysts
 #### Data Engineer
 Similar to: Machine Learning Engineer, AI Engineer, Analytics Engineer, Business Intelligence (Intel) Engineer
 
-See also: Data Analyst, Software Engineer (SWE), Integration Engineer
+See also: Data Analyst, Software Engineer (SWE), Integration Engineer, Quality Assurance (QA) when it comes to data quality and AI finetuning
 
 - [Business Intelligence Engineers](https://hevodata.com/learn/business-intelligence-engineers/) - Advertorial but clear description of a Business Intel Engineer - for comparison with external facing engineers, see also Palantir "Forward Deployed Engineer" below.
 - [Coding habits for data scientists](https://www.thoughtworks.com/en-us/insights/blog/coding-habits-data-scientists) - ThoughtWorks on the edge between data science and engineering.
@@ -437,6 +442,7 @@ See also: Support Engineer, IT Operations, Quality Assurance
 - [Performance Management Maturity Levels](https://infrequently.org/2022/05/performance-management-maturity/#the-role-of-senior-management) - This is actually a list of _software_ performance not _career_ performance points but it contains an interesting section recognizin the need of [management buy-in](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6) for platform work.
 - [Platform as a Product](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Using Team Topologies (see above) to redefine platforms as valuable products (this could also belong to IT Operations, [ongoing discussion on Forrester here](https://www.forrester.com/blogs/platform-product-management-versus-platform-engineering/)).
 - [Production Engineers at Facebook](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch13.html) - Meta&apos;s implementation of DevOps and their version of SRE is the "Production Engineer"; the role is explained in the "Seeking SRE" book.
+- [School of SRE](https://github.com/linkedin/school-of-sre) - LinkedIn's SRE onboarding and training material.
 - [SRE at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin) - Good historic background on how the LinkedIn SRE team evolved very early.
 - [SRE implements DevOps](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends) - OG Seth Vargo and Liz Fong-Jones&apos; legendary blog post and YouTube video series explaining SRE.
 - [SRE in the real world](https://blog.relyabilit.ie/sre-in-the-real-world/) - Niall Murphy, author of many SRE books, explaining Google SREs the difference to SRE in other orgs and interestingly finding the closest similarity with Staff Engineers.
@@ -487,7 +493,7 @@ See also: Sales Engineer, Technical Account Manager (TAM), Customer Success Mana
 - [Value Selling in Strategic Accounts](https://www.richardson.com/sales-resources/strategic-sales-key-account-management-strategy/) - Many pay-as-you-go / consumption businesses look at value selling e.g. with a customer success (CSM) function.
 
 #### Sales Engineer (SE)
-Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales, Demo  /Spike Engineer
+Similar to: Customer Engineer, Principal Architect, Account Strategist, Technical Consultant, Technical Sales, Demo / Spike / PoC Engineer, Solutions Engineer
 
 See also: Technical Account Manager (TAM), Account Manager, Solution Architect, Customer Success Manager (CSM)
 
@@ -501,7 +507,7 @@ See also: Technical Account Manager (TAM), Account Manager, Solution Architect, 
 - [Why top SaaS sales teams are creating a new role, Demo Engineers](https://www.saastock.com/blog/why-top-saas-companies-are-creating-a-new-role-demo-engineers/) - Example of a twist on the SE role, Demo Engineer, especially for No-Code and SaaS companies where the focus lies more on Proof-of-Concept work.
 
 #### Solution Architect (SA)
-Similar to: Solution Sales, Solution Planner, Technology Architect, Technical Architect, Enterprise Architect, Office of the CTO (OCTO), Evangelist, Customer Advocacy
+Similar to: Solutions Architect, Solution Sales, Solution Planner, Technology Architect, Technical Architect, Enterprise Architect, Office of the CTO (OCTO), Evangelist, Customer Advocacy
 
 See also: Sales Engineer (SE), Technical Account Manager (TAM)
 
@@ -539,7 +545,7 @@ See also: Account Manager, Technical Account Manager (TAM), Support Engineer
 
 
 #### Integration Engineer / Consultant
-Similar to: Deployment Engineer / Strategist, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, (Customer) Solution(s) Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE)
+Similar to: Deployment Engineer / Strategist, Migration Engineer, Field Engineer, Professional Services, Delivery Architect, Technology Architect, (Customer) Solution(s) Engineer, Implementation Services, Implementation Consultant, System Engineer, Solutions Engineer, Forward Deployed Software Engineer (FDSE), Client Services Engineer
 
 See also: Solution Architect, Partner Engineer
 
