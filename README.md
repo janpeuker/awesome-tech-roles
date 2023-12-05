@@ -171,6 +171,7 @@ See also: Product Manager, Technical Writer
 - [Figma Product Design Ladder](https://nlevin.com/figma/ladder/) - Figma&apos;s career ladder for product designers shows 6 dimensions or responsibilities like product strategy.
 - [Guide to UX research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/) - Canonical article trying to explain all aspects of UX research.
 - [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/) - Heather Buchel's post sounds technical but is actually about the "Web Designer" role, false gendering, equality and equity and user empathy.
+- [Leading successful product teams](https://arie.ls/2023/leading-successful-product-teams/) - Ariel Salminen's blog is interesting because it equates design systems teams with product teams, interesting aspect to compare to PMs.
 - [Nurturing Design in Your Software Engineering Culture](https://medium.com/nick-tune-tech-strategy-blog/nurturing-design-in-your-software-engineering-culture-3f960d321af) - Nick Tune on a common design culture in Tech.
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - Google&apos;s People + AI Guidebook contains patterns for incorporating AI into product design.
 - [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/) - Marty Cagan on empowered Feature Teams and the role of "Product Designer".
@@ -217,6 +218,7 @@ See also: Program Manager, Developer Advocate, Designer, Product Operations
 
 - [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/product-management-survey) - Very deep research on different PM approaches per company by Lenny Rachitsky.
 - [Advanced time management principles](https://twitter.com/shreyas/status/1492345140492472321) - Long thread by Shreyas Doshi on priorization for product managers going into different approaches for different experience / seniority levels.
+- [Alternatives To Product Managers](https://www.svpg.com/alternatives-to-product-managers/) - Marty Cagan drill deep into the difference between product management as a practice and as a role.
 - [A product managers&apos; guide to API&apos;s](https://medium.com/swlh/a-product-managers-guide-to-apis-c5fffff0e5e0) - Not all products have an interactive UI, good overview on API&apos;s as product (see above Jeff Bezos&apos; API Mandate and below Developer Experience).
 - [Being Glue](https://noidea.dog/glue) - Classic essay by Tanya Reilly on enabling collaboration in engineering (see above "Take jobs that make you grow").
 - [DWP Digital](https://dwpdigital.blog.gov.uk/2018/01/23/why-i-chose-a-business-analyst-career/) - (For Comparison) Explains the Business Analyst role in a public service / government org.
